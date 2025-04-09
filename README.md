@@ -29,5 +29,7 @@ To prepare the models to be used in the the methanogenesis from CO2 & H2 crossfe
 4- Trimmed models are tested to to have an objective biomass value equalt to the one in the original model
 5- Models trimeed and fixed are stored in the models folder  
 
-
+To run the trimming process follow the steps:
+1- Createa virtual enviroment using conda or pip and install `requirements.txt`
+2- run the script `python trimming_models.py` 
   
