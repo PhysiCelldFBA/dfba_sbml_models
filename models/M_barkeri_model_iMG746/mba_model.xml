@@ -9397,7 +9397,7 @@
       <reaction id="R_Cut1" name="Copper export via ATPase" reversible="false">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE_ASSOCIATION: Mbar_A0818 or Mbar_A1889 )</p>
+            <p>GENE_ASSOCIATION: Mbar_A0818 or Mbar_A1889 </p>
             <p>SUBSYSTEM: Transport</p>
           </body>
         </notes>
