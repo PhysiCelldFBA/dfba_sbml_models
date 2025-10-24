@@ -22,25 +22,24 @@ def correct_ids(model, pattern, fix):
     return model
 
 
-def trimm_model(model, eps_tolerance=1e-8, bound_scaling = 1.2):
+def model_trimming(model, eps_tolerance=1e-9, bound_scaling = 1.0):
     cmodel = model.copy()
 
-    fva_dict = flux_variability_analysis(cmodel, processes=10, fraction_of_optimum=0.0)
+    fva_df = flux_variability_analysis(cmodel, processes=10, fraction_of_optimum=0.0)
+
+    blocked_reaction = fva_df.index[ fva_df.abs().max(axis=1) < eps_tolerance ]
     
-    blocked_reaction = []
-    new_bounds = {}
+    mask = fva_df['minimum'].abs() < eps_tolerance
+    fva_df.loc[mask, 'minimum'] = 0.0
     
-    for r in fva_dict.index:
-        lb = fva_dict.loc[r, 'minimum']
-        ub = fva_dict.loc[r, 'maximum']
-        if max(np.abs([lb, ub])) < eps_tolerance:
-            blocked_reaction.append(r)
-        else:
-            if abs(ub) < eps_tolerance:
-                ub = 0.0
-            if abs(lb) < eps_tolerance:
-                lb = 0.0
-            new_bounds[r] = (lb, ub)
+    mask = fva_df['maximum'].abs() < eps_tolerance
+    fva_df.loc[mask, 'maximum'] = 0.0
+    
+    mask = fva_df['minimum'] > eps_tolerance
+    fva_df.loc[mask, 'minimum'] = 0.0
+    
+    maks = fva_df['maximum'] > -eps_tolerance
+    fva_df.loc[mask, 'maximum'] = 0.0
 
     print(f"Removing blocked {len(blocked_reaction)} reactions")
     cmodel.remove_reactions(blocked_reaction)
@@ -63,12 +62,11 @@ def trimm_model(model, eps_tolerance=1e-8, bound_scaling = 1.2):
     remove_genes(cmodel, unconnected_genes)
     
     print("Setting bounds")
-    for r,(lb,ub) in new_bounds.items():
-        rxn = cmodel.reactions.get_by_id(r)
-        rxn.upper_bound = float(ub)
-        rxn.lower_bound = float(lb)
-    
-    
+    for rxn in cmodel.reactions:
+        rxn.lower_bound = float(fva_df.loc[rxn.id, 'minimum'])
+        rxn.upper_bound = float(fva_df.loc[rxn.id, 'maximum'])
+
+
     for r in cmodel.reactions:
         if r.id.startswith("EX") or r.id.startswith("ex"):
             continue
