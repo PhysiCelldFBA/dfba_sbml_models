@@ -8,12 +8,12 @@ This repository contains the genome-scale metabolic models and preprocessing scr
 .
 ├── models/                               Original and curated metabolic models
 ├── modules/                              Python helper functions
-├── C_beijerinckii_model_iCB925.ipynb      Preparation of the C. beijerinckii model
-├── M_barkeri_iMG746_preparation.ipynb     Preparation of the M. barkeri model
-├── load_Zielinski_2017_core_human_models.ipynb
-│                                          Preparation of the MCF7 metabolic model
-├── trimming_models.py                     Standardization and trimming pipeline
-├── retrive_models.sh                      Download publicly available models
+├── notebooks/                            Preparation notebooks for each model
+│   ├── C_beijerinckii_model_iCB925.ipynb
+│   ├── M_barkeri_iMG746_preparation.ipynb
+│   └── load_Zielinski_2017_core_human_models.ipynb
+├── prepare_models.py                     Orchestrates the full curation workflow
+├── retrieve_models.sh                     Download publicly available models
 ├── RPMI_1640_media.json                   RPMI-1640 medium composition
 ├── requirements.txt
 ├── LICENSE
@@ -121,7 +121,7 @@ The repository also includes the supplementary material from the original public
 The publicly available models can be downloaded automatically by running
 
 ```bash
-bash retrive_models.sh
+bash retrieve_models.sh
 ```
 
 This script downloads:
@@ -167,14 +167,14 @@ pip install -r requirements.txt
 Then execute
 
 ```bash
-python trimming_models.py
+python prepare_models.py
 ```
 
-Model-specific preparation steps are documented in the accompanying notebooks:
+Model-specific preparation steps are documented in the accompanying notebooks under the notebooks directory:
 
-- `C_beijerinckii_model_iCB925.ipynb`
-- `M_barkeri_iMG746_preparation.ipynb`
-- `load_Zielinski_2017_core_human_models.ipynb`
+- `notebooks/C_beijerinckii_model_iCB925.ipynb`
+- `notebooks/M_barkeri_iMG746_preparation.ipynb`
+- `notebooks/load_Zielinski_2017_core_human_models.ipynb`
 
 These notebooks describe the preprocessing performed to generate the curated models used in the PhysiCelldFBA simulation examples.
 

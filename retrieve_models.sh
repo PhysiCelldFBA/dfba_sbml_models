@@ -1,6 +1,6 @@
 echo "Downloading C. beijerinckii (iCB925) model"
-wget "https://www.ebi.ac.uk/biomodels/services/download/get-files/MODEL1507180034/2/MODEL1507180034_url.xml" --output-document models/C_iCB925_beijerinckii.xml
-echo "Model stored in models/C_beijerinckii_iCB925.xml"
+wget "https://www.ebi.ac.uk/biomodels/services/download/get-files/MODEL1507180034/2/MODEL1507180034_url.xml" --output-document models/iCB925.xml
+echo "Model stored in models/iCB925.xml"
 echo
 
 echo "Downloading M. barkeri (iMG746) model"
