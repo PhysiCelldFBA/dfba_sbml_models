@@ -8,10 +8,10 @@ This repository contains the genome-scale metabolic models and preprocessing scr
 .
 ├── models/                               Original and curated metabolic models
 ├── modules/                              Python helper functions
-├── C_beijerinckii_model_iCB925.ipynb      Preparation of the C. beijerinckii model
-├── M_barkeri_iMG746_preparation.ipynb     Preparation of the M. barkeri model
-├── load_Zielinski_2017_core_human_models.ipynb
-│                                          Preparation of the MCF7 metabolic model
+├── notebooks/                            Preparation notebooks for each model
+│   ├── C_beijerinckii_model_iCB925.ipynb
+│   ├── M_barkeri_iMG746_preparation.ipynb
+│   └── load_Zielinski_2017_core_human_models.ipynb
 ├── prepare_models.py                     Orchestrates the full curation workflow
 ├── retrieve_models.sh                     Download publicly available models
 ├── RPMI_1640_media.json                   RPMI-1640 medium composition
