@@ -16,6 +16,8 @@ from typing import Dict, Tuple
 import cobra
 import numpy as np
 from cobra.io import read_sbml_model, validate_sbml_model, write_sbml_model
+from cobra.flux_analysis import flux_variability_analysis
+from cobra.manipulation.delete import remove_genes
 
 try:
     from scipy.io import loadmat
@@ -160,11 +162,109 @@ def trim_models() -> None:
     for path in [
         MODELS_DIR / "C_beijerinckii_model_iCB925_trimmed.xml",
         MODELS_DIR / "M_barkeri_model_iMG746_trimmed.xml",
+        MODELS_DIR / "iML1515_trimmed_glc_fva99.xml",
+        MODELS_DIR / "iML1515_trimmed_acetate_fva99.xml",
     ]:
         if not path.exists():
             raise FileNotFoundError(f"Expected trimmed model missing: {path}")
         model = read_sbml_model(str(path))
         print(f"- {model.id}: {len(model.reactions)} reactions, {len(model.metabolites)} metabolites")
+
+
+def prepare_iml1515() -> None:
+    """Prepare iML1515 under simple aerobic glucose and acetate minimal media.
+
+    This creates two trimmed artifacts that preserve near-optimal growth
+    using FVA at 99%% of the optimum.
+    """
+    print("Preparing iML1515 model (glucose/acetate minimal media)")
+
+    original_model_path = MODELS_DIR / "iML1515.xml"
+    out_glc = MODELS_DIR / "iML1515_trimmed_glc_fva99.xml"
+    out_ac = MODELS_DIR / "iML1515_trimmed_acetate_fva99.xml"
+
+    if not original_model_path.exists():
+        raise FileNotFoundError(f"Missing iML1515 model: {original_model_path}")
+
+    model = read_sbml_model(str(original_model_path))
+
+    # Ensure the canonical biomass reaction is selected as objective when present
+    biomass_candidates = [r for r in model.reactions if r.id.startswith("BIOMASS")]
+    if biomass_candidates:
+        for rxn in model.reactions:
+            rxn.objective_coefficient = 0
+        biomass_candidates[0].objective_coefficient = 1
+        print(f"Set objective to: {biomass_candidates[0].id}")
+
+    common_ions = [
+        "EX_nh4_e",
+        "EX_pi_e",
+        "EX_so4_e",
+        "EX_k_e",
+        "EX_na1_e",
+        "EX_h2o_e",
+        "EX_h_e",
+        "EX_ca2_e",
+        "EX_mg2_e",
+    ]
+
+    def _trim_preserve_optimal(m_in, fraction=0.99, eps=1e-9, bound_scaling=10.0):
+        m = m_in.copy()
+        fva = flux_variability_analysis(m, processes=4, fraction_of_optimum=fraction)
+        blocked = fva.index[fva.abs().max(axis=1) < eps]
+        if len(blocked) > 0:
+            m.remove_reactions(blocked)
+        gap_mets = [met for met in m.metabolites if all(r.id in blocked for r in met.reactions)]
+        if gap_mets:
+            m.remove_metabolites(gap_mets)
+        unconnected = [g for g in m.genes if len(g.reactions) == 0]
+        if unconnected:
+            remove_genes(m, unconnected)
+        # widen bounds to be conservative
+        for rxn in m.reactions:
+            if rxn.upper_bound > 0:
+                rxn.upper_bound *= bound_scaling
+            if rxn.lower_bound < 0:
+                rxn.lower_bound *= bound_scaling
+        return m
+
+    # Glucose aerobic minimal
+    mg = model.copy()
+    if "EX_glc__D_e" in mg.reactions:
+        mg.reactions.EX_glc__D_e.lower_bound = -10.0
+    if "EX_o2_e" in mg.reactions:
+        mg.reactions.EX_o2_e.lower_bound = -20.0
+    for rid in common_ions:
+        if rid in mg.reactions:
+            mg.reactions.get_by_id(rid).lower_bound = -100.0
+
+    print("Glucose pre-trim objective:", mg.optimize().objective_value)
+    trimmed_g = _trim_preserve_optimal(mg, fraction=0.99, bound_scaling=10.0)
+    for r in trimmed_g.exchanges:
+        if r.upper_bound > 0:
+            r.upper_bound = 100
+    write_sbml_model(trimmed_g, str(out_glc))
+    print(f"Wrote {out_glc}")
+    print("Glucose trimmed objective:", trimmed_g.optimize().objective_value)
+
+    # Acetate aerobic minimal
+    ma = model.copy()
+    if "EX_ac_e" in ma.reactions:
+        ma.reactions.EX_ac_e.lower_bound = -10.0
+    if "EX_o2_e" in ma.reactions:
+        ma.reactions.EX_o2_e.lower_bound = -20.0
+    for rid in common_ions:
+        if rid in ma.reactions:
+            ma.reactions.get_by_id(rid).lower_bound = -100.0
+
+    print("Acetate pre-trim objective:", ma.optimize().objective_value)
+    trimmed_a = _trim_preserve_optimal(ma, fraction=0.99, bound_scaling=10.0)
+    for r in trimmed_a.exchanges:
+        if r.upper_bound > 0:
+            r.upper_bound = 100
+    write_sbml_model(trimmed_a, str(out_ac))
+    print(f"Wrote {out_ac}")
+    print("Acetate trimmed objective:", trimmed_a.optimize().objective_value)
 
 
 def _normalize_gene_id(gid: str) -> str:
@@ -348,6 +448,7 @@ def prepare_mcf7() -> None:
 def main() -> None:
     prepare_clostridium()
     prepare_methanosarcina()
+    prepare_iml1515()
     trim_models()
     prepare_mcf7()
 
