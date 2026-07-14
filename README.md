@@ -170,11 +170,11 @@ Then execute
 python prepare_models.py
 ```
 
-Model-specific preparation steps are documented in the accompanying notebooks:
+Model-specific preparation steps are documented in the accompanying notebooks under the notebooks directory:
 
-- `C_beijerinckii_model_iCB925.ipynb`
-- `M_barkeri_iMG746_preparation.ipynb`
-- `load_Zielinski_2017_core_human_models.ipynb`
+- `notebooks/C_beijerinckii_model_iCB925.ipynb`
+- `notebooks/M_barkeri_iMG746_preparation.ipynb`
+- `notebooks/load_Zielinski_2017_core_human_models.ipynb`
 
 These notebooks describe the preprocessing performed to generate the curated models used in the PhysiCelldFBA simulation examples.
 
