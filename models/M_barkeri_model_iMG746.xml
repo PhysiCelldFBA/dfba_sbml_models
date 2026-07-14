@@ -21307,14 +21307,14 @@
       <fbc:geneProduct fbc:id="G_Mbar_A0587" fbc:name="Mbar_A0587" fbc:label="G_Mbar_A0587"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2003" fbc:name="Mbar_A2003" fbc:label="G_Mbar_A2003"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1820" fbc:name="Mbar_A1820" fbc:label="G_Mbar_A1820"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2915" fbc:name="Mbar_A2915" fbc:label="G_Mbar_A2915"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2916" fbc:name="Mbar_A2916" fbc:label="G_Mbar_A2916"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2915" fbc:name="Mbar_A2915" fbc:label="G_Mbar_A2915"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0219" fbc:name="Mbar_A0219" fbc:label="G_Mbar_A0219"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0210" fbc:name="Mbar_A0210" fbc:label="G_Mbar_A0210"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0428" fbc:name="Mbar_A0428" fbc:label="G_Mbar_A0428"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2541" fbc:name="Mbar_A2541" fbc:label="G_Mbar_A2541"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0438" fbc:name="Mbar_A0438" fbc:label="G_Mbar_A0438"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0218" fbc:name="Mbar_A0218" fbc:label="G_Mbar_A0218"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0210" fbc:name="Mbar_A0210" fbc:label="G_Mbar_A0210"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2541" fbc:name="Mbar_A2541" fbc:label="G_Mbar_A2541"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2906" fbc:name="Mbar_A2906" fbc:label="G_Mbar_A2906"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0871" fbc:name="Mbar_A0871" fbc:label="G_Mbar_A0871"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3279" fbc:name="Mbar_A3279" fbc:label="G_Mbar_A3279"/>
@@ -21340,28 +21340,28 @@
       <fbc:geneProduct fbc:id="G_Mbar_A2427" fbc:name="Mbar_A2427" fbc:label="G_Mbar_A2427"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1202" fbc:name="Mbar_A1202" fbc:label="G_Mbar_A1202"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0571" fbc:name="Mbar_A0571" fbc:label="G_Mbar_A0571"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3125" fbc:name="Mbar_A3125" fbc:label="G_Mbar_A3125"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3291" fbc:name="Mbar_A3291" fbc:label="G_Mbar_A3291"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0762" fbc:name="Mbar_A0762" fbc:label="G_Mbar_A0762"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3291" fbc:name="Mbar_A3291" fbc:label="G_Mbar_A3291"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3125" fbc:name="Mbar_A3125" fbc:label="G_Mbar_A3125"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2192" fbc:name="Mbar_A2192" fbc:label="G_Mbar_A2192"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0942" fbc:name="Mbar_A0942" fbc:label="G_Mbar_A0942"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1231" fbc:name="Mbar_A1231" fbc:label="G_Mbar_A1231"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2080" fbc:name="Mbar_A2080" fbc:label="G_Mbar_A2080"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1137" fbc:name="Mbar_A1137" fbc:label="G_Mbar_A1137"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1361" fbc:name="Mbar_A1361" fbc:label="G_Mbar_A1361"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2092" fbc:name="Mbar_A2092" fbc:label="G_Mbar_A2092"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1361" fbc:name="Mbar_A1361" fbc:label="G_Mbar_A1361"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2656" fbc:name="Mbar_A2656" fbc:label="G_Mbar_A2656"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2344" fbc:name="Mbar_A2344" fbc:label="G_Mbar_A2344"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0771" fbc:name="Mbar_A0771" fbc:label="G_Mbar_A0771"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0775" fbc:name="Mbar_A0775" fbc:label="G_Mbar_A0775"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0774" fbc:name="Mbar_A0774" fbc:label="G_Mbar_A0774"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0775" fbc:name="Mbar_A0775" fbc:label="G_Mbar_A0775"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2387" fbc:name="Mbar_A2387" fbc:label="G_Mbar_A2387"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3624" fbc:name="Mbar_A3624" fbc:label="G_Mbar_A3624"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3627" fbc:name="Mbar_A3627" fbc:label="G_Mbar_A3627"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3626" fbc:name="Mbar_A3626" fbc:label="G_Mbar_A3626"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3627" fbc:name="Mbar_A3627" fbc:label="G_Mbar_A3627"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3455" fbc:name="Mbar_A3455" fbc:label="G_Mbar_A3455"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2492" fbc:name="Mbar_A2492" fbc:label="G_Mbar_A2492"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2039" fbc:name="Mbar_A2039" fbc:label="G_Mbar_A2039"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2492" fbc:name="Mbar_A2492" fbc:label="G_Mbar_A2492"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1693" fbc:name="Mbar_A1693" fbc:label="G_Mbar_A1693"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0004" fbc:name="Mbar_A0004" fbc:label="G_Mbar_A0004"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2373" fbc:name="Mbar_A2373" fbc:label="G_Mbar_A2373"/>
@@ -21374,32 +21374,32 @@
       <fbc:geneProduct fbc:id="G_Mbar_A1168" fbc:name="Mbar_A1168" fbc:label="G_Mbar_A1168"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1167" fbc:name="Mbar_A1167" fbc:label="G_Mbar_A1167"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0861" fbc:name="Mbar_A0861" fbc:label="G_Mbar_A0861"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2083" fbc:name="Mbar_A2083" fbc:label="G_Mbar_A2083"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3113" fbc:name="Mbar_A3113" fbc:label="G_Mbar_A3113"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2083" fbc:name="Mbar_A2083" fbc:label="G_Mbar_A2083"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1546" fbc:name="Mbar_A1546" fbc:label="G_Mbar_A1546"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3173" fbc:name="Mbar_A3173" fbc:label="G_Mbar_A3173"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1602" fbc:name="Mbar_A1602" fbc:label="G_Mbar_A1602"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1603" fbc:name="Mbar_A1603" fbc:label="G_Mbar_A1603"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1604" fbc:name="Mbar_A1604" fbc:label="G_Mbar_A1604"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1603" fbc:name="Mbar_A1603" fbc:label="G_Mbar_A1603"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1312" fbc:name="Mbar_A1312" fbc:label="G_Mbar_A1312"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2777" fbc:name="Mbar_A2777" fbc:label="G_Mbar_A2777"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2778" fbc:name="Mbar_A2778" fbc:label="G_Mbar_A2778"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0385" fbc:name="Mbar_A0385" fbc:label="G_Mbar_A0385"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0389" fbc:name="Mbar_A0389" fbc:label="G_Mbar_A0389"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0384" fbc:name="Mbar_A0384" fbc:label="G_Mbar_A0384"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0388" fbc:name="Mbar_A0388" fbc:label="G_Mbar_A0388"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0391" fbc:name="Mbar_A0391" fbc:label="G_Mbar_A0391"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0389" fbc:name="Mbar_A0389" fbc:label="G_Mbar_A0389"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0385" fbc:name="Mbar_A0385" fbc:label="G_Mbar_A0385"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0386" fbc:name="Mbar_A0386" fbc:label="G_Mbar_A0386"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0379" fbc:name="Mbar_A0379" fbc:label="G_Mbar_A0379"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0378" fbc:name="Mbar_A0378" fbc:label="G_Mbar_A0378"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0390" fbc:name="Mbar_A0390" fbc:label="G_Mbar_A0390"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0392" fbc:name="Mbar_A0392" fbc:label="G_Mbar_A0392"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0387" fbc:name="Mbar_A0387" fbc:label="G_Mbar_A0387"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0379" fbc:name="Mbar_A0379" fbc:label="G_Mbar_A0379"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0386" fbc:name="Mbar_A0386" fbc:label="G_Mbar_A0386"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0378" fbc:name="Mbar_A0378" fbc:label="G_Mbar_A0378"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0384" fbc:name="Mbar_A0384" fbc:label="G_Mbar_A0384"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0388" fbc:name="Mbar_A0388" fbc:label="G_Mbar_A0388"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3252" fbc:name="Mbar_A3252" fbc:label="G_Mbar_A3252"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1588" fbc:name="Mbar_A1588" fbc:label="G_Mbar_A1588"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0671" fbc:name="Mbar_A0671" fbc:label="G_Mbar_A0671"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0806" fbc:name="Mbar_A0806" fbc:label="G_Mbar_A0806"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1222" fbc:name="Mbar_A1222" fbc:label="G_Mbar_A1222"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0806" fbc:name="Mbar_A0806" fbc:label="G_Mbar_A0806"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0586" fbc:name="Mbar_A0586" fbc:label="G_Mbar_A0586"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0500" fbc:name="Mbar_A0500" fbc:label="G_Mbar_A0500"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0406" fbc:name="Mbar_A0406" fbc:label="G_Mbar_A0406"/>
@@ -21408,13 +21408,13 @@
       <fbc:geneProduct fbc:id="G_Mbar_A2253" fbc:name="Mbar_A2253" fbc:label="G_Mbar_A2253"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1365" fbc:name="Mbar_A1365" fbc:label="G_Mbar_A1365"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2260" fbc:name="Mbar_A2260" fbc:label="G_Mbar_A2260"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2261" fbc:name="Mbar_A2261" fbc:label="G_Mbar_A2261"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2262" fbc:name="Mbar_A2262" fbc:label="G_Mbar_A2262"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2375" fbc:name="Mbar_A2375" fbc:label="G_Mbar_A2375"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2261" fbc:name="Mbar_A2261" fbc:label="G_Mbar_A2261"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2374" fbc:name="Mbar_A2374" fbc:label="G_Mbar_A2374"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3337" fbc:name="Mbar_A3337" fbc:label="G_Mbar_A3337"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2375" fbc:name="Mbar_A2375" fbc:label="G_Mbar_A2375"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0343" fbc:name="Mbar_A0343" fbc:label="G_Mbar_A0343"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3446" fbc:name="Mbar_A3446" fbc:label="G_Mbar_A3446"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3337" fbc:name="Mbar_A3337" fbc:label="G_Mbar_A3337"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1250" fbc:name="Mbar_A1250" fbc:label="G_Mbar_A1250"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1936" fbc:name="Mbar_A1936" fbc:label="G_Mbar_A1936"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0874" fbc:name="Mbar_A0874" fbc:label="G_Mbar_A0874"/>
@@ -21425,30 +21425,30 @@
       <fbc:geneProduct fbc:id="G_Mbar_A0244" fbc:name="Mbar_A0244" fbc:label="G_Mbar_A0244"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3126" fbc:name="Mbar_A3126" fbc:label="G_Mbar_A3126"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1438" fbc:name="Mbar_A1438" fbc:label="G_Mbar_A1438"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0700" fbc:name="Mbar_A0700" fbc:label="G_Mbar_A0700"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3671" fbc:name="Mbar_A3671" fbc:label="G_Mbar_A3671"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1720" fbc:name="Mbar_A1720" fbc:label="G_Mbar_A1720"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2809" fbc:name="Mbar_A2809" fbc:label="G_Mbar_A2809"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2810" fbc:name="Mbar_A2810" fbc:label="G_Mbar_A2810"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0700" fbc:name="Mbar_A0700" fbc:label="G_Mbar_A0700"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2983" fbc:name="Mbar_A2983" fbc:label="G_Mbar_A2983"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0797" fbc:name="Mbar_A0797" fbc:label="G_Mbar_A0797"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1795" fbc:name="Mbar_A1795" fbc:label="G_Mbar_A1795"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2144" fbc:name="Mbar_A2144" fbc:label="G_Mbar_A2144"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2810" fbc:name="Mbar_A2810" fbc:label="G_Mbar_A2810"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2809" fbc:name="Mbar_A2809" fbc:label="G_Mbar_A2809"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3731" fbc:name="Mbar_A3731" fbc:label="G_Mbar_A3731"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2144" fbc:name="Mbar_A2144" fbc:label="G_Mbar_A2144"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1795" fbc:name="Mbar_A1795" fbc:label="G_Mbar_A1795"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0797" fbc:name="Mbar_A0797" fbc:label="G_Mbar_A0797"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1771" fbc:name="Mbar_A1771" fbc:label="G_Mbar_A1771"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3525" fbc:name="Mbar_A3525" fbc:label="G_Mbar_A3525"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0432" fbc:name="Mbar_A0432" fbc:label="G_Mbar_A0432"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0199" fbc:name="Mbar_A0199" fbc:label="G_Mbar_A0199"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0429" fbc:name="Mbar_A0429" fbc:label="G_Mbar_A0429"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0434" fbc:name="Mbar_A0434" fbc:label="G_Mbar_A0434"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0203" fbc:name="Mbar_A0203" fbc:label="G_Mbar_A0203"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0429" fbc:name="Mbar_A0429" fbc:label="G_Mbar_A0429"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3717" fbc:name="Mbar_A3717" fbc:label="G_Mbar_A3717"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0202" fbc:name="Mbar_A0202" fbc:label="G_Mbar_A0202"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0204" fbc:name="Mbar_A0204" fbc:label="G_Mbar_A0204"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0434" fbc:name="Mbar_A0434" fbc:label="G_Mbar_A0434"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3525" fbc:name="Mbar_A3525" fbc:label="G_Mbar_A3525"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0433" fbc:name="Mbar_A0433" fbc:label="G_Mbar_A0433"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0432" fbc:name="Mbar_A0432" fbc:label="G_Mbar_A0432"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0200" fbc:name="Mbar_A0200" fbc:label="G_Mbar_A0200"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0430" fbc:name="Mbar_A0430" fbc:label="G_Mbar_A0430"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3526" fbc:name="Mbar_A3526" fbc:label="G_Mbar_A3526"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3717" fbc:name="Mbar_A3717" fbc:label="G_Mbar_A3717"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0199" fbc:name="Mbar_A0199" fbc:label="G_Mbar_A0199"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0204" fbc:name="Mbar_A0204" fbc:label="G_Mbar_A0204"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0626" fbc:name="Mbar_A0626" fbc:label="G_Mbar_A0626"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0629" fbc:name="Mbar_A0629" fbc:label="G_Mbar_A0629"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0627" fbc:name="Mbar_A0627" fbc:label="G_Mbar_A0627"/>
@@ -21459,160 +21459,160 @@
       <fbc:geneProduct fbc:id="G_Mbar_A0715" fbc:name="Mbar_A0715" fbc:label="G_Mbar_A0715"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3003" fbc:name="Mbar_A3003" fbc:label="G_Mbar_A3003"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3518" fbc:name="Mbar_A3518" fbc:label="G_Mbar_A3518"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0348" fbc:name="Mbar_A0348" fbc:label="G_Mbar_A0348"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1187" fbc:name="Mbar_A1187" fbc:label="G_Mbar_A1187"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0348" fbc:name="Mbar_A0348" fbc:label="G_Mbar_A0348"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2158" fbc:name="Mbar_A2158" fbc:label="G_Mbar_A2158"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3023" fbc:name="Mbar_A3023" fbc:label="G_Mbar_A3023"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2422" fbc:name="Mbar_A2422" fbc:label="G_Mbar_A2422"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1653" fbc:name="Mbar_A1653" fbc:label="G_Mbar_A1653"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0083" fbc:name="Mbar_A0083" fbc:label="G_Mbar_A0083"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1823" fbc:name="Mbar_A1823" fbc:label="G_Mbar_A1823"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2221" fbc:name="Mbar_A2221" fbc:label="G_Mbar_A2221"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2145" fbc:name="Mbar_A2145" fbc:label="G_Mbar_A2145"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2148" fbc:name="Mbar_A2148" fbc:label="G_Mbar_A2148"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1216" fbc:name="Mbar_A1216" fbc:label="G_Mbar_A1216"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0565" fbc:name="Mbar_A0565" fbc:label="G_Mbar_A0565"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0583" fbc:name="Mbar_A0583" fbc:label="G_Mbar_A0583"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2146" fbc:name="Mbar_A2146" fbc:label="G_Mbar_A2146"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2149" fbc:name="Mbar_A2149" fbc:label="G_Mbar_A2149"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1217" fbc:name="Mbar_A1217" fbc:label="G_Mbar_A1217"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1219" fbc:name="Mbar_A1219" fbc:label="G_Mbar_A1219"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0585" fbc:name="Mbar_A0585" fbc:label="G_Mbar_A0585"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0584" fbc:name="Mbar_A0584" fbc:label="G_Mbar_A0584"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1823" fbc:name="Mbar_A1823" fbc:label="G_Mbar_A1823"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1218" fbc:name="Mbar_A1218" fbc:label="G_Mbar_A1218"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2146" fbc:name="Mbar_A2146" fbc:label="G_Mbar_A2146"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0583" fbc:name="Mbar_A0583" fbc:label="G_Mbar_A0583"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0584" fbc:name="Mbar_A0584" fbc:label="G_Mbar_A0584"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0565" fbc:name="Mbar_A0565" fbc:label="G_Mbar_A0565"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1216" fbc:name="Mbar_A1216" fbc:label="G_Mbar_A1216"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2149" fbc:name="Mbar_A2149" fbc:label="G_Mbar_A2149"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2148" fbc:name="Mbar_A2148" fbc:label="G_Mbar_A2148"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1217" fbc:name="Mbar_A1217" fbc:label="G_Mbar_A1217"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0585" fbc:name="Mbar_A0585" fbc:label="G_Mbar_A0585"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2145" fbc:name="Mbar_A2145" fbc:label="G_Mbar_A2145"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1219" fbc:name="Mbar_A1219" fbc:label="G_Mbar_A1219"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0708" fbc:name="Mbar_A0708" fbc:label="G_Mbar_A0708"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1889" fbc:name="Mbar_A1889" fbc:label="G_Mbar_A1889"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0818" fbc:name="Mbar_A0818" fbc:label="G_Mbar_A0818"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1889" fbc:name="Mbar_A1889" fbc:label="G_Mbar_A1889"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1641" fbc:name="Mbar_A1641" fbc:label="G_Mbar_A1641"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1524" fbc:name="Mbar_A1524" fbc:label="G_Mbar_A1524"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0853" fbc:name="Mbar_A0853" fbc:label="G_Mbar_A0853"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1048" fbc:name="Mbar_A1048" fbc:label="G_Mbar_A1048"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0489" fbc:name="Mbar_A0489" fbc:label="G_Mbar_A0489"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0752" fbc:name="Mbar_A0752" fbc:label="G_Mbar_A0752"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0489" fbc:name="Mbar_A0489" fbc:label="G_Mbar_A0489"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1048" fbc:name="Mbar_A1048" fbc:label="G_Mbar_A1048"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1863" fbc:name="Mbar_A1863" fbc:label="G_Mbar_A1863"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3582" fbc:name="Mbar_A3582" fbc:label="G_Mbar_A3582"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2284" fbc:name="Mbar_A2284" fbc:label="G_Mbar_A2284"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2069" fbc:name="Mbar_A2069" fbc:label="G_Mbar_A2069"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1151" fbc:name="Mbar_A1151" fbc:label="G_Mbar_A1151"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1150" fbc:name="Mbar_A1150" fbc:label="G_Mbar_A1150"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1466" fbc:name="Mbar_A1466" fbc:label="G_Mbar_A1466"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1467" fbc:name="Mbar_A1467" fbc:label="G_Mbar_A1467"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1466" fbc:name="Mbar_A1466" fbc:label="G_Mbar_A1466"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1783" fbc:name="Mbar_A1783" fbc:label="G_Mbar_A1783"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1067" fbc:name="Mbar_A1067" fbc:label="G_Mbar_A1067"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0141" fbc:name="Mbar_A0141" fbc:label="G_Mbar_A0141"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1068" fbc:name="Mbar_A1068" fbc:label="G_Mbar_A1068"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2490" fbc:name="Mbar_A2490" fbc:label="G_Mbar_A2490"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2491" fbc:name="Mbar_A2491" fbc:label="G_Mbar_A2491"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1068" fbc:name="Mbar_A1068" fbc:label="G_Mbar_A1068"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1067" fbc:name="Mbar_A1067" fbc:label="G_Mbar_A1067"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0141" fbc:name="Mbar_A0141" fbc:label="G_Mbar_A0141"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2314" fbc:name="Mbar_A2314" fbc:label="G_Mbar_A2314"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2459" fbc:name="Mbar_A2459" fbc:label="G_Mbar_A2459"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1077" fbc:name="Mbar_A1077" fbc:label="G_Mbar_A1077"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2125" fbc:name="Mbar_A2125" fbc:label="G_Mbar_A2125"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1077" fbc:name="Mbar_A1077" fbc:label="G_Mbar_A1077"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0922" fbc:name="Mbar_A0922" fbc:label="G_Mbar_A0922"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0921" fbc:name="Mbar_A0921" fbc:label="G_Mbar_A0921"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2900" fbc:name="Mbar_A2900" fbc:label="G_Mbar_A2900"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1417" fbc:name="Mbar_A1417" fbc:label="G_Mbar_A1417"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0848" fbc:name="Mbar_A0848" fbc:label="G_Mbar_A0848"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0847" fbc:name="Mbar_A0847" fbc:label="G_Mbar_A0847"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3415" fbc:name="Mbar_A3415" fbc:label="G_Mbar_A3415"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3416" fbc:name="Mbar_A3416" fbc:label="G_Mbar_A3416"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3417" fbc:name="Mbar_A3417" fbc:label="G_Mbar_A3417"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3415" fbc:name="Mbar_A3415" fbc:label="G_Mbar_A3415"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0975" fbc:name="Mbar_A0975" fbc:label="G_Mbar_A0975"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1098" fbc:name="Mbar_A1098" fbc:label="G_Mbar_A1098"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3188" fbc:name="Mbar_A3188" fbc:label="G_Mbar_A3188"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0147" fbc:name="Mbar_A0147" fbc:label="G_Mbar_A0147"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2455" fbc:name="Mbar_A2455" fbc:label="G_Mbar_A2455"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0148" fbc:name="Mbar_A0148" fbc:label="G_Mbar_A0148"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0152" fbc:name="Mbar_A0152" fbc:label="G_Mbar_A0152"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0151" fbc:name="Mbar_A0151" fbc:label="G_Mbar_A0151"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0149" fbc:name="Mbar_A0149" fbc:label="G_Mbar_A0149"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0152" fbc:name="Mbar_A0152" fbc:label="G_Mbar_A0152"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0150" fbc:name="Mbar_A0150" fbc:label="G_Mbar_A0150"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0148" fbc:name="Mbar_A0148" fbc:label="G_Mbar_A0148"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2455" fbc:name="Mbar_A2455" fbc:label="G_Mbar_A2455"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0151" fbc:name="Mbar_A0151" fbc:label="G_Mbar_A0151"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0147" fbc:name="Mbar_A0147" fbc:label="G_Mbar_A0147"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2850" fbc:name="Mbar_A2850" fbc:label="G_Mbar_A2850"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1776" fbc:name="Mbar_A1776" fbc:label="G_Mbar_A1776"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3400" fbc:name="Mbar_A3400" fbc:label="G_Mbar_A3400"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3411" fbc:name="Mbar_A3411" fbc:label="G_Mbar_A3411"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3409" fbc:name="Mbar_A3409" fbc:label="G_Mbar_A3409"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3401" fbc:name="Mbar_A3401" fbc:label="G_Mbar_A3401"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3404" fbc:name="Mbar_A3404" fbc:label="G_Mbar_A3404"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3407" fbc:name="Mbar_A3407" fbc:label="G_Mbar_A3407"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0255" fbc:name="Mbar_A0255" fbc:label="G_Mbar_A0255"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3412" fbc:name="Mbar_A3412" fbc:label="G_Mbar_A3412"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3410" fbc:name="Mbar_A3410" fbc:label="G_Mbar_A3410"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3408" fbc:name="Mbar_A3408" fbc:label="G_Mbar_A3408"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3400" fbc:name="Mbar_A3400" fbc:label="G_Mbar_A3400"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3405" fbc:name="Mbar_A3405" fbc:label="G_Mbar_A3405"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3403" fbc:name="Mbar_A3403" fbc:label="G_Mbar_A3403"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3401" fbc:name="Mbar_A3401" fbc:label="G_Mbar_A3401"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0255" fbc:name="Mbar_A0255" fbc:label="G_Mbar_A0255"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3411" fbc:name="Mbar_A3411" fbc:label="G_Mbar_A3411"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3402" fbc:name="Mbar_A3402" fbc:label="G_Mbar_A3402"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3404" fbc:name="Mbar_A3404" fbc:label="G_Mbar_A3404"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3403" fbc:name="Mbar_A3403" fbc:label="G_Mbar_A3403"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3408" fbc:name="Mbar_A3408" fbc:label="G_Mbar_A3408"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3406" fbc:name="Mbar_A3406" fbc:label="G_Mbar_A3406"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3410" fbc:name="Mbar_A3410" fbc:label="G_Mbar_A3410"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3407" fbc:name="Mbar_A3407" fbc:label="G_Mbar_A3407"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3409" fbc:name="Mbar_A3409" fbc:label="G_Mbar_A3409"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2179" fbc:name="Mbar_A2179" fbc:label="G_Mbar_A2179"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3353" fbc:name="Mbar_A3353" fbc:label="G_Mbar_A3353"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1095" fbc:name="Mbar_A1095" fbc:label="G_Mbar_A1095"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0254" fbc:name="Mbar_A0254" fbc:label="G_Mbar_A0254"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1847" fbc:name="Mbar_A1847" fbc:label="G_Mbar_A1847"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1839" fbc:name="Mbar_A1839" fbc:label="G_Mbar_A1839"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1846" fbc:name="Mbar_A1846" fbc:label="G_Mbar_A1846"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1841" fbc:name="Mbar_A1841" fbc:label="G_Mbar_A1841"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1845" fbc:name="Mbar_A1845" fbc:label="G_Mbar_A1845"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1846" fbc:name="Mbar_A1846" fbc:label="G_Mbar_A1846"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1840" fbc:name="Mbar_A1840" fbc:label="G_Mbar_A1840"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0449" fbc:name="Mbar_A0449" fbc:label="G_Mbar_A0449"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1845" fbc:name="Mbar_A1845" fbc:label="G_Mbar_A1845"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0451" fbc:name="Mbar_A0451" fbc:label="G_Mbar_A0451"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0452" fbc:name="Mbar_A0452" fbc:label="G_Mbar_A0452"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0450" fbc:name="Mbar_A0450" fbc:label="G_Mbar_A0450"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0920" fbc:name="Mbar_A0920" fbc:label="G_Mbar_A0920"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0449" fbc:name="Mbar_A0449" fbc:label="G_Mbar_A0449"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0753" fbc:name="Mbar_A0753" fbc:label="G_Mbar_A0753"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0920" fbc:name="Mbar_A0920" fbc:label="G_Mbar_A0920"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1836" fbc:name="Mbar_A1836" fbc:label="G_Mbar_A1836"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1249" fbc:name="Mbar_A1249" fbc:label="G_Mbar_A1249"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1286" fbc:name="Mbar_A1286" fbc:label="G_Mbar_A1286"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0998" fbc:name="Mbar_A0998" fbc:label="G_Mbar_A0998"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1172" fbc:name="Mbar_A1172" fbc:label="G_Mbar_A1172"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0513" fbc:name="Mbar_A0513" fbc:label="G_Mbar_A0513"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0510" fbc:name="Mbar_A0510" fbc:label="G_Mbar_A0510"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0509" fbc:name="Mbar_A0509" fbc:label="G_Mbar_A0509"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1174" fbc:name="Mbar_A1174" fbc:label="G_Mbar_A1174"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1286" fbc:name="Mbar_A1286" fbc:label="G_Mbar_A1286"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0513" fbc:name="Mbar_A0513" fbc:label="G_Mbar_A0513"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0998" fbc:name="Mbar_A0998" fbc:label="G_Mbar_A0998"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1173" fbc:name="Mbar_A1173" fbc:label="G_Mbar_A1173"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1174" fbc:name="Mbar_A1174" fbc:label="G_Mbar_A1174"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0297" fbc:name="Mbar_A0297" fbc:label="G_Mbar_A0297"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2393" fbc:name="Mbar_A2393" fbc:label="G_Mbar_A2393"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1172" fbc:name="Mbar_A1172" fbc:label="G_Mbar_A1172"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2264" fbc:name="Mbar_A2264" fbc:label="G_Mbar_A2264"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2394" fbc:name="Mbar_A2394" fbc:label="G_Mbar_A2394"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2263" fbc:name="Mbar_A2263" fbc:label="G_Mbar_A2263"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2395" fbc:name="Mbar_A2395" fbc:label="G_Mbar_A2395"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2396" fbc:name="Mbar_A2396" fbc:label="G_Mbar_A2396"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2398" fbc:name="Mbar_A2398" fbc:label="G_Mbar_A2398"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2397" fbc:name="Mbar_A2397" fbc:label="G_Mbar_A2397"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2271" fbc:name="Mbar_A2271" fbc:label="G_Mbar_A2271"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0466" fbc:name="Mbar_A0466" fbc:label="G_Mbar_A0466"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2734" fbc:name="Mbar_A2734" fbc:label="G_Mbar_A2734"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2263" fbc:name="Mbar_A2263" fbc:label="G_Mbar_A2263"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2394" fbc:name="Mbar_A2394" fbc:label="G_Mbar_A2394"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2393" fbc:name="Mbar_A2393" fbc:label="G_Mbar_A2393"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2398" fbc:name="Mbar_A2398" fbc:label="G_Mbar_A2398"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2395" fbc:name="Mbar_A2395" fbc:label="G_Mbar_A2395"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2397" fbc:name="Mbar_A2397" fbc:label="G_Mbar_A2397"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2396" fbc:name="Mbar_A2396" fbc:label="G_Mbar_A2396"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2735" fbc:name="Mbar_A2735" fbc:label="G_Mbar_A2735"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0467" fbc:name="Mbar_A0467" fbc:label="G_Mbar_A0467"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2733" fbc:name="Mbar_A2733" fbc:label="G_Mbar_A2733"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1869" fbc:name="Mbar_A1869" fbc:label="G_Mbar_A1869"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1871" fbc:name="Mbar_A1871" fbc:label="G_Mbar_A1871"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0465" fbc:name="Mbar_A0465" fbc:label="G_Mbar_A0465"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1869" fbc:name="Mbar_A1869" fbc:label="G_Mbar_A1869"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1868" fbc:name="Mbar_A1868" fbc:label="G_Mbar_A1868"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1870" fbc:name="Mbar_A1870" fbc:label="G_Mbar_A1870"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1872" fbc:name="Mbar_A1872" fbc:label="G_Mbar_A1872"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0467" fbc:name="Mbar_A0467" fbc:label="G_Mbar_A0467"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1870" fbc:name="Mbar_A1870" fbc:label="G_Mbar_A1870"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1868" fbc:name="Mbar_A1868" fbc:label="G_Mbar_A1868"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0466" fbc:name="Mbar_A0466" fbc:label="G_Mbar_A0466"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2734" fbc:name="Mbar_A2734" fbc:label="G_Mbar_A2734"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0915" fbc:name="Mbar_A0915" fbc:label="G_Mbar_A0915"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1288" fbc:name="Mbar_A1288" fbc:label="G_Mbar_A1288"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2921" fbc:name="Mbar_A2921" fbc:label="G_Mbar_A2921"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2923" fbc:name="Mbar_A2923" fbc:label="G_Mbar_A2923"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1292" fbc:name="Mbar_A1292" fbc:label="G_Mbar_A1292"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2588" fbc:name="Mbar_A2588" fbc:label="G_Mbar_A2588"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1763" fbc:name="Mbar_A1763" fbc:label="G_Mbar_A1763"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0795" fbc:name="Mbar_A0795" fbc:label="G_Mbar_A0795"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1291" fbc:name="Mbar_A1291" fbc:label="G_Mbar_A1291"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1560" fbc:name="Mbar_A1560" fbc:label="G_Mbar_A1560"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1290" fbc:name="Mbar_A1290" fbc:label="G_Mbar_A1290"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2923" fbc:name="Mbar_A2923" fbc:label="G_Mbar_A2923"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1287" fbc:name="Mbar_A1287" fbc:label="G_Mbar_A1287"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2922" fbc:name="Mbar_A2922" fbc:label="G_Mbar_A2922"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1762" fbc:name="Mbar_A1762" fbc:label="G_Mbar_A1762"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1287" fbc:name="Mbar_A1287" fbc:label="G_Mbar_A1287"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0795" fbc:name="Mbar_A0795" fbc:label="G_Mbar_A0795"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2921" fbc:name="Mbar_A2921" fbc:label="G_Mbar_A2921"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2588" fbc:name="Mbar_A2588" fbc:label="G_Mbar_A2588"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1288" fbc:name="Mbar_A1288" fbc:label="G_Mbar_A1288"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1292" fbc:name="Mbar_A1292" fbc:label="G_Mbar_A1292"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1291" fbc:name="Mbar_A1291" fbc:label="G_Mbar_A1291"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1289" fbc:name="Mbar_A1289" fbc:label="G_Mbar_A1289"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0980" fbc:name="Mbar_A0980" fbc:label="G_Mbar_A0980"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2346" fbc:name="Mbar_A2346" fbc:label="G_Mbar_A2346"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0263" fbc:name="Mbar_A0263" fbc:label="G_Mbar_A0263"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1074" fbc:name="Mbar_A1074" fbc:label="G_Mbar_A1074"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0263" fbc:name="Mbar_A0263" fbc:label="G_Mbar_A0263"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2346" fbc:name="Mbar_A2346" fbc:label="G_Mbar_A2346"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0425" fbc:name="Mbar_A0425" fbc:label="G_Mbar_A0425"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2418" fbc:name="Mbar_A2418" fbc:label="G_Mbar_A2418"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2417" fbc:name="Mbar_A2417" fbc:label="G_Mbar_A2417"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2023" fbc:name="Mbar_A2023" fbc:label="G_Mbar_A2023"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2020" fbc:name="Mbar_A2020" fbc:label="G_Mbar_A2020"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2023" fbc:name="Mbar_A2023" fbc:label="G_Mbar_A2023"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0291" fbc:name="Mbar_A0291" fbc:label="G_Mbar_A0291"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0233" fbc:name="Mbar_A0233" fbc:label="G_Mbar_A0233"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1464" fbc:name="Mbar_A1464" fbc:label="G_Mbar_A1464"/>
@@ -21622,56 +21622,56 @@
       <fbc:geneProduct fbc:id="G_Mbar_A2905" fbc:name="Mbar_A2905" fbc:label="G_Mbar_A2905"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2189" fbc:name="Mbar_A2189" fbc:label="G_Mbar_A2189"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3564" fbc:name="Mbar_A3564" fbc:label="G_Mbar_A3564"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1295" fbc:name="Mbar_A1295" fbc:label="G_Mbar_A1295"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2317" fbc:name="Mbar_A2317" fbc:label="G_Mbar_A2317"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0035" fbc:name="Mbar_A0035" fbc:label="G_Mbar_A0035"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1295" fbc:name="Mbar_A1295" fbc:label="G_Mbar_A1295"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0037" fbc:name="Mbar_A0037" fbc:label="G_Mbar_A0037"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0035" fbc:name="Mbar_A0035" fbc:label="G_Mbar_A0035"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0855" fbc:name="Mbar_A0855" fbc:label="G_Mbar_A0855"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2311" fbc:name="Mbar_A2311" fbc:label="G_Mbar_A2311"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2022" fbc:name="Mbar_A2022" fbc:label="G_Mbar_A2022"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0675" fbc:name="Mbar_A0675" fbc:label="G_Mbar_A0675"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2316" fbc:name="Mbar_A2316" fbc:label="G_Mbar_A2316"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2004" fbc:name="Mbar_A2004" fbc:label="G_Mbar_A2004"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2005" fbc:name="Mbar_A2005" fbc:label="G_Mbar_A2005"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0540" fbc:name="Mbar_A0540" fbc:label="G_Mbar_A0540"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2004" fbc:name="Mbar_A2004" fbc:label="G_Mbar_A2004"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1916" fbc:name="Mbar_A1916" fbc:label="G_Mbar_A1916"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3653" fbc:name="Mbar_A3653" fbc:label="G_Mbar_A3653"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0540" fbc:name="Mbar_A0540" fbc:label="G_Mbar_A0540"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1369" fbc:name="Mbar_A1369" fbc:label="G_Mbar_A1369"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3640" fbc:name="Mbar_A3640" fbc:label="G_Mbar_A3640"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2997" fbc:name="Mbar_A2997" fbc:label="G_Mbar_A2997"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3653" fbc:name="Mbar_A3653" fbc:label="G_Mbar_A3653"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0296" fbc:name="Mbar_A0296" fbc:label="G_Mbar_A0296"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0666" fbc:name="Mbar_A0666" fbc:label="G_Mbar_A0666"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2180" fbc:name="Mbar_A2180" fbc:label="G_Mbar_A2180"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0882" fbc:name="Mbar_A0882" fbc:label="G_Mbar_A0882"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0884" fbc:name="Mbar_A0884" fbc:label="G_Mbar_A0884"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0883" fbc:name="Mbar_A0883" fbc:label="G_Mbar_A0883"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0666" fbc:name="Mbar_A0666" fbc:label="G_Mbar_A0666"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2389" fbc:name="Mbar_A2389" fbc:label="G_Mbar_A2389"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0883" fbc:name="Mbar_A0883" fbc:label="G_Mbar_A0883"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0884" fbc:name="Mbar_A0884" fbc:label="G_Mbar_A0884"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0882" fbc:name="Mbar_A0882" fbc:label="G_Mbar_A0882"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0481" fbc:name="Mbar_A0481" fbc:label="G_Mbar_A0481"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3498" fbc:name="Mbar_A3498" fbc:label="G_Mbar_A3498"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0662" fbc:name="Mbar_A0662" fbc:label="G_Mbar_A0662"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0663" fbc:name="Mbar_A0663" fbc:label="G_Mbar_A0663"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0664" fbc:name="Mbar_A0664" fbc:label="G_Mbar_A0664"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0663" fbc:name="Mbar_A0663" fbc:label="G_Mbar_A0663"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0665" fbc:name="Mbar_A0665" fbc:label="G_Mbar_A0665"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1462" fbc:name="Mbar_A1462" fbc:label="G_Mbar_A1462"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1470" fbc:name="Mbar_A1470" fbc:label="G_Mbar_A1470"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2042" fbc:name="Mbar_A2042" fbc:label="G_Mbar_A2042"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2378" fbc:name="Mbar_A2378" fbc:label="G_Mbar_A2378"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2376" fbc:name="Mbar_A2376" fbc:label="G_Mbar_A2376"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2378" fbc:name="Mbar_A2378" fbc:label="G_Mbar_A2378"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2377" fbc:name="Mbar_A2377" fbc:label="G_Mbar_A2377"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1209" fbc:name="Mbar_A1209" fbc:label="G_Mbar_A1209"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0034" fbc:name="Mbar_A0034" fbc:label="G_Mbar_A0034"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0919" fbc:name="Mbar_A0919" fbc:label="G_Mbar_A0919"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1178" fbc:name="Mbar_A1178" fbc:label="G_Mbar_A1178"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0570" fbc:name="Mbar_A0570" fbc:label="G_Mbar_A0570"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0919" fbc:name="Mbar_A0919" fbc:label="G_Mbar_A0919"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3561" fbc:name="Mbar_A3561" fbc:label="G_Mbar_A3561"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0570" fbc:name="Mbar_A0570" fbc:label="G_Mbar_A0570"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0913" fbc:name="Mbar_A0913" fbc:label="G_Mbar_A0913"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3178" fbc:name="Mbar_A3178" fbc:label="G_Mbar_A3178"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3203" fbc:name="Mbar_A3203" fbc:label="G_Mbar_A3203"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2269" fbc:name="Mbar_A2269" fbc:label="G_Mbar_A2269"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2268" fbc:name="Mbar_A2268" fbc:label="G_Mbar_A2268"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2269" fbc:name="Mbar_A2269" fbc:label="G_Mbar_A2269"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3020" fbc:name="Mbar_A3020" fbc:label="G_Mbar_A3020"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1599" fbc:name="Mbar_A1599" fbc:label="G_Mbar_A1599"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1598" fbc:name="Mbar_A1598" fbc:label="G_Mbar_A1598"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1599" fbc:name="Mbar_A1599" fbc:label="G_Mbar_A1599"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3319" fbc:name="Mbar_A3319" fbc:label="G_Mbar_A3319"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2838" fbc:name="Mbar_A2838" fbc:label="G_Mbar_A2838"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2979" fbc:name="Mbar_A2979" fbc:label="G_Mbar_A2979"/>
@@ -21686,8 +21686,8 @@
       <fbc:geneProduct fbc:id="G_Mbar_A2428" fbc:name="Mbar_A2428" fbc:label="G_Mbar_A2428"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2685" fbc:name="Mbar_A2685" fbc:label="G_Mbar_A2685"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0872" fbc:name="Mbar_A0872" fbc:label="G_Mbar_A0872"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3476" fbc:name="Mbar_A3476" fbc:label="G_Mbar_A3476"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1514" fbc:name="Mbar_A1514" fbc:label="G_Mbar_A1514"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3476" fbc:name="Mbar_A3476" fbc:label="G_Mbar_A3476"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3621" fbc:name="Mbar_A3621" fbc:label="G_Mbar_A3621"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0576" fbc:name="Mbar_A0576" fbc:label="G_Mbar_A0576"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3613" fbc:name="Mbar_A3613" fbc:label="G_Mbar_A3613"/>
@@ -21695,40 +21695,40 @@
       <fbc:geneProduct fbc:id="G_Mbar_A2616" fbc:name="Mbar_A2616" fbc:label="G_Mbar_A2616"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0967" fbc:name="Mbar_A0967" fbc:label="G_Mbar_A0967"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1138" fbc:name="Mbar_A1138" fbc:label="G_Mbar_A1138"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2988" fbc:name="Mbar_A2988" fbc:label="G_Mbar_A2988"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0057" fbc:name="Mbar_A0057" fbc:label="G_Mbar_A0057"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2300" fbc:name="Mbar_A2300" fbc:label="G_Mbar_A2300"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2987" fbc:name="Mbar_A2987" fbc:label="G_Mbar_A2987"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0058" fbc:name="Mbar_A0058" fbc:label="G_Mbar_A0058"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2988" fbc:name="Mbar_A2988" fbc:label="G_Mbar_A2988"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2987" fbc:name="Mbar_A2987" fbc:label="G_Mbar_A2987"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2300" fbc:name="Mbar_A2300" fbc:label="G_Mbar_A2300"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0057" fbc:name="Mbar_A0057" fbc:label="G_Mbar_A0057"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1419" fbc:name="Mbar_A1419" fbc:label="G_Mbar_A1419"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1339" fbc:name="Mbar_A1339" fbc:label="G_Mbar_A1339"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1338" fbc:name="Mbar_A1338" fbc:label="G_Mbar_A1338"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2167" fbc:name="Mbar_A2167" fbc:label="G_Mbar_A2167"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1338" fbc:name="Mbar_A1338" fbc:label="G_Mbar_A1338"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2270" fbc:name="Mbar_A2270" fbc:label="G_Mbar_A2270"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0624" fbc:name="Mbar_A0624" fbc:label="G_Mbar_A0624"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0220" fbc:name="Mbar_A0220" fbc:label="G_Mbar_A0220"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1651" fbc:name="Mbar_A1651" fbc:label="G_Mbar_A1651"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3429" fbc:name="Mbar_A3429" fbc:label="G_Mbar_A3429"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3491" fbc:name="Mbar_A3491" fbc:label="G_Mbar_A3491"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0669" fbc:name="Mbar_A0669" fbc:label="G_Mbar_A0669"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1651" fbc:name="Mbar_A1651" fbc:label="G_Mbar_A1651"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3423" fbc:name="Mbar_A3423" fbc:label="G_Mbar_A3423"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3424" fbc:name="Mbar_A3424" fbc:label="G_Mbar_A3424"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3491" fbc:name="Mbar_A3491" fbc:label="G_Mbar_A3491"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3430" fbc:name="Mbar_A3430" fbc:label="G_Mbar_A3430"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0669" fbc:name="Mbar_A0669" fbc:label="G_Mbar_A0669"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2048" fbc:name="Mbar_A2048" fbc:label="G_Mbar_A2048"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1631" fbc:name="Mbar_A1631" fbc:label="G_Mbar_A1631"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0670" fbc:name="Mbar_A0670" fbc:label="G_Mbar_A0670"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1667" fbc:name="Mbar_A1667" fbc:label="G_Mbar_A1667"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1507" fbc:name="Mbar_A1507" fbc:label="G_Mbar_A1507"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1393" fbc:name="Mbar_A1393" fbc:label="G_Mbar_A1393"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1667" fbc:name="Mbar_A1667" fbc:label="G_Mbar_A1667"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3244" fbc:name="Mbar_A3244" fbc:label="G_Mbar_A3244"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0229" fbc:name="Mbar_A0229" fbc:label="G_Mbar_A0229"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1393" fbc:name="Mbar_A1393" fbc:label="G_Mbar_A1393"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1937" fbc:name="Mbar_A1937" fbc:label="G_Mbar_A1937"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0229" fbc:name="Mbar_A0229" fbc:label="G_Mbar_A0229"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3140" fbc:name="Mbar_A3140" fbc:label="G_Mbar_A3140"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0897" fbc:name="Mbar_A0897" fbc:label="G_Mbar_A0897"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0894" fbc:name="Mbar_A0894" fbc:label="G_Mbar_A0894"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0896" fbc:name="Mbar_A0896" fbc:label="G_Mbar_A0896"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0893" fbc:name="Mbar_A0893" fbc:label="G_Mbar_A0893"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0895" fbc:name="Mbar_A0895" fbc:label="G_Mbar_A0895"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0893" fbc:name="Mbar_A0893" fbc:label="G_Mbar_A0893"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0894" fbc:name="Mbar_A0894" fbc:label="G_Mbar_A0894"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0897" fbc:name="Mbar_A0897" fbc:label="G_Mbar_A0897"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0896" fbc:name="Mbar_A0896" fbc:label="G_Mbar_A0896"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1748" fbc:name="Mbar_A1748" fbc:label="G_Mbar_A1748"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3045" fbc:name="Mbar_A3045" fbc:label="G_Mbar_A3045"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1313" fbc:name="Mbar_A1313" fbc:label="G_Mbar_A1313"/>
@@ -21741,15 +21741,15 @@
       <fbc:geneProduct fbc:id="G_Mbar_A0993" fbc:name="Mbar_A0993" fbc:label="G_Mbar_A0993"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0995" fbc:name="Mbar_A0995" fbc:label="G_Mbar_A0995"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0996" fbc:name="Mbar_A0996" fbc:label="G_Mbar_A0996"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1558" fbc:name="Mbar_A1558" fbc:label="G_Mbar_A1558"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2560" fbc:name="Mbar_A2560" fbc:label="G_Mbar_A2560"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1559" fbc:name="Mbar_A1559" fbc:label="G_Mbar_A1559"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1305" fbc:name="Mbar_A1305" fbc:label="G_Mbar_A1305"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1557" fbc:name="Mbar_A1557" fbc:label="G_Mbar_A1557"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1558" fbc:name="Mbar_A1558" fbc:label="G_Mbar_A1558"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1306" fbc:name="Mbar_A1306" fbc:label="G_Mbar_A1306"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2559" fbc:name="Mbar_A2559" fbc:label="G_Mbar_A2559"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1307" fbc:name="Mbar_A1307" fbc:label="G_Mbar_A1307"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1556" fbc:name="Mbar_A1556" fbc:label="G_Mbar_A1556"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2559" fbc:name="Mbar_A2559" fbc:label="G_Mbar_A2559"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1557" fbc:name="Mbar_A1557" fbc:label="G_Mbar_A1557"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1559" fbc:name="Mbar_A1559" fbc:label="G_Mbar_A1559"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1305" fbc:name="Mbar_A1305" fbc:label="G_Mbar_A1305"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3594" fbc:name="Mbar_A3594" fbc:label="G_Mbar_A3594"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2315" fbc:name="Mbar_A2315" fbc:label="G_Mbar_A2315"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2312" fbc:name="Mbar_A2312" fbc:label="G_Mbar_A2312"/>
@@ -21758,36 +21758,36 @@
       <fbc:geneProduct fbc:id="G_Mbar_A0269" fbc:name="Mbar_A0269" fbc:label="G_Mbar_A0269"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2320" fbc:name="Mbar_A2320" fbc:label="G_Mbar_A2320"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3022" fbc:name="Mbar_A3022" fbc:label="G_Mbar_A3022"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3078" fbc:name="Mbar_A3078" fbc:label="G_Mbar_A3078"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3070" fbc:name="Mbar_A3070" fbc:label="G_Mbar_A3070"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0499" fbc:name="Mbar_A0499" fbc:label="G_Mbar_A0499"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3265" fbc:name="Mbar_A3265" fbc:label="G_Mbar_A3265"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3070" fbc:name="Mbar_A3070" fbc:label="G_Mbar_A3070"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3078" fbc:name="Mbar_A3078" fbc:label="G_Mbar_A3078"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0499" fbc:name="Mbar_A0499" fbc:label="G_Mbar_A0499"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3039" fbc:name="Mbar_A3039" fbc:label="G_Mbar_A3039"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3385" fbc:name="Mbar_A3385" fbc:label="G_Mbar_A3385"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3175" fbc:name="Mbar_A3175" fbc:label="G_Mbar_A3175"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0158" fbc:name="Mbar_A0158" fbc:label="G_Mbar_A0158"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0157" fbc:name="Mbar_A0157" fbc:label="G_Mbar_A0157"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2277" fbc:name="Mbar_A2277" fbc:label="G_Mbar_A2277"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1551" fbc:name="Mbar_A1551" fbc:label="G_Mbar_A1551"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2281" fbc:name="Mbar_A2281" fbc:label="G_Mbar_A2281"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0158" fbc:name="Mbar_A0158" fbc:label="G_Mbar_A0158"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3175" fbc:name="Mbar_A3175" fbc:label="G_Mbar_A3175"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1553" fbc:name="Mbar_A1553" fbc:label="G_Mbar_A1553"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0167" fbc:name="Mbar_A0167" fbc:label="G_Mbar_A0167"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2278" fbc:name="Mbar_A2278" fbc:label="G_Mbar_A2278"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0168" fbc:name="Mbar_A0168" fbc:label="G_Mbar_A0168"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0171" fbc:name="Mbar_A0171" fbc:label="G_Mbar_A0171"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1552" fbc:name="Mbar_A1552" fbc:label="G_Mbar_A1552"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0171" fbc:name="Mbar_A0171" fbc:label="G_Mbar_A0171"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1551" fbc:name="Mbar_A1551" fbc:label="G_Mbar_A1551"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2278" fbc:name="Mbar_A2278" fbc:label="G_Mbar_A2278"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2276" fbc:name="Mbar_A2276" fbc:label="G_Mbar_A2276"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0469" fbc:name="Mbar_A0469" fbc:label="G_Mbar_A0469"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0471" fbc:name="Mbar_A0471" fbc:label="G_Mbar_A0471"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0168" fbc:name="Mbar_A0168" fbc:label="G_Mbar_A0168"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2281" fbc:name="Mbar_A2281" fbc:label="G_Mbar_A2281"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0167" fbc:name="Mbar_A0167" fbc:label="G_Mbar_A0167"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2277" fbc:name="Mbar_A2277" fbc:label="G_Mbar_A2277"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0472" fbc:name="Mbar_A0472" fbc:label="G_Mbar_A0472"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0471" fbc:name="Mbar_A0471" fbc:label="G_Mbar_A0471"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0473" fbc:name="Mbar_A0473" fbc:label="G_Mbar_A0473"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0469" fbc:name="Mbar_A0469" fbc:label="G_Mbar_A0469"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0470" fbc:name="Mbar_A0470" fbc:label="G_Mbar_A0470"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0256" fbc:name="Mbar_A0256" fbc:label="G_Mbar_A0256"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1867" fbc:name="Mbar_A1867" fbc:label="G_Mbar_A1867"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1304" fbc:name="Mbar_A1304" fbc:label="G_Mbar_A1304"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1867" fbc:name="Mbar_A1867" fbc:label="G_Mbar_A1867"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0278" fbc:name="Mbar_A0278" fbc:label="G_Mbar_A0278"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1597" fbc:name="Mbar_A1597" fbc:label="G_Mbar_A1597"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2618" fbc:name="Mbar_A2618" fbc:label="G_Mbar_A2618"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1597" fbc:name="Mbar_A1597" fbc:label="G_Mbar_A1597"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1053" fbc:name="Mbar_A1053" fbc:label="G_Mbar_A1053"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3512" fbc:name="Mbar_A3512" fbc:label="G_Mbar_A3512"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0060" fbc:name="Mbar_A0060" fbc:label="G_Mbar_A0060"/>
@@ -21796,47 +21796,47 @@
       <fbc:geneProduct fbc:id="G_Mbar_A3345" fbc:name="Mbar_A3345" fbc:label="G_Mbar_A3345"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3192" fbc:name="Mbar_A3192" fbc:label="G_Mbar_A3192"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2177" fbc:name="Mbar_A2177" fbc:label="G_Mbar_A2177"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0547" fbc:name="Mbar_A0547" fbc:label="G_Mbar_A0547"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3471" fbc:name="Mbar_A3471" fbc:label="G_Mbar_A3471"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3515" fbc:name="Mbar_A3515" fbc:label="G_Mbar_A3515"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0547" fbc:name="Mbar_A0547" fbc:label="G_Mbar_A0547"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1827" fbc:name="Mbar_A1827" fbc:label="G_Mbar_A1827"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0480" fbc:name="Mbar_A0480" fbc:label="G_Mbar_A0480"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0211" fbc:name="Mbar_A0211" fbc:label="G_Mbar_A0211"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2986" fbc:name="Mbar_A2986" fbc:label="G_Mbar_A2986"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2872" fbc:name="Mbar_A2872" fbc:label="G_Mbar_A2872"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2986" fbc:name="Mbar_A2986" fbc:label="G_Mbar_A2986"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0559" fbc:name="Mbar_A0559" fbc:label="G_Mbar_A0559"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2943" fbc:name="Mbar_A2943" fbc:label="G_Mbar_A2943"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1586" fbc:name="Mbar_A1586" fbc:label="G_Mbar_A1586"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1587" fbc:name="Mbar_A1587" fbc:label="G_Mbar_A1587"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1586" fbc:name="Mbar_A1586" fbc:label="G_Mbar_A1586"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2021" fbc:name="Mbar_A2021" fbc:label="G_Mbar_A2021"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1431" fbc:name="Mbar_A1431" fbc:label="G_Mbar_A1431"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1750" fbc:name="Mbar_A1750" fbc:label="G_Mbar_A1750"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3562" fbc:name="Mbar_A3562" fbc:label="G_Mbar_A3562"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1808" fbc:name="Mbar_A1808" fbc:label="G_Mbar_A1808"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3562" fbc:name="Mbar_A3562" fbc:label="G_Mbar_A3562"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2726" fbc:name="Mbar_A2726" fbc:label="G_Mbar_A2726"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2894" fbc:name="Mbar_A2894" fbc:label="G_Mbar_A2894"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2961" fbc:name="Mbar_A2961" fbc:label="G_Mbar_A2961"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1223" fbc:name="Mbar_A1223" fbc:label="G_Mbar_A1223"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3283" fbc:name="Mbar_A3283" fbc:label="G_Mbar_A3283"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0860" fbc:name="Mbar_A0860" fbc:label="G_Mbar_A0860"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3283" fbc:name="Mbar_A3283" fbc:label="G_Mbar_A3283"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2222" fbc:name="Mbar_A2222" fbc:label="G_Mbar_A2222"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0192" fbc:name="Mbar_A0192" fbc:label="G_Mbar_A0192"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1223" fbc:name="Mbar_A1223" fbc:label="G_Mbar_A1223"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0742" fbc:name="Mbar_A0742" fbc:label="G_Mbar_A0742"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0192" fbc:name="Mbar_A0192" fbc:label="G_Mbar_A0192"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3133" fbc:name="Mbar_A3133" fbc:label="G_Mbar_A3133"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1375" fbc:name="Mbar_A1375" fbc:label="G_Mbar_A1375"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1204" fbc:name="Mbar_A1204" fbc:label="G_Mbar_A1204"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2752" fbc:name="Mbar_A2752" fbc:label="G_Mbar_A2752"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1779" fbc:name="Mbar_A1779" fbc:label="G_Mbar_A1779"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1778" fbc:name="Mbar_A1778" fbc:label="G_Mbar_A1778"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1781" fbc:name="Mbar_A1781" fbc:label="G_Mbar_A1781"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1375" fbc:name="Mbar_A1375" fbc:label="G_Mbar_A1375"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1780" fbc:name="Mbar_A1780" fbc:label="G_Mbar_A1780"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0721" fbc:name="Mbar_A0721" fbc:label="G_Mbar_A0721"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1779" fbc:name="Mbar_A1779" fbc:label="G_Mbar_A1779"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1781" fbc:name="Mbar_A1781" fbc:label="G_Mbar_A1781"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1778" fbc:name="Mbar_A1778" fbc:label="G_Mbar_A1778"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2225" fbc:name="Mbar_A2225" fbc:label="G_Mbar_A2225"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1000" fbc:name="Mbar_A1000" fbc:label="G_Mbar_A1000"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0999" fbc:name="Mbar_A0999" fbc:label="G_Mbar_A0999"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0721" fbc:name="Mbar_A0721" fbc:label="G_Mbar_A0721"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1001" fbc:name="Mbar_A1001" fbc:label="G_Mbar_A1001"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1002" fbc:name="Mbar_A1002" fbc:label="G_Mbar_A1002"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3180" fbc:name="Mbar_A3180" fbc:label="G_Mbar_A3180"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1001" fbc:name="Mbar_A1001" fbc:label="G_Mbar_A1001"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0999" fbc:name="Mbar_A0999" fbc:label="G_Mbar_A0999"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1000" fbc:name="Mbar_A1000" fbc:label="G_Mbar_A1000"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3712" fbc:name="Mbar_A3712" fbc:label="G_Mbar_A3712"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1481" fbc:name="Mbar_A1481" fbc:label="G_Mbar_A1481"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0187" fbc:name="Mbar_A0187" fbc:label="G_Mbar_A0187"/>
@@ -21846,8 +21846,8 @@
       <fbc:geneProduct fbc:id="G_Mbar_A1195" fbc:name="Mbar_A1195" fbc:label="G_Mbar_A1195"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0924" fbc:name="Mbar_A0924" fbc:label="G_Mbar_A0924"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1930" fbc:name="Mbar_A1930" fbc:label="G_Mbar_A1930"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3264" fbc:name="Mbar_A3264" fbc:label="G_Mbar_A3264"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3094" fbc:name="Mbar_A3094" fbc:label="G_Mbar_A3094"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3264" fbc:name="Mbar_A3264" fbc:label="G_Mbar_A3264"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2223" fbc:name="Mbar_A2223" fbc:label="G_Mbar_A2223"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3513" fbc:name="Mbar_A3513" fbc:label="G_Mbar_A3513"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0862" fbc:name="Mbar_A0862" fbc:label="G_Mbar_A0862"/>
@@ -21855,22 +21855,22 @@
       <fbc:geneProduct fbc:id="G_Mbar_A3654" fbc:name="Mbar_A3654" fbc:label="G_Mbar_A3654"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0531" fbc:name="Mbar_A0531" fbc:label="G_Mbar_A0531"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2166" fbc:name="Mbar_A2166" fbc:label="G_Mbar_A2166"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0536" fbc:name="Mbar_A0536" fbc:label="G_Mbar_A0536"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2755" fbc:name="Mbar_A2755" fbc:label="G_Mbar_A2755"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2756" fbc:name="Mbar_A2756" fbc:label="G_Mbar_A2756"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1100" fbc:name="Mbar_A1100" fbc:label="G_Mbar_A1100"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0536" fbc:name="Mbar_A0536" fbc:label="G_Mbar_A0536"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1311" fbc:name="Mbar_A1311" fbc:label="G_Mbar_A1311"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1100" fbc:name="Mbar_A1100" fbc:label="G_Mbar_A1100"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0179" fbc:name="Mbar_A0179" fbc:label="G_Mbar_A0179"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2100" fbc:name="Mbar_A2100" fbc:label="G_Mbar_A2100"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0363" fbc:name="Mbar_A0363" fbc:label="G_Mbar_A0363"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0891" fbc:name="Mbar_A0891" fbc:label="G_Mbar_A0891"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1294" fbc:name="Mbar_A1294" fbc:label="G_Mbar_A1294"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1094" fbc:name="Mbar_A1094" fbc:label="G_Mbar_A1094"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1093" fbc:name="Mbar_A1093" fbc:label="G_Mbar_A1093"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1590" fbc:name="Mbar_A1590" fbc:label="G_Mbar_A1590"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1093" fbc:name="Mbar_A1093" fbc:label="G_Mbar_A1093"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1821" fbc:name="Mbar_A1821" fbc:label="G_Mbar_A1821"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0134" fbc:name="Mbar_A0134" fbc:label="G_Mbar_A0134"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2626" fbc:name="Mbar_A2626" fbc:label="G_Mbar_A2626"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0134" fbc:name="Mbar_A0134" fbc:label="G_Mbar_A0134"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2339" fbc:name="Mbar_A2339" fbc:label="G_Mbar_A2339"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0175" fbc:name="Mbar_A0175" fbc:label="G_Mbar_A0175"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1429" fbc:name="Mbar_A1429" fbc:label="G_Mbar_A1429"/>
@@ -21882,83 +21882,83 @@
       <fbc:geneProduct fbc:id="G_Mbar_A3615" fbc:name="Mbar_A3615" fbc:label="G_Mbar_A3615"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1037" fbc:name="Mbar_A1037" fbc:label="G_Mbar_A1037"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3172" fbc:name="Mbar_A3172" fbc:label="G_Mbar_A3172"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2421" fbc:name="Mbar_A2421" fbc:label="G_Mbar_A2421"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0476" fbc:name="Mbar_A0476" fbc:label="G_Mbar_A0476"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1106" fbc:name="Mbar_A1106" fbc:label="G_Mbar_A1106"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2421" fbc:name="Mbar_A2421" fbc:label="G_Mbar_A2421"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0541" fbc:name="Mbar_A0541" fbc:label="G_Mbar_A0541"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2126" fbc:name="Mbar_A2126" fbc:label="G_Mbar_A2126"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0541" fbc:name="Mbar_A0541" fbc:label="G_Mbar_A0541"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0344" fbc:name="Mbar_A0344" fbc:label="G_Mbar_A0344"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2400" fbc:name="Mbar_A2400" fbc:label="G_Mbar_A2400"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1461" fbc:name="Mbar_A1461" fbc:label="G_Mbar_A1461"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0923" fbc:name="Mbar_A0923" fbc:label="G_Mbar_A0923"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3127" fbc:name="Mbar_A3127" fbc:label="G_Mbar_A3127"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3183" fbc:name="Mbar_A3183" fbc:label="G_Mbar_A3183"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3127" fbc:name="Mbar_A3127" fbc:label="G_Mbar_A3127"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2518" fbc:name="Mbar_A2518" fbc:label="G_Mbar_A2518"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3542" fbc:name="Mbar_A3542" fbc:label="G_Mbar_A3542"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2345" fbc:name="Mbar_A2345" fbc:label="G_Mbar_A2345"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3589" fbc:name="Mbar_A3589" fbc:label="G_Mbar_A3589"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0503" fbc:name="Mbar_A0503" fbc:label="G_Mbar_A0503"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1620" fbc:name="Mbar_A1620" fbc:label="G_Mbar_A1620"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2542" fbc:name="Mbar_A2542" fbc:label="G_Mbar_A2542"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1620" fbc:name="Mbar_A1620" fbc:label="G_Mbar_A1620"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0503" fbc:name="Mbar_A0503" fbc:label="G_Mbar_A0503"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0230" fbc:name="Mbar_A0230" fbc:label="G_Mbar_A0230"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1887" fbc:name="Mbar_A1887" fbc:label="G_Mbar_A1887"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0232" fbc:name="Mbar_A0232" fbc:label="G_Mbar_A0232"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0036" fbc:name="Mbar_A0036" fbc:label="G_Mbar_A0036"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0231" fbc:name="Mbar_A0231" fbc:label="G_Mbar_A0231"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0036" fbc:name="Mbar_A0036" fbc:label="G_Mbar_A0036"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3453" fbc:name="Mbar_A3453" fbc:label="G_Mbar_A3453"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2049" fbc:name="Mbar_A2049" fbc:label="G_Mbar_A2049"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3541" fbc:name="Mbar_A3541" fbc:label="G_Mbar_A3541"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2945" fbc:name="Mbar_A2945" fbc:label="G_Mbar_A2945"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0010" fbc:name="Mbar_A0010" fbc:label="G_Mbar_A0010"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1238" fbc:name="Mbar_A1238" fbc:label="G_Mbar_A1238"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0010" fbc:name="Mbar_A0010" fbc:label="G_Mbar_A0010"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1504" fbc:name="Mbar_A1504" fbc:label="G_Mbar_A1504"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2087" fbc:name="Mbar_A2087" fbc:label="G_Mbar_A2087"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0890" fbc:name="Mbar_A0890" fbc:label="G_Mbar_A0890"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2087" fbc:name="Mbar_A2087" fbc:label="G_Mbar_A2087"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0131" fbc:name="Mbar_A0131" fbc:label="G_Mbar_A0131"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1035" fbc:name="Mbar_A1035" fbc:label="G_Mbar_A1035"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3318" fbc:name="Mbar_A3318" fbc:label="G_Mbar_A3318"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0934" fbc:name="Mbar_A0934" fbc:label="G_Mbar_A0934"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2310" fbc:name="Mbar_A2310" fbc:label="G_Mbar_A2310"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0633" fbc:name="Mbar_A0633" fbc:label="G_Mbar_A0633"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2898" fbc:name="Mbar_A2898" fbc:label="G_Mbar_A2898"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3623" fbc:name="Mbar_A3623" fbc:label="G_Mbar_A3623"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2310" fbc:name="Mbar_A2310" fbc:label="G_Mbar_A2310"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3503" fbc:name="Mbar_A3503" fbc:label="G_Mbar_A3503"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3622" fbc:name="Mbar_A3622" fbc:label="G_Mbar_A3622"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3623" fbc:name="Mbar_A3623" fbc:label="G_Mbar_A3623"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1374" fbc:name="Mbar_A1374" fbc:label="G_Mbar_A1374"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1745" fbc:name="Mbar_A1745" fbc:label="G_Mbar_A1745"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0052" fbc:name="Mbar_A0052" fbc:label="G_Mbar_A0052"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2140" fbc:name="Mbar_A2140" fbc:label="G_Mbar_A2140"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0022" fbc:name="Mbar_A0022" fbc:label="G_Mbar_A0022"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0023" fbc:name="Mbar_A0023" fbc:label="G_Mbar_A0023"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0021" fbc:name="Mbar_A0021" fbc:label="G_Mbar_A0021"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1122" fbc:name="Mbar_A1122" fbc:label="G_Mbar_A1122"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0021" fbc:name="Mbar_A0021" fbc:label="G_Mbar_A0021"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1120" fbc:name="Mbar_A1120" fbc:label="G_Mbar_A1120"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1119" fbc:name="Mbar_A1119" fbc:label="G_Mbar_A1119"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0788" fbc:name="Mbar_A0788" fbc:label="G_Mbar_A0788"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1791" fbc:name="Mbar_A1791" fbc:label="G_Mbar_A1791"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1792" fbc:name="Mbar_A1792" fbc:label="G_Mbar_A1792"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1976" fbc:name="Mbar_A1976" fbc:label="G_Mbar_A1976"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2175" fbc:name="Mbar_A2175" fbc:label="G_Mbar_A2175"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2173" fbc:name="Mbar_A2173" fbc:label="G_Mbar_A2173"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2175" fbc:name="Mbar_A2175" fbc:label="G_Mbar_A2175"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2174" fbc:name="Mbar_A2174" fbc:label="G_Mbar_A2174"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0082" fbc:name="Mbar_A0082" fbc:label="G_Mbar_A0082"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1332" fbc:name="Mbar_A1332" fbc:label="G_Mbar_A1332"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3206" fbc:name="Mbar_A3206" fbc:label="G_Mbar_A3206"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1332" fbc:name="Mbar_A1332" fbc:label="G_Mbar_A1332"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1523" fbc:name="Mbar_A1523" fbc:label="G_Mbar_A1523"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0623" fbc:name="Mbar_A0623" fbc:label="G_Mbar_A0623"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0288" fbc:name="Mbar_A0288" fbc:label="G_Mbar_A0288"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1334" fbc:name="Mbar_A1334" fbc:label="G_Mbar_A1334"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0288" fbc:name="Mbar_A0288" fbc:label="G_Mbar_A0288"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1866" fbc:name="Mbar_A1866" fbc:label="G_Mbar_A1866"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1040" fbc:name="Mbar_A1040" fbc:label="G_Mbar_A1040"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0217" fbc:name="Mbar_A0217" fbc:label="G_Mbar_A0217"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0634" fbc:name="Mbar_A0634" fbc:label="G_Mbar_A0634"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2044" fbc:name="Mbar_A2044" fbc:label="G_Mbar_A2044"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2190" fbc:name="Mbar_A2190" fbc:label="G_Mbar_A2190"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2224" fbc:name="Mbar_A2224" fbc:label="G_Mbar_A2224"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0176" fbc:name="Mbar_A0176" fbc:label="G_Mbar_A0176"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0763" fbc:name="Mbar_A0763" fbc:label="G_Mbar_A0763"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2224" fbc:name="Mbar_A2224" fbc:label="G_Mbar_A2224"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3350" fbc:name="Mbar_A3350" fbc:label="G_Mbar_A3350"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2639" fbc:name="Mbar_A2639" fbc:label="G_Mbar_A2639"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0763" fbc:name="Mbar_A0763" fbc:label="G_Mbar_A0763"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1139" fbc:name="Mbar_A1139" fbc:label="G_Mbar_A1139"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3254" fbc:name="Mbar_A3254" fbc:label="G_Mbar_A3254"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3255" fbc:name="Mbar_A3255" fbc:label="G_Mbar_A3255"/>
@@ -21968,61 +21968,61 @@
       <fbc:geneProduct fbc:id="G_Mbar_A2605" fbc:name="Mbar_A2605" fbc:label="G_Mbar_A2605"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1422" fbc:name="Mbar_A1422" fbc:label="G_Mbar_A1422"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1420" fbc:name="Mbar_A1420" fbc:label="G_Mbar_A1420"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1688" fbc:name="Mbar_A1688" fbc:label="G_Mbar_A1688"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1502" fbc:name="Mbar_A1502" fbc:label="G_Mbar_A1502"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1054" fbc:name="Mbar_A1054" fbc:label="G_Mbar_A1054"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1503" fbc:name="Mbar_A1503" fbc:label="G_Mbar_A1503"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3639" fbc:name="Mbar_A3639" fbc:label="G_Mbar_A3639"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1502" fbc:name="Mbar_A1502" fbc:label="G_Mbar_A1502"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1503" fbc:name="Mbar_A1503" fbc:label="G_Mbar_A1503"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1688" fbc:name="Mbar_A1688" fbc:label="G_Mbar_A1688"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0841" fbc:name="Mbar_A0841" fbc:label="G_Mbar_A0841"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1506" fbc:name="Mbar_A1506" fbc:label="G_Mbar_A1506"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3604" fbc:name="Mbar_A3604" fbc:label="G_Mbar_A3604"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1501" fbc:name="Mbar_A1501" fbc:label="G_Mbar_A1501"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3605" fbc:name="Mbar_A3605" fbc:label="G_Mbar_A3605"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0846" fbc:name="Mbar_A0846" fbc:label="G_Mbar_A0846"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0843" fbc:name="Mbar_A0843" fbc:label="G_Mbar_A0843"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1501" fbc:name="Mbar_A1501" fbc:label="G_Mbar_A1501"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1506" fbc:name="Mbar_A1506" fbc:label="G_Mbar_A1506"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3634" fbc:name="Mbar_A3634" fbc:label="G_Mbar_A3634"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3633" fbc:name="Mbar_A3633" fbc:label="G_Mbar_A3633"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0842" fbc:name="Mbar_A0842" fbc:label="G_Mbar_A0842"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0845" fbc:name="Mbar_A0845" fbc:label="G_Mbar_A0845"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3633" fbc:name="Mbar_A3633" fbc:label="G_Mbar_A3633"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3634" fbc:name="Mbar_A3634" fbc:label="G_Mbar_A3634"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3584" fbc:name="Mbar_A3584" fbc:label="G_Mbar_A3584"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0843" fbc:name="Mbar_A0843" fbc:label="G_Mbar_A0843"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0846" fbc:name="Mbar_A0846" fbc:label="G_Mbar_A0846"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3585" fbc:name="Mbar_A3585" fbc:label="G_Mbar_A3585"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A2072" fbc:name="Mbar_A2072" fbc:label="G_Mbar_A2072"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1261" fbc:name="Mbar_A1261" fbc:label="G_Mbar_A1261"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1256" fbc:name="Mbar_A1256" fbc:label="G_Mbar_A1256"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1262" fbc:name="Mbar_A1262" fbc:label="G_Mbar_A1262"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1258" fbc:name="Mbar_A1258" fbc:label="G_Mbar_A1258"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1255" fbc:name="Mbar_A1255" fbc:label="G_Mbar_A1255"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3584" fbc:name="Mbar_A3584" fbc:label="G_Mbar_A3584"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1257" fbc:name="Mbar_A1257" fbc:label="G_Mbar_A1257"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0410" fbc:name="Mbar_A0410" fbc:label="G_Mbar_A0410"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1260" fbc:name="Mbar_A1260" fbc:label="G_Mbar_A1260"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1259" fbc:name="Mbar_A1259" fbc:label="G_Mbar_A1259"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1713" fbc:name="Mbar_A1713" fbc:label="G_Mbar_A1713"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1262" fbc:name="Mbar_A1262" fbc:label="G_Mbar_A1262"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1261" fbc:name="Mbar_A1261" fbc:label="G_Mbar_A1261"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1256" fbc:name="Mbar_A1256" fbc:label="G_Mbar_A1256"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1260" fbc:name="Mbar_A1260" fbc:label="G_Mbar_A1260"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1255" fbc:name="Mbar_A1255" fbc:label="G_Mbar_A1255"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2073" fbc:name="Mbar_A2073" fbc:label="G_Mbar_A2073"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3638" fbc:name="Mbar_A3638" fbc:label="G_Mbar_A3638"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0740" fbc:name="Mbar_A0740" fbc:label="G_Mbar_A0740"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3637" fbc:name="Mbar_A3637" fbc:label="G_Mbar_A3637"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1258" fbc:name="Mbar_A1258" fbc:label="G_Mbar_A1258"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A2072" fbc:name="Mbar_A2072" fbc:label="G_Mbar_A2072"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1713" fbc:name="Mbar_A1713" fbc:label="G_Mbar_A1713"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1063" fbc:name="Mbar_A1063" fbc:label="G_Mbar_A1063"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1064" fbc:name="Mbar_A1064" fbc:label="G_Mbar_A1064"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3637" fbc:name="Mbar_A3637" fbc:label="G_Mbar_A3637"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0740" fbc:name="Mbar_A0740" fbc:label="G_Mbar_A0740"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3638" fbc:name="Mbar_A3638" fbc:label="G_Mbar_A3638"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0741" fbc:name="Mbar_A0741" fbc:label="G_Mbar_A0741"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A1055" fbc:name="Mbar_A1055" fbc:label="G_Mbar_A1055"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0840" fbc:name="Mbar_A0840" fbc:label="G_Mbar_A0840"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0672" fbc:name="Mbar_A0672" fbc:label="G_Mbar_A0672"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0840" fbc:name="Mbar_A0840" fbc:label="G_Mbar_A0840"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3583" fbc:name="Mbar_A3583" fbc:label="G_Mbar_A3583"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A1055" fbc:name="Mbar_A1055" fbc:label="G_Mbar_A1055"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2053" fbc:name="Mbar_A2053" fbc:label="G_Mbar_A2053"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2829" fbc:name="Mbar_A2829" fbc:label="G_Mbar_A2829"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2084" fbc:name="Mbar_A2084" fbc:label="G_Mbar_A2084"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2696" fbc:name="Mbar_A2696" fbc:label="G_Mbar_A2696"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2220" fbc:name="Mbar_A2220" fbc:label="G_Mbar_A2220"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1041" fbc:name="Mbar_A1041" fbc:label="G_Mbar_A1041"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3099" fbc:name="Mbar_A3099" fbc:label="G_Mbar_A3099"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3101" fbc:name="Mbar_A3101" fbc:label="G_Mbar_A3101"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3103" fbc:name="Mbar_A3103" fbc:label="G_Mbar_A3103"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3100" fbc:name="Mbar_A3100" fbc:label="G_Mbar_A3100"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3098" fbc:name="Mbar_A3098" fbc:label="G_Mbar_A3098"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3104" fbc:name="Mbar_A3104" fbc:label="G_Mbar_A3104"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3103" fbc:name="Mbar_A3103" fbc:label="G_Mbar_A3103"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3098" fbc:name="Mbar_A3098" fbc:label="G_Mbar_A3098"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3106" fbc:name="Mbar_A3106" fbc:label="G_Mbar_A3106"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3102" fbc:name="Mbar_A3102" fbc:label="G_Mbar_A3102"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3099" fbc:name="Mbar_A3099" fbc:label="G_Mbar_A3099"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3100" fbc:name="Mbar_A3100" fbc:label="G_Mbar_A3100"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3105" fbc:name="Mbar_A3105" fbc:label="G_Mbar_A3105"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3102" fbc:name="Mbar_A3102" fbc:label="G_Mbar_A3102"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3101" fbc:name="Mbar_A3101" fbc:label="G_Mbar_A3101"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0186" fbc:name="Mbar_A0186" fbc:label="G_Mbar_A0186"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2632" fbc:name="Mbar_A2632" fbc:label="G_Mbar_A2632"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1264" fbc:name="Mbar_A1264" fbc:label="G_Mbar_A1264"/>
@@ -22036,74 +22036,82 @@
       <fbc:geneProduct fbc:id="G_Mbar_A0696" fbc:name="Mbar_A0696" fbc:label="G_Mbar_A0696"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2060" fbc:name="Mbar_A2060" fbc:label="G_Mbar_A2060"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3267" fbc:name="Mbar_A3267" fbc:label="G_Mbar_A3267"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A3581" fbc:name="Mbar_A3581" fbc:label="G_Mbar_A3581"/>
       <fbc:geneProduct fbc:id="G_Mbar_A3580" fbc:name="Mbar_A3580" fbc:label="G_Mbar_A3580"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A3581" fbc:name="Mbar_A3581" fbc:label="G_Mbar_A3581"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1432" fbc:name="Mbar_A1432" fbc:label="G_Mbar_A1432"/>
       <fbc:geneProduct fbc:id="G_Mbar_A0887" fbc:name="Mbar_A0887" fbc:label="G_Mbar_A0887"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2825" fbc:name="Mbar_A2825" fbc:label="G_Mbar_A2825"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2468" fbc:name="Mbar_A2468" fbc:label="G_Mbar_A2468"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2938" fbc:name="Mbar_A2938" fbc:label="G_Mbar_A2938"/>
       <fbc:geneProduct fbc:id="G_Mbar_A2589" fbc:name="Mbar_A2589" fbc:label="G_Mbar_A2589"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0639" fbc:name="Mbar_A0639" fbc:label="G_Mbar_A0639"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1954" fbc:name="Mbar_A1954" fbc:label="G_Mbar_A1954"/>
-      <fbc:geneProduct fbc:id="G_Mbar_A0640" fbc:name="Mbar_A0640" fbc:label="G_Mbar_A0640"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1953" fbc:name="Mbar_A1953" fbc:label="G_Mbar_A1953"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0639" fbc:name="Mbar_A0639" fbc:label="G_Mbar_A0639"/>
+      <fbc:geneProduct fbc:id="G_Mbar_A0640" fbc:name="Mbar_A0640" fbc:label="G_Mbar_A0640"/>
       <fbc:geneProduct fbc:id="G_Mbar_A1952" fbc:name="Mbar_A1952" fbc:label="G_Mbar_A1952"/>
     </fbc:listOfGeneProducts>
     <groups:listOfGroups>
       <groups:group metaid="meta_G_Vitamins__32__Cofactor__32__Biosynthesis" sboTerm="SBO:0000633" groups:id="G_Vitamins__32__Cofactor__32__Biosynthesis" groups:name="Vitamins Cofactor Biosynthesis" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="alkaline phosphatase" groups:idRef="R_ALKP"/>
+          <groups:member groups:name="aminopropanol phosphorylase" groups:idRef="R_APPLP"/>
           <groups:member groups:name="F430 reduction" groups:idRef="R_F430R"/>
-          <groups:member groups:name="Cobinamide adenyltransferase" groups:idRef="R_CBIAT"/>
+          <groups:member groups:name="alpha ribazole 5 phosphate phosphatase" groups:idRef="R_RZ5PP2"/>
           <groups:member groups:name="lactaldehyde dehydrogenase" groups:idRef="R_LCAD"/>
+          <groups:member groups:name="sirohydrochlorin cobaltochelatase" groups:idRef="R_SHCHCC"/>
           <groups:member groups:name="5,10-methylenetetrahydrofolate reductase (NADH)" groups:idRef="R_MTHFR2"/>
+          <groups:member groups:name="riboflavin synthase" groups:idRef="R_RBFSb"/>
+          <groups:member groups:name="biotin acetyl CoA carboxylase ligase" groups:idRef="R_BACCL"/>
           <groups:member groups:name="hydroxyethylthiazole kinase" groups:idRef="R_HETZK"/>
           <groups:member groups:name="pyrimidine phosphatase" groups:idRef="R_PMDPHT"/>
-          <groups:member groups:name="2 phospho L lactate synthase" groups:idRef="R_2PLS"/>
-          <groups:member groups:name="precorrin 2 C20 methyltransferase" groups:idRef="R_CPC2MT"/>
+          <groups:member groups:name="adenosylmethionine 8 amino 7 oxononanoate transaminase" groups:idRef="R_AMAOTr"/>
+          <groups:member groups:name="sirohydrochlorin dehydrogenase NAD" groups:idRef="R_SHCHD2"/>
           <groups:member groups:name="gamma F420 1gamma L glutamate ligase" groups:idRef="R_GF4GL_1"/>
-          <groups:member groups:name="riboflavin synthase" groups:idRef="R_RBFSb"/>
-          <groups:member groups:name="Adenosyl cobinamide phosphate guanyltransferase" groups:idRef="R_ACBIPGT"/>
+          <groups:member groups:name="S alpha hydroxyglutarate dehydrogenase" groups:idRef="R_AHGDx"/>
+          <groups:member groups:name="precorrin 4 C11 methyltransferase" groups:idRef="R_CPC4MT"/>
+          <groups:member groups:name="cob I alamin HBI adenosyltransferase" groups:idRef="R_CBLAT2"/>
           <groups:member groups:name="5 10 methylenetetrahydrofolatereductase NADPH" groups:idRef="R_MTHFR3"/>
           <groups:member groups:name="dihydrofolate reductase" groups:idRef="R_DHFR"/>
           <groups:member groups:name="glutamyl tRNA reductase" groups:idRef="R_GLUTRR"/>
+          <groups:member groups:name="4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase" groups:idRef="R_AHMMPS"/>
           <groups:member groups:name="Adenosylcobalamin-HBI reductase" groups:idRef="R_ADCBHBIR"/>
           <groups:member groups:name="5-hydroxybenzimidazolylcobamide reduction" groups:idRef="R_5HBCR"/>
+          <groups:member groups:name="sirohydrochlorin ferrochetalase" groups:idRef="R_SHCHF"/>
           <groups:member groups:name="5-hydroxybenzimidazolylcobamide oxidation" groups:idRef="R_5HBCOX"/>
           <groups:member groups:name="thiamine phosphate kinase" groups:idRef="R_TMPKr"/>
-          <groups:member groups:name="adenosylcobinamide phosphate synthase" groups:idRef="R_ADCPS2"/>
           <groups:member groups:name="3 4 Dihydroxy 2 butanone 4 phosphate synthase" groups:idRef="R_DB4PS"/>
-          <groups:member groups:name="precorrin 4 C11 methyltransferase" groups:idRef="R_CPC4MT"/>
           <groups:member groups:name="dihydrofolate synthase" groups:idRef="R_DHFS"/>
-          <groups:member groups:name="precorrin 8X methylmutase" groups:idRef="R_CPC8MM"/>
+          <groups:member groups:name="coenzyme F390 hydrolase ATP" groups:idRef="R_CF3Ha"/>
           <groups:member groups:name="Biotin synthetase" groups:idRef="R_BTS5"/>
+          <groups:member groups:name="alkaline phosphatase Dihydroneopterin" groups:idRef="R_AKP1"/>
           <groups:member groups:name="Nicotinate nucleotide 5 hydroxybenzimidazole phosphoribosyltransferase" groups:idRef="R_NN5HBPRT"/>
           <groups:member groups:name="gamma F420 2gamma L glutamate ligase" groups:idRef="R_GF4GL_2"/>
-          <groups:member groups:name="cob I alamin degradation" groups:idRef="R_CBLD"/>
-          <groups:member groups:name="precorrin 5 C1 methyltransferase" groups:idRef="R_CPC5MT"/>
+          <groups:member groups:name="acid phosphatase FMN" groups:idRef="R_ACP1_FMN"/>
           <groups:member groups:name="thiamine kinase" groups:idRef="R_TMKr"/>
           <groups:member groups:name="Biotin synthase protein regeneration reaction" groups:idRef="R_BSPRR"/>
+          <groups:member groups:name="cob I alamin degradation" groups:idRef="R_CBLD"/>
           <groups:member groups:name="coenzyme F430 precursor synthase 1 aminase" groups:idRef="R_F430S1"/>
           <groups:member groups:name="nicotinamide nucleotide adenylyltransferase" groups:idRef="R_NMNAT"/>
-          <groups:member groups:name="alpha ribazole 5 phosphate phosphatase" groups:idRef="R_RZ5PP2"/>
+          <groups:member groups:name="Adenosyl cobinamide amidohydrolase" groups:idRef="R_ADOCBIAH"/>
+          <groups:member groups:name="coenzyme F390 hydrolase GTP" groups:idRef="R_CF3Hg"/>
           <groups:member groups:name="coenzyme F430 precursor synthase 2 reduction" groups:idRef="R_F430S2"/>
           <groups:member groups:name="dethiobiotin synthase" groups:idRef="R_DBTSr"/>
           <groups:member groups:name="thiazole phosphate synthesis" groups:idRef="R_THZPSN"/>
-          <groups:member groups:name="alkaline phosphatase" groups:idRef="R_ALKP"/>
+          <groups:member groups:name="cobaltochelatase" groups:idRef="R_COCHL"/>
           <groups:member groups:name="7 8 didemethyl 8 hydroxy 5 deazariboflavin synthetase" groups:idRef="R_DMHDRFS"/>
           <groups:member groups:name="glutamate 1 semialdehyde aminotransferase" groups:idRef="R_G1SATi"/>
-          <groups:member groups:name="adenosylcobyric acid synthase glutamine hydrolysing" groups:idRef="R_ADCYRS"/>
           <groups:member groups:name="gamma F420 3gamma L glutamate ligase" groups:idRef="R_GF4GL_3"/>
           <groups:member groups:name="nicotinate nucleotide adenylyltransferase" groups:idRef="R_NNAT"/>
           <groups:member groups:name="5-hydroxybenzimidazolylcobamide oxidized coblat reduction" groups:idRef="R_5HBCR2"/>
+          <groups:member groups:name="5 hydroxybenzimidazole synthase" groups:idRef="R_5HBZIDS"/>
           <groups:member groups:name="threonine phosphate decarboxylase" groups:idRef="R_THRPD"/>
-          <groups:member groups:name="8 amino 7 oxononanoate synthase" groups:idRef="R_AOXSr"/>
-          <groups:member groups:name="precorrin 6Y C5 15 methyltransferase decarboxylating" groups:idRef="R_CPC6MT"/>
           <groups:member groups:name="threonine phosphate synthase" groups:idRef="R_THRPS"/>
           <groups:member groups:name="uroporphyrinogen methyltransferase" groups:idRef="R_UPP3MT"/>
           <groups:member groups:name="coenzyme F430 precursor synthase 3 reduction" groups:idRef="R_F430S3"/>
+          <groups:member groups:name="coenzyme F390 synthetase ATP" groups:idRef="R_CF3Sa"/>
+          <groups:member groups:name="Adenosylcobalamin 5 phosphate synthase" groups:idRef="R_ADOCBLS2"/>
           <groups:member groups:name="thiamine phosphate diphosphorylase" groups:idRef="R_TMPPP"/>
-          <groups:member groups:name="sirohydrochlorin cobaltochelatase" groups:idRef="R_SHCHCC"/>
+          <groups:member groups:name="coenzyme F390 synthetase GTP" groups:idRef="R_CF3Sg"/>
           <groups:member groups:name="nicotinate nucleotide diphosphorylase carboxylating" groups:idRef="R_NNDPR"/>
           <groups:member groups:name="gamma F420 4gamma L glutamate ligase" groups:idRef="R_GF4GL_4"/>
           <groups:member groups:name="uroporphyrinogen III synthase" groups:idRef="R_UPP3S"/>
@@ -22111,9 +22119,7 @@
           <groups:member groups:name="precorrin 6A reductase" groups:idRef="R_CPC6R"/>
           <groups:member groups:name="isopentenyl diphosphate isomerase type3" groups:idRef="R_IPDDI3x"/>
           <groups:member groups:name="malate dehydrogenase NADP" groups:idRef="R_MDHy"/>
-          <groups:member groups:name="alkaline phosphatase Dihydroneopterin" groups:idRef="R_AKP1"/>
           <groups:member groups:name="coenzyme F430 precursor synthase 5 cyclization" groups:idRef="R_F430S5"/>
-          <groups:member groups:name="adenosylmethionine 8 amino 7 oxononanoate transaminase" groups:idRef="R_AMAOTr"/>
           <groups:member groups:name="phosphomethylpyrimidine kinase" groups:idRef="R_PMPK"/>
           <groups:member groups:name="2-amino-5-formylamino-6-ribosylamino-4-(3H)-pyrimidinone 5&apos;-monophosphate hydrolase" groups:idRef="R_FAPH"/>
           <groups:member groups:name="hydroxymethylbilane synthase" groups:idRef="R_HMBS"/>
@@ -22121,271 +22127,264 @@
           <groups:member groups:name="methylenetetrahydrofolate dehydrogenase NAD" groups:idRef="R_MTHFD2i"/>
           <groups:member groups:name="gamma F420 5gamma L glutamate ligase" groups:idRef="R_GF4GL_5"/>
           <groups:member groups:name="NAD+ phosphohydrolase" groups:idRef="R_NADDP"/>
-          <groups:member groups:name="coenzyme F390 synthetase GTP" groups:idRef="R_CF3Sg"/>
+          <groups:member groups:name="Cobinamide adenyltransferase" groups:idRef="R_CBIAT"/>
           <groups:member groups:name="NAD kinase" groups:idRef="R_NADK"/>
-          <groups:member groups:name="Adenosyl cobinamide amidohydrolase" groups:idRef="R_ADOCBIAH"/>
           <groups:member groups:name="porphobilinogen synthase" groups:idRef="R_PPBNGS"/>
           <groups:member groups:name="6 pyruvoyltetrahydropterin synthase" groups:idRef="R_PTHPS"/>
-          <groups:member groups:name="cob II yrinic acid a c diamide reductase" groups:idRef="R_CYRDAR"/>
           <groups:member groups:name="isopentenyl diphosphate isomerase type3" groups:idRef="R_IPDDI3y"/>
-          <groups:member groups:name="coenzyme F390 hydrolase GTP" groups:idRef="R_CF3Hg"/>
           <groups:member groups:name="methenyltetrahydrofolate cyclohydrolase" groups:idRef="R_MTHFC"/>
+          <groups:member groups:name="adenosylcobinamide phosphate synthase" groups:idRef="R_ADCPS2"/>
           <groups:member groups:name="4-amino-2-methyl-5-phosphomethylpyrimidine synthetase" groups:idRef="R_AMPMS2"/>
           <groups:member groups:name="Nicotinate D-ribonucleotide phosphohydrolase" groups:idRef="R_NT5C"/>
-          <groups:member groups:name="acid phosphatase FMN" groups:idRef="R_ACP1_FMN"/>
-          <groups:member groups:name="cob I alamin HBI adenosyltransferase" groups:idRef="R_CBLAT2"/>
-          <groups:member groups:name="precorrin 3B C17 methyltransferase" groups:idRef="R_CPC3MT"/>
+          <groups:member groups:name="Adenosyl cobinamide phosphate guanyltransferase" groups:idRef="R_ACBIPGT"/>
+          <groups:member groups:name="precorrin 5 C1 methyltransferase" groups:idRef="R_CPC5MT"/>
           <groups:member groups:name="gamma F420 6gamma L glutamate ligase" groups:idRef="R_GF4GL_6"/>
           <groups:member groups:name="Flavin adenine dinucleotide synthase" groups:idRef="R_FMNAT"/>
           <groups:member groups:name="LPPGFo 2 phospho L lactate transferase" groups:idRef="R_LPFPLT"/>
           <groups:member groups:name="L-aspartate:NAD+ oxidoreductase" groups:idRef="R_ASPO2x"/>
-          <groups:member groups:name="cobaltochelatase" groups:idRef="R_COCHL"/>
+          <groups:member groups:name="precorrin 3B C17 methyltransferase" groups:idRef="R_CPC3MT"/>
           <groups:member groups:name="cob I yrinic acid a c diamide adenosyltransferase" groups:idRef="R_CYRDAAT"/>
+          <groups:member groups:name="precorrin 8X methylmutase" groups:idRef="R_CPC8MM"/>
+          <groups:member groups:name="adenosylcobyric acid synthase glutamine hydrolysing" groups:idRef="R_ADCYRS"/>
           <groups:member groups:name="NAPRTase rev" groups:idRef="R_NAPRTr"/>
           <groups:member groups:name="folate reductase" groups:idRef="R_FOLR2"/>
-          <groups:member groups:name="S alpha hydroxyglutarate dehydrogenase" groups:idRef="R_AHGDx"/>
-          <groups:member groups:name="coenzyme F390 synthetase ATP" groups:idRef="R_CF3Sa"/>
           <groups:member groups:name="Precorrin-2 decarboxylase" groups:idRef="R_PRE2DC"/>
           <groups:member groups:name="Thiamin diphosphate phosphohydrolase" groups:idRef="R_TDP"/>
-          <groups:member groups:name="5 hydroxybenzimidazole synthase" groups:idRef="R_5HBZIDS"/>
           <groups:member groups:name="dihydropteroate synthase" groups:idRef="R_DHPS2"/>
-          <groups:member groups:name="4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase" groups:idRef="R_AHMMPS"/>
-          <groups:member groups:name="sirohydrochlorin ferrochetalase" groups:idRef="R_SHCHF"/>
-          <groups:member groups:name="Adenosylcobalamin 5 phosphate synthase" groups:idRef="R_ADOCBLS2"/>
+          <groups:member groups:name="8 amino 7 oxononanoate synthase" groups:idRef="R_AOXSr"/>
           <groups:member groups:name="2 5 diamino 6 ribosylamino 4 3H pyrimidinone 5 phosphate reductase" groups:idRef="R_DROPPRx"/>
-          <groups:member groups:name="quinolinate synthase" groups:idRef="R_QULNS"/>
-          <groups:member groups:name="coenzyme F390 hydrolase ATP" groups:idRef="R_CF3Ha"/>
           <groups:member groups:name="Protoheme synthetase" groups:idRef="R_PHEMES"/>
+          <groups:member groups:name="cob II yrinic acid a c diamide reductase" groups:idRef="R_CYRDAR"/>
           <groups:member groups:name="hydroxymethylpyrimidine kinase ATP" groups:idRef="R_HMPK1"/>
-          <groups:member groups:name="biotin acetyl CoA carboxylase ligase" groups:idRef="R_BACCL"/>
           <groups:member groups:name="Flavin cytosine dinucleotide synthase" groups:idRef="R_FMNAT_CTP_"/>
-          <groups:member groups:name="aminopropanol phosphorylase" groups:idRef="R_APPLP"/>
-          <groups:member groups:name="2 5 diamino 6 ribitylamino 4 3H pyrimidinone 5 phosphate deaminase" groups:idRef="R_DRTPPD"/>
           <groups:member groups:name="riboflavin synthase" groups:idRef="R_RBFSa"/>
           <groups:member groups:name="gamma F420 0gamma L glutamate ligase" groups:idRef="R_GF4GL_0"/>
+          <groups:member groups:name="precorrin 6Y C5 15 methyltransferase decarboxylating" groups:idRef="R_CPC6MT"/>
           <groups:member groups:name="Flavin guanosine dinucleotide synthase" groups:idRef="R_FMNAT_GTP_"/>
-          <groups:member groups:name="sirohydrochlorin dehydrogenase NAD" groups:idRef="R_SHCHD2"/>
-          <groups:member groups:name="2 5 diamino 6 ribosylamino 4 3H pyrimidinone 5 phosphate reductase nadph" groups:idRef="R_DROPPRy"/>
+          <groups:member groups:name="2 5 diamino 6 ribitylamino 4 3H pyrimidinone 5 phosphate deaminase" groups:idRef="R_DRTPPD"/>
+          <groups:member groups:name="quinolinate synthase" groups:idRef="R_QULNS"/>
+          <groups:member groups:name="precorrin 2 C20 methyltransferase" groups:idRef="R_CPC2MT"/>
           <groups:member groups:name="Cob II yrinate a c diamide synthase glutamine hydrolysing" groups:idRef="R_CYRDAS"/>
+          <groups:member groups:name="2 phospho L lactate synthase" groups:idRef="R_2PLS"/>
+          <groups:member groups:name="2 5 diamino 6 ribosylamino 4 3H pyrimidinone 5 phosphate reductase nadph" groups:idRef="R_DROPPRy"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Transport" sboTerm="SBO:0000633" groups:id="G_Transport" groups:name="Transport" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="L proline transport via ABC system" groups:idRef="R_PROabc"/>
-          <groups:member groups:name="molybdate transport via ABC system" groups:idRef="R_MOBDabc"/>
           <groups:member groups:name="zinc transport via ABC system" groups:idRef="R_ZNabc"/>
-          <groups:member groups:name="H exporting ATPase" groups:idRef="R_ATPS1"/>
+          <groups:member groups:name="molybdate transport via ABC system" groups:idRef="R_MOBDabc"/>
           <groups:member groups:name="1,2-Dichloroethane transport" groups:idRef="R_12DCAt"/>
+          <groups:member groups:name="calcium transport via ABC system" groups:idRef="R_CA2abc"/>
           <groups:member groups:name="Chloroethane transport" groups:idRef="R_CETHt"/>
+          <groups:member groups:name="Alanine Sodium symporter" groups:idRef="R_ALAt4r"/>
           <groups:member groups:name="thiamine transport via ABC system" groups:idRef="R_THMabc"/>
-          <groups:member groups:name="Ethylene transport" groups:idRef="R_ETHYt"/>
           <groups:member groups:name="Copper export via ATPase" groups:idRef="R_Cut1"/>
+          <groups:member groups:name="Ethylene transport" groups:idRef="R_ETHYt"/>
           <groups:member groups:name="Sodium-Proline symporter" groups:idRef="R_PROt4"/>
           <groups:member groups:name="Zinc Hydrogen-Potassium antiporter" groups:idRef="R_ZN2t4"/>
           <groups:member groups:name="Ethane transport" groups:idRef="R_ETHt"/>
           <groups:member groups:name="unknown cobalamin degradation product diffusion" groups:idRef="R_UNK_CBL1DEGt"/>
-          <groups:member groups:name="Cobinamide transport via ABC system" groups:idRef="R_CBIabc"/>
           <groups:member groups:name="NaK exchanging ATPase  1" groups:idRef="R_NaKt_1"/>
           <groups:member groups:name="Cadmium Hydrogen-Potassium antiporter" groups:idRef="R_CD2t4"/>
-          <groups:member groups:name="CO transporter via diffusion" groups:idRef="R_COt"/>
+          <groups:member groups:name="sulfate transport exchange via proton symport" groups:idRef="R_SO3t"/>
           <groups:member groups:name="Nitrogen exchange diffusion" groups:idRef="R_N2tr"/>
           <groups:member groups:name="unknown riboflavin degradation product diffusion" groups:idRef="R_UNK_RBFDEGt"/>
           <groups:member groups:name="nickel transport inout via permease no H" groups:idRef="R_NIt5"/>
           <groups:member groups:name="Pantothenate reversible transport via proton symport" groups:idRef="R_PNTOt2"/>
           <groups:member groups:name="thiosulfate transport via ABC system" groups:idRef="R_TSULabc"/>
-          <groups:member groups:name="Monomethylamine symport" groups:idRef="R_MMAt"/>
+          <groups:member groups:name="biotin transport (ABC)" groups:idRef="R_BTNabc"/>
           <groups:member groups:name="Cob 1 alamin HBI transport via ABC system" groups:idRef="R_CBL1HBIabc"/>
+          <groups:member groups:name="cobalt transport inout via permease no H" groups:idRef="R_COBALTt5"/>
+          <groups:member groups:name="cadmium transport in via ABC system" groups:idRef="R_CD2abc2"/>
+          <groups:member groups:name="sulfate transport in via proton symport" groups:idRef="R_SO4t2"/>
           <groups:member groups:name="inorganic diphosphatase one proton translocation" groups:idRef="R_PPA_1"/>
           <groups:member groups:name="D gluconate transport via proton symport reversible" groups:idRef="R_GLCNt2r"/>
-          <groups:member groups:name="Biotin uptake" groups:idRef="R_BTNt2i"/>
           <groups:member groups:name="Dimethylamine symport" groups:idRef="R_DMAt"/>
+          <groups:member groups:name="4 Aminobenzoate mitochondrial transport via symport" groups:idRef="R_4ABZt2r"/>
           <groups:member groups:name="potassium reversible transport via proton symport" groups:idRef="R_Kt2r"/>
+          <groups:member groups:name="CO transporter via diffusion" groups:idRef="R_COt"/>
           <groups:member groups:name="manganese transport via ABC system" groups:idRef="R_MNabc"/>
-          <groups:member groups:name="CO2 transporter via diffusion" groups:idRef="R_CO2t"/>
-          <groups:member groups:name="cadmium transport in via ABC system" groups:idRef="R_CD2abc2"/>
+          <groups:member groups:name="Biotin uptake" groups:idRef="R_BTNt2i"/>
           <groups:member groups:name="L cysteine reversible transport via proton symport" groups:idRef="R_CYSt2r"/>
           <groups:member groups:name="Acetate carbonate antiporter" groups:idRef="R_ACt3r"/>
+          <groups:member groups:name="cadmium transport out via ABC system" groups:idRef="R_CD2abc1"/>
           <groups:member groups:name="L glutamate transport via proton symport reversible" groups:idRef="R_GLUt2r"/>
           <groups:member groups:name="glycerol transport via channel" groups:idRef="R_GLYCt"/>
-          <groups:member groups:name="calcium transport via ABC system" groups:idRef="R_CA2abc"/>
-          <groups:member groups:name="Cob 1 alamin transport via ABC system" groups:idRef="R_CBL1abc"/>
           <groups:member groups:name="L leucine reversible transport via proton symport" groups:idRef="R_LEUt2r"/>
-          <groups:member groups:name="Alanine Sodium symporter" groups:idRef="R_ALAt4r"/>
           <groups:member groups:name="HK gastricnon gastric P ATPase and ABC ATPase" groups:idRef="R_HKt"/>
           <groups:member groups:name="Tryptophan import via proton symport" groups:idRef="R_TRPt2r"/>
-          <groups:member groups:name="sulfate transport in via proton symport" groups:idRef="R_SO4t2"/>
+          <groups:member groups:name="R acetoin transport via proton symport" groups:idRef="R_ACTNt2r"/>
           <groups:member groups:name="Urea transport via facilitate diffusion" groups:idRef="R_UREAt"/>
           <groups:member groups:name="Glyceraldehyde facilitated diffusion" groups:idRef="R_GLYALDt"/>
-          <groups:member groups:name="ethanolamine transport inout via proton symport" groups:idRef="R_ETHAt6"/>
-          <groups:member groups:name="cobalt transport inout via permease no H" groups:idRef="R_COBALTt5"/>
           <groups:member groups:name="Copper transport via ABC system" groups:idRef="R_Cuabc"/>
+          <groups:member groups:name="ethanolamine transport inout via proton symport" groups:idRef="R_ETHAt6"/>
           <groups:member groups:name="iron II transport via ABC system" groups:idRef="R_FE2abc"/>
           <groups:member groups:name="H2O transport via diffusion" groups:idRef="R_H2Ot"/>
           <groups:member groups:name="iron III transport via ABC system" groups:idRef="R_FE3abc"/>
           <groups:member groups:name="Glycine betaine transport via ABC system" groups:idRef="R_GLYBabc"/>
           <groups:member groups:name="Methanol diffusion" groups:idRef="R_MEOHt2"/>
           <groups:member groups:name="Nicotinic acid uptake" groups:idRef="R_NACUP"/>
-          <groups:member groups:name="phenylacetate transport in via proton symporter" groups:idRef="R_PACt2r"/>
-          <groups:member groups:name="riboflavin transport in via proton symport" groups:idRef="R_RIBFLVt2"/>
           <groups:member groups:name="chlorideion transport out via diffusion" groups:idRef="R_Clt"/>
+          <groups:member groups:name="phenylacetate transport in via proton symporter" groups:idRef="R_PACt2r"/>
           <groups:member groups:name="folate transport via proton simport" groups:idRef="R_FOLt"/>
+          <groups:member groups:name="calcium sodium antiporter" groups:idRef="R_CAt6"/>
+          <groups:member groups:name="riboflavin transport in via proton symport" groups:idRef="R_RIBFLVt2"/>
           <groups:member groups:name="sodium proton antiporter HNA is 11" groups:idRef="R_NAt3_1"/>
           <groups:member groups:name="Formate transporter" groups:idRef="R_FORt"/>
           <groups:member groups:name="Cobalt transport via ABC system" groups:idRef="R_Coabc"/>
           <groups:member groups:name="Methanethiol Transport" groups:idRef="R_CH4St"/>
+          <groups:member groups:name="H exporting ATPase" groups:idRef="R_ATPS1"/>
+          <groups:member groups:name="CO2 transporter via diffusion" groups:idRef="R_CO2t"/>
           <groups:member groups:name="sulfate transport via ABC system" groups:idRef="R_SULabc"/>
-          <groups:member groups:name="biotin transport (ABC)" groups:idRef="R_BTNabc"/>
           <groups:member groups:name="Sodium ABC transporter" groups:idRef="R_Naabc"/>
-          <groups:member groups:name="cadmium transport out via ABC system" groups:idRef="R_CD2abc1"/>
           <groups:member groups:name="ammonia reversible transport" groups:idRef="R_NH4t"/>
+          <groups:member groups:name="Cobinamide transport via ABC system" groups:idRef="R_CBIabc"/>
           <groups:member groups:name="magnesium transport via ABC system" groups:idRef="R_MG2abc"/>
           <groups:member groups:name="hydrogen transport" groups:idRef="R_H2td"/>
           <groups:member groups:name="glycine reversible transport via sodium symport" groups:idRef="R_GLYt4r"/>
           <groups:member groups:name="pyruvate transport in via proton symport" groups:idRef="R_PYRt2"/>
           <groups:member groups:name="Dimethyl sulfide Transport" groups:idRef="R_DMSt"/>
-          <groups:member groups:name="sulfate transport exchange via proton symport" groups:idRef="R_SO3t"/>
           <groups:member groups:name="L isoleucine reversible transport via proton symport" groups:idRef="R_ILEt2r"/>
           <groups:member groups:name="L valine reversible transport via proton symport" groups:idRef="R_VALt2r"/>
           <groups:member groups:name="phosphate transport via ABC system" groups:idRef="R_PIabc"/>
-          <groups:member groups:name="magnesium transport inout via permease no H" groups:idRef="R_MGt5"/>
-          <groups:member groups:name="iron III dicitrate transport via ABC system" groups:idRef="R_FEDCabc"/>
-          <groups:member groups:name="calcium sodium antiporter" groups:idRef="R_CAt6"/>
+          <groups:member groups:name="Methane Transport" groups:idRef="R_CH4t"/>
           <groups:member groups:name="L lysine transport out via proton antiport reversible" groups:idRef="R_LYSt3r"/>
           <groups:member groups:name="Sodium-translocating pyrophosphatase" groups:idRef="R_PPA_3"/>
-          <groups:member groups:name="h2s transport diffusion" groups:idRef="R_H2St"/>
+          <groups:member groups:name="iron III dicitrate transport via ABC system" groups:idRef="R_FEDCabc"/>
           <groups:member groups:name="Glycoaldehydye reversible transport" groups:idRef="R_GCALDt"/>
           <groups:member groups:name="Zinc ABC transporter 2" groups:idRef="R_Znabc2"/>
-          <groups:member groups:name="Trimethylamine symport" groups:idRef="R_TMAt2"/>
-          <groups:member groups:name="4 Aminobenzoate mitochondrial transport via symport" groups:idRef="R_4ABZt2r"/>
-          <groups:member groups:name="indole 3 acetate transport via proton symport" groups:idRef="R_IND3ACt2r"/>
-          <groups:member groups:name="Methane Transport" groups:idRef="R_CH4t"/>
-          <groups:member groups:name="ydroxyphenylacetate transport in via proton symporter" groups:idRef="R_HPACt2r"/>
-          <groups:member groups:name="R acetoin transport via proton symport" groups:idRef="R_ACTNt2r"/>
           <groups:member groups:name="acetolactate reversible transport via proton symport" groups:idRef="R_ALACt2r"/>
+          <groups:member groups:name="Trimethylamine symport" groups:idRef="R_TMAt2"/>
+          <groups:member groups:name="magnesium transport inout via permease no H" groups:idRef="R_MGt5"/>
+          <groups:member groups:name="indole 3 acetate transport via proton symport" groups:idRef="R_IND3ACt2r"/>
+          <groups:member groups:name="h2s transport diffusion" groups:idRef="R_H2St"/>
+          <groups:member groups:name="Cob 1 alamin transport via ABC system" groups:idRef="R_CBL1abc"/>
+          <groups:member groups:name="Monomethylamine symport" groups:idRef="R_MMAt"/>
           <groups:member groups:name="nickel transport via ABC system" groups:idRef="R_NIabc"/>
+          <groups:member groups:name="ydroxyphenylacetate transport in via proton symporter" groups:idRef="R_HPACt2r"/>
+          <groups:member groups:name="L proline transport via ABC system" groups:idRef="R_PROabc"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Coenzyme__32__B__32__Biosynthesis" sboTerm="SBO:0000633" groups:id="G_Coenzyme__32__B__32__Biosynthesis" groups:name="Coenzyme B Biosynthesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="coenzyme b synthatse" groups:idRef="R_COBS"/>
-          <groups:member groups:name="R  homo 2citrate dehydratase" groups:idRef="R_RH2CD"/>
-          <groups:member groups:name="alpha ketopimelateCoA ligase" groups:idRef="R_AKPCAL"/>
-          <groups:member groups:name="cis homoaconitate hydrolase" groups:idRef="R_CHACH"/>
-          <groups:member groups:name="threo iso homo 3citrate dehydrogenase" groups:idRef="R_TIH3CD"/>
-          <groups:member groups:name="cis homo 2aconitate hydrolase" groups:idRef="R_CH2ACH"/>
-          <groups:member groups:name="7 mercaptoheptanoate synthase" groups:idRef="R_7MHS"/>
-          <groups:member groups:name="cis homo 3aconitate hydrolase" groups:idRef="R_CH3ACH"/>
-          <groups:member groups:name="trans homoaconitate hydrolase" groups:idRef="R_THACH"/>
           <groups:member groups:name="R  homo 3citrate dehydratase" groups:idRef="R_RH3CD"/>
-          <groups:member groups:name="threo isohomocitrate dehydrogenase" groups:idRef="R_TIHCD"/>
-          <groups:member groups:name="alpha ketosubmerate decarboxylase" groups:idRef="R_AKSDC"/>
-          <groups:member groups:name="alpha ketoadipateCoA ligase" groups:idRef="R_AKACAL"/>
-          <groups:member groups:name="threo iso homo 2citrate dehydrogenase" groups:idRef="R_TIH2CD"/>
-          <groups:member groups:name="alpha ketoglutarateCoA ligase" groups:idRef="R_AKGCAL"/>
-          <groups:member groups:name="S homocitrate dehydratase" groups:idRef="R_SHCD"/>
+          <groups:member groups:name="trans homoaconitate hydrolase" groups:idRef="R_THACH"/>
+          <groups:member groups:name="R  homo 2citrate dehydratase" groups:idRef="R_RH2CD"/>
+          <groups:member groups:name="coenzyme b synthatse" groups:idRef="R_COBS"/>
           <groups:member groups:name="7 mercaptoheptanoylthreonine synthase" groups:idRef="R_7MHTS"/>
+          <groups:member groups:name="alpha ketoadipateCoA ligase" groups:idRef="R_AKACAL"/>
+          <groups:member groups:name="alpha ketosubmerate decarboxylase" groups:idRef="R_AKSDC"/>
+          <groups:member groups:name="cis homo 2aconitate hydrolase" groups:idRef="R_CH2ACH"/>
+          <groups:member groups:name="S homocitrate dehydratase" groups:idRef="R_SHCD"/>
+          <groups:member groups:name="cis homoaconitate hydrolase" groups:idRef="R_CHACH"/>
+          <groups:member groups:name="threo iso homo 2citrate dehydrogenase" groups:idRef="R_TIH2CD"/>
+          <groups:member groups:name="threo isohomocitrate dehydrogenase" groups:idRef="R_TIHCD"/>
+          <groups:member groups:name="alpha ketopimelateCoA ligase" groups:idRef="R_AKPCAL"/>
+          <groups:member groups:name="cis homo 3aconitate hydrolase" groups:idRef="R_CH3ACH"/>
           <groups:member groups:name="alpha ketosubmerateCoA ligase" groups:idRef="R_AKSCAL"/>
+          <groups:member groups:name="7 mercaptoheptanoate synthase" groups:idRef="R_7MHS"/>
+          <groups:member groups:name="alpha ketoglutarateCoA ligase" groups:idRef="R_AKGCAL"/>
+          <groups:member groups:name="threo iso homo 3citrate dehydrogenase" groups:idRef="R_TIH3CD"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Glutamate__32__metabolism" sboTerm="SBO:0000633" groups:id="G_Glutamate__32__metabolism" groups:name="Glutamate metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="Glutamate Decarboxylase" groups:idRef="R_GLUDC"/>
           <groups:member groups:name="succinate semialdehyde dehydrogenase NAD" groups:idRef="R_SSALx"/>
-          <groups:member groups:name="carbamoyl phosphate synthase glutamine hydrolysing" groups:idRef="R_CBPS"/>
           <groups:member groups:name="glutamine phosphoribosyldiphosphate amidotransferase" groups:idRef="R_GLUPRT"/>
           <groups:member groups:name="succinate semialdehyde dehydrogenase NADP" groups:idRef="R_SSALy"/>
           <groups:member groups:name="4 aminobutyrate transaminase" groups:idRef="R_ABTA"/>
           <groups:member groups:name="arginine decarboxylase" groups:idRef="R_ARGDC"/>
           <groups:member groups:name="glutathione oxidoreductase" groups:idRef="R_GTHOr"/>
           <groups:member groups:name="glutamine fructose 6 phosphate transaminase" groups:idRef="R_GF6PTA"/>
+          <groups:member groups:name="carbamoyl phosphate synthase glutamine hydrolysing" groups:idRef="R_CBPS"/>
+          <groups:member groups:name="Glutamate Decarboxylase" groups:idRef="R_GLUDC"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Lipid__32__Cell__32__Wall__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Lipid__32__Cell__32__Wall__32__Metabolism" groups:name="Lipid Cell Wall Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="UDP N acetylglucosamine 2 epimerase" groups:idRef="R_UAG2E"/>
-          <groups:member groups:name="farnesyltranstransferase" groups:idRef="R_FRTT"/>
-          <groups:member groups:name="Heptaprenyl diphosphate extension" groups:idRef="R_OCTDPSYN"/>
-          <groups:member groups:name="CDP alcohol phosphatidyltransferase glycerol 1 phosphate" groups:idRef="R_CDGGGPP3"/>
           <groups:member groups:name="UDP-N-acetylglucosamine 4-epimerase" groups:idRef="R_UAG4E"/>
           <groups:member groups:name="CDP 2 O 3 hydroxy geranyl 3 O geranyl sn glycerol synthase" groups:idRef="R_CDGGGS2"/>
-          <groups:member groups:name="2 O 3 hydroxy geranyl 3 O geranyl sn glycerol synthase" groups:idRef="R_DGGGPS2"/>
+          <groups:member groups:name="acetyl CoA C acetyltransferase" groups:idRef="R_ACACT1"/>
           <groups:member groups:name="Hydroxymethylglutaryl CoA reductase ir" groups:idRef="R_HMGCOARi"/>
-          <groups:member groups:name="archaeatidylinositol N acetylglucosaminyltransferase" groups:idRef="R_AGAIAGT"/>
+          <groups:member groups:name="CDP alcohol phosphatidyltransferase glycerol 1 phosphate" groups:idRef="R_CDGGGPP3"/>
           <groups:member groups:name="hydroxyarchaetidylserine hydrogenase" groups:idRef="R_HATSH"/>
           <groups:member groups:name="geranylgeranylglyceryl phosphate synthase" groups:idRef="R_GGGPS"/>
-          <groups:member groups:name="archaetidylserine hydrogenase" groups:idRef="R_ATSH"/>
+          <groups:member groups:name="CDP digeranyl sn glycero myo inositol 3 phosphatidyltransferase 3 hydroxy" groups:idRef="R_CDGGIPT2"/>
           <groups:member groups:name="farnesyltranstransferase 3 hyroxy" groups:idRef="R_FRTT2"/>
-          <groups:member groups:name="CDP 2 O 3 hydroxy geranyl 3 O geranyl sn glyceroserine O archaetidyltransferase" groups:idRef="R_CDGGGSAT2"/>
+          <groups:member groups:name="Heptaprenyl diphosphate extension" groups:idRef="R_OCTDPSYN"/>
+          <groups:member groups:name="archaeatidylinositol N acetylglucosaminyltransferase" groups:idRef="R_AGAIAGT"/>
+          <groups:member groups:name="digeranyl sn glycerol 1 phospho 3 sn glycerol phosphatase" groups:idRef="R_DGGPGP"/>
           <groups:member groups:name="dimethylallyltranstransferase" groups:idRef="R_DMATT"/>
           <groups:member groups:name="Isopentenyl kinase" groups:idRef="R_IPPK"/>
           <groups:member groups:name="glycerol 1 phosphate dehydrogenase NAD" groups:idRef="R_G1PDH"/>
           <groups:member groups:name="hydroxyarchaetidylserine decarboxylase" groups:idRef="R_HASD"/>
-          <groups:member groups:name="Hydroxymethylglutaryl CoA synthase ir" groups:idRef="R_HMGCOASi"/>
+          <groups:member groups:name="CDP 2 3 di O geranylgeranyl sn glyceroserine O archaetidyltransferase" groups:idRef="R_CDGGGSAT"/>
           <groups:member groups:name="dimethylallyltranstransferase 3 hydroxy" groups:idRef="R_DMATT2"/>
+          <groups:member groups:name="Hydroxymethylglutaryl CoA synthase ir" groups:idRef="R_HMGCOASi"/>
           <groups:member groups:name="polyglucuronic acid synthase UDPGlcur" groups:idRef="R_PGLCURS"/>
-          <groups:member groups:name="Isopentenyl diphosphate hydrolase" groups:idRef="R_IPDPH"/>
           <groups:member groups:name="geranyltranstransferase 3 hydroxy" groups:idRef="R_GRTT2"/>
-          <groups:member groups:name="CDP digeranyl sn glycero myo inositol 3 phosphatidyltransferase 3 hydroxy" groups:idRef="R_CDGGIPT2"/>
           <groups:member groups:name="phosphoglucosamine mutase" groups:idRef="R_PGAMT"/>
-          <groups:member groups:name="CDP 2 3 di O geranylgeranyl sn glycerol synthase" groups:idRef="R_CDGGGS"/>
           <groups:member groups:name="hydroxyarchaetidylglycerol hydrogenase" groups:idRef="R_HATGH"/>
           <groups:member groups:name="galactan synthase UDPGla" groups:idRef="R_GALTNS"/>
           <groups:member groups:name="digeranylgeranylglyceryl phosphate synthase" groups:idRef="R_DGGGPS"/>
-          <groups:member groups:name="geranyltranstransferase" groups:idRef="R_GRTT"/>
-          <groups:member groups:name="archaetidylinositol hydrogenase" groups:idRef="R_ATIH"/>
           <groups:member groups:name="UDP N acetylglucosamine diphosphorylase" groups:idRef="R_UAGDP"/>
-          <groups:member groups:name="acetyl CoA C acetyltransferase" groups:idRef="R_ACACT1"/>
+          <groups:member groups:name="geranyltranstransferase" groups:idRef="R_GRTT"/>
+          <groups:member groups:name="CDP alcohol phosphatidyltransferase glycerol 1 phosphate  hydroxy" groups:idRef="R_CDGGGPP4"/>
+          <groups:member groups:name="CDP 2 O 3 hydroxy geranyl 3 O geranyl sn glyceroserine O archaetidyltransferase" groups:idRef="R_CDGGGSAT2"/>
           <groups:member groups:name="hydroxyarchaetidylinositol hydrogenase" groups:idRef="R_HATIH"/>
           <groups:member groups:name="digeranyl sn glycerol 1 phospho 3 sn glycerol phosphatase hydroxy" groups:idRef="R_DGGPGP2"/>
           <groups:member groups:name="dTDPglucose 4 6 dehydratase" groups:idRef="R_TDPGDH"/>
-          <groups:member groups:name="CDP 2 3 di O geranylgeranyl sn glyceroserine O archaetidyltransferase" groups:idRef="R_CDGGGSAT"/>
+          <groups:member groups:name="CDP 2 3 di O geranylgeranyl sn glycerol synthase" groups:idRef="R_CDGGGS"/>
           <groups:member groups:name="dTDP 4 dehydrorhamnose 3 5 epimerase" groups:idRef="R_TDPDRE"/>
-          <groups:member groups:name="dTDP 4 dehydrorhamnose reductase" groups:idRef="R_TDPDRR"/>
           <groups:member groups:name="archaetidylglycerol hydrogenase" groups:idRef="R_ATGH"/>
-          <groups:member groups:name="all-trans-octaprenyl-diphosphate:4-hydroxybenzoate" groups:idRef="R_HBZOPT"/>
+          <groups:member groups:name="dTDP 4 dehydrorhamnose reductase" groups:idRef="R_TDPDRR"/>
           <groups:member groups:name="N acetylglucosaminylarchaeatidylinositol deacetylase" groups:idRef="R_AGAID"/>
-          <groups:member groups:name="CDP digeranyl sn glycero myo inositol 3 phosphatidyltransferase" groups:idRef="R_CDGGIPT"/>
-          <groups:member groups:name="mevalonate kinase atp" groups:idRef="R_MEVK1"/>
+          <groups:member groups:name="all-trans-octaprenyl-diphosphate:4-hydroxybenzoate" groups:idRef="R_HBZOPT"/>
           <groups:member groups:name="geranylgeranyl reductase" groups:idRef="R_GGDPRED"/>
-          <groups:member groups:name="digeranyl sn glycerol 1 phospho 3 sn glycerol phosphatase" groups:idRef="R_DGGPGP"/>
-          <groups:member groups:name="archaetidylserine decarboxylase" groups:idRef="R_ASD"/>
-          <groups:member groups:name="glucose 1 phosphate thymidylyltransferase" groups:idRef="R_G1PTT"/>
+          <groups:member groups:name="mevalonate kinase atp" groups:idRef="R_MEVK1"/>
+          <groups:member groups:name="farnesyltranstransferase" groups:idRef="R_FRTT"/>
           <groups:member groups:name="Phosphomevalonate decarboxylase" groups:idRef="R_PMVD"/>
+          <groups:member groups:name="CDP digeranyl sn glycero myo inositol 3 phosphatidyltransferase" groups:idRef="R_CDGGIPT"/>
+          <groups:member groups:name="glucose 1 phosphate thymidylyltransferase" groups:idRef="R_G1PTT"/>
           <groups:member groups:name="polyaceyl-D-galactosamine synthase UDPAcgal" groups:idRef="R_PGAMS"/>
-          <groups:member groups:name="CDP alcohol phosphatidyltransferase glycerol 1 phosphate  hydroxy" groups:idRef="R_CDGGGPP4"/>
+          <groups:member groups:name="archaetidylserine hydrogenase" groups:idRef="R_ATSH"/>
           <groups:member groups:name="glucosamine 1 phosphate N acetyltransferase" groups:idRef="R_G1PACT"/>
+          <groups:member groups:name="Isopentenyl diphosphate hydrolase" groups:idRef="R_IPDPH"/>
           <groups:member groups:name="UDP N acetyl D glucosamine 2 epimerase Hydrolysis" groups:idRef="R_UAG2EMA"/>
           <groups:member groups:name="D-Glyceraldehyde:NAD+ oxidoreductase" groups:idRef="R_DGLYOX"/>
+          <groups:member groups:name="archaetidylinositol hydrogenase" groups:idRef="R_ATIH"/>
+          <groups:member groups:name="UDP N acetylglucosamine 2 epimerase" groups:idRef="R_UAG2E"/>
+          <groups:member groups:name="archaetidylserine decarboxylase" groups:idRef="R_ASD"/>
+          <groups:member groups:name="2 O 3 hydroxy geranyl 3 O geranyl sn glycerol synthase" groups:idRef="R_DGGGPS2"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Amino__32__Acid__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Amino__32__Acid__32__Metabolism" groups:name="Amino Acid Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="diphthine synthase" groups:idRef="R_DIPS"/>
-          <groups:member groups:name="N acetylglutamate synthase" groups:idRef="R_ACGS"/>
-          <groups:member groups:name="acetylornithine transaminase" groups:idRef="R_ACOTA"/>
-          <groups:member groups:name="acetylglutamate kinase" groups:idRef="R_ACGK"/>
+          <groups:member groups:name="ornithine transacetylase" groups:idRef="R_ORNTAC"/>
+          <groups:member groups:name="N acetyl g glutamyl phosphate reductase" groups:idRef="R_AGPR"/>
           <groups:member groups:name="L-cysteinylglycine dipeptidase" groups:idRef="R_AMPTASECG"/>
           <groups:member groups:name="O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)" groups:idRef="R_ACSERHS"/>
-          <groups:member groups:name="prephenate dehydrogenase" groups:idRef="R_PPND"/>
           <groups:member groups:name="glutamate 5 kinase" groups:idRef="R_GLU5K"/>
           <groups:member groups:name="5 Oxoproline amidohydrolase ATP hydrolysing" groups:idRef="R_OPAH"/>
           <groups:member groups:name="L-Homoserine:NAD+ oxidoreductase" groups:idRef="R_HSDx"/>
+          <groups:member groups:name="acetylornithine transaminase" groups:idRef="R_ACOTA"/>
+          <groups:member groups:name="N acetylglutamate synthase" groups:idRef="R_ACGS"/>
           <groups:member groups:name="chorismate mutase" groups:idRef="R_CHORM"/>
-          <groups:member groups:name="N acetyl g glutamyl phosphate reductase" groups:idRef="R_AGPR"/>
-          <groups:member groups:name="ornithine transacetylase" groups:idRef="R_ORNTAC"/>
+          <groups:member groups:name="prephenate dehydrogenase" groups:idRef="R_PPND"/>
+          <groups:member groups:name="acetylglutamate kinase" groups:idRef="R_ACGK"/>
+          <groups:member groups:name="diphthine synthase" groups:idRef="R_DIPS"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Methanogenesis" sboTerm="SBO:0000633" groups:id="G_Methanogenesis" groups:name="Methanogenesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="Ech Hydrogenase" groups:idRef="R_ECHH_20"/>
-          <groups:member groups:name="ATP synthase four protons for one ATP" groups:idRef="R_ATPS4r"/>
           <groups:member groups:name="Co-methyl-Co-5-hydroxybenzimidazolylcob(I)amide: coenzyme M methyltransferase" groups:idRef="R_CM5HBCMT"/>
           <groups:member groups:name="formylmethanofuran dehydrogenase b" groups:idRef="R_FMFD_b_"/>
-          <groups:member groups:name="carbon monoxide dehydrogenase acetyl CoA synthase" groups:idRef="R_CODHr"/>
+          <groups:member groups:name="methanol:5-hydroxybenzimidazolylcobamide Co-methyltransferase" groups:idRef="R_MCMMT"/>
           <groups:member groups:name="Trimethylamine methyltransferase" groups:idRef="R_TMAMT"/>
           <groups:member groups:name="Methylthiol: coenzyme M methyltransferase" groups:idRef="R_MTCMMT2"/>
           <groups:member groups:name="N5,N10-methylene-5,6,7,8-tetrahydromethanopterin synthesis (formaldehyde)" groups:idRef="R_FAE"/>
           <groups:member groups:name="Methenyl H4SPt cyclohydrolase" groups:idRef="R_MTSPC"/>
+          <groups:member groups:name="ATP synthase four protons for one ATP" groups:idRef="R_ATPS4r"/>
           <groups:member groups:name="F420 nonreducing Hydrogenase" groups:idRef="R_F4NH"/>
           <groups:member groups:name="Dimethylamine methyltransferase" groups:idRef="R_DMAMT"/>
           <groups:member groups:name="Monomethylamine methyltransferase" groups:idRef="R_MMAMT"/>
@@ -22394,109 +22393,107 @@
           <groups:member groups:name="F420 Reducing Hydrogenase" groups:idRef="R_F4RH"/>
           <groups:member groups:name="F420 Deydrogenase" groups:idRef="R_F4D"/>
           <groups:member groups:name="coenzyme F420 dependent N 5 N 10 methenyltetrahydrosarcinapterin dehydrogenase" groups:idRef="R_F4MTSPD"/>
+          <groups:member groups:name="carbon monoxide dehydrogenase acetyl CoA synthase" groups:idRef="R_CODHr"/>
           <groups:member groups:name="formylmethanofuranH4SPT N formyltransferase b" groups:idRef="R_FMFTSPFT_b_"/>
-          <groups:member groups:name="acetate kinase" groups:idRef="R_ACKr"/>
           <groups:member groups:name="alcohol dehydrogenase (methanol)" groups:idRef="R_ALCD1y"/>
-          <groups:member groups:name="Methyl-H4SPT: coenzyme M methyltransferase" groups:idRef="R_MTSPCMMT"/>
-          <groups:member groups:name="methanol:5-hydroxybenzimidazolylcobamide Co-methyltransferase" groups:idRef="R_MCMMT"/>
           <groups:member groups:name="Heterodisulphide reductase" groups:idRef="R_HDR"/>
+          <groups:member groups:name="Methyl-H4SPT: coenzyme M methyltransferase" groups:idRef="R_MTSPCMMT"/>
           <groups:member groups:name="coenzyme F420 dependent N 5 N 10 methenyltetrahydrosarcinapterin reductase" groups:idRef="R_F4MTSPR"/>
           <groups:member groups:name="carbon monoxide dehydrogenase acetyl CoA synthase 2" groups:idRef="R_CODH2"/>
           <groups:member groups:name="Cytosolic Heterodisulphide reductase" groups:idRef="R_HDRABC"/>
+          <groups:member groups:name="acetate kinase" groups:idRef="R_ACKr"/>
+          <groups:member groups:name="Ech Hydrogenase" groups:idRef="R_ECHH_20"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Other" sboTerm="SBO:0000633" groups:id="G_Other" groups:name="Other" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="dihydropyrimidinase dihydrothymine" groups:idRef="R_DHPM2"/>
-          <groups:member groups:name="HCO3 equilibration reaction" groups:idRef="R_HCO3E"/>
-          <groups:member groups:name="beta-ureidopropionase (D-3-amino-isobutanoate forming)" groups:idRef="R_BUP2"/>
           <groups:member groups:name="L-aspartate:NADP+ oxidoreductase (deaminating)" groups:idRef="R_ASPO2y"/>
           <groups:member groups:name="superoxide dismutase" groups:idRef="R_SPODM"/>
-          <groups:member groups:name="4 carboxymuconolactone decarboxylase" groups:idRef="R_CMLDC"/>
           <groups:member groups:name="glyoxylate oxioreductase" groups:idRef="R_GLXO1"/>
           <groups:member groups:name="Asparaginyl-tRNA synthetase 2 (correction pathway part 2)" groups:idRef="R_ASNTRS2_2"/>
-          <groups:member groups:name="Aminoacetaldehyde oxidation" groups:idRef="R_ALDD31"/>
+          <groups:member groups:name="beta-ureidopropionase (D-3-amino-isobutanoate forming)" groups:idRef="R_BUP2"/>
           <groups:member groups:name="Asparaginyl-tRNA synthetase 2 (correction pathway part 1)" groups:idRef="R_ASNTRS2_1"/>
-          <groups:member groups:name="ATP maintenance requirement" groups:idRef="R_ATPM"/>
           <groups:member groups:name="pyrrolysyl-tRNA synthase" groups:idRef="R_PYRTRS"/>
           <groups:member groups:name="polyphosphate kinase" groups:idRef="R_PPK2"/>
+          <groups:member groups:name="atrazine chlorohydrolase" groups:idRef="R_ATRZCH"/>
           <groups:member groups:name="L-Pyrrolysine synthesis 2" groups:idRef="R_PYRS_2"/>
           <groups:member groups:name="5-methyltetrahydropteroyltriglutamate methyltransferase" groups:idRef="R_MHPGLUT2"/>
+          <groups:member groups:name="acetolactate decarboxylase" groups:idRef="R_ACLDC"/>
           <groups:member groups:name="dihydropyrimidinase 5 6 dihydrouracil" groups:idRef="R_DHPM1"/>
           <groups:member groups:name="Deoxyribokinase" groups:idRef="R_DRBK"/>
           <groups:member groups:name="nitrogenase" groups:idRef="R_NIT_n1p4"/>
           <groups:member groups:name="N-Succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate" groups:idRef="R_SDPTA"/>
+          <groups:member groups:name="catalase" groups:idRef="R_CAT"/>
           <groups:member groups:name="dihydrolipoylprotein:NAD+ oxidoreductase" groups:idRef="R_GCC"/>
-          <groups:member groups:name="atrazine chlorohydrolase" groups:idRef="R_ATRZCH"/>
-          <groups:member groups:name="1D-myo-inositol-3-phosphate lyase (isomerizing)" groups:idRef="R_MI3PS"/>
-          <groups:member groups:name="Sulfite reductase" groups:idRef="R_SULR2"/>
-          <groups:member groups:name="Nicotinamide ribonucleotide phosphohydrolase" groups:idRef="R_NMNHYD"/>
           <groups:member groups:name="6 aminohexanoate dimer hydrolase" groups:idRef="R_AHXDH"/>
-          <groups:member groups:name="L-Pyrrolysine synthesis 1" groups:idRef="R_PYRS_1"/>
+          <groups:member groups:name="ATP maintenance requirement" groups:idRef="R_ATPM"/>
           <groups:member groups:name="ribose 1 5 bisphosphate isomerase" groups:idRef="R_RBPI"/>
+          <groups:member groups:name="Nicotinamide ribonucleotide phosphohydrolase" groups:idRef="R_NMNHYD"/>
+          <groups:member groups:name="L-Pyrrolysine synthesis 1" groups:idRef="R_PYRS_1"/>
           <groups:member groups:name="O-succinylhomoserine lyase (L-cysteine)  2" groups:idRef="R_SHSL2r"/>
+          <groups:member groups:name="4 carboxymuconolactone decarboxylase" groups:idRef="R_CMLDC"/>
           <groups:member groups:name="F420H2 oxidase" groups:idRef="R_F4H2O"/>
-          <groups:member groups:name="acetolactate decarboxylase" groups:idRef="R_ACLDC"/>
           <groups:member groups:name="oxalate decarboxylase" groups:idRef="R_OXADC"/>
           <groups:member groups:name="phosphoribosylpyrophosphate phosphatase" groups:idRef="R_PRPPP"/>
-          <groups:member groups:name="catalase" groups:idRef="R_CAT"/>
+          <groups:member groups:name="1D-myo-inositol-3-phosphate lyase (isomerizing)" groups:idRef="R_MI3PS"/>
+          <groups:member groups:name="Aminoacetaldehyde oxidation" groups:idRef="R_ALDD31"/>
+          <groups:member groups:name="Sulfite reductase" groups:idRef="R_SULR2"/>
+          <groups:member groups:name="dihydropyrimidinase dihydrothymine" groups:idRef="R_DHPM2"/>
+          <groups:member groups:name="HCO3 equilibration reaction" groups:idRef="R_HCO3E"/>
           <groups:member groups:name="adenosylcobyric acid:(R)-1-aminopropan-2-ol ligase (ADP-forming)" groups:idRef="R_ADCPS1"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Valine__32__Leucine__32__and__32__Isoleucine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Valine__32__Leucine__32__and__32__Isoleucine__32__Metabolism" groups:name="Valine Leucine and Isoleucine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="valine transaminase" groups:idRef="R_VALTA"/>
           <groups:member groups:name="Leucyl tRNA synthetase" groups:idRef="R_LEUTRS"/>
           <groups:member groups:name="Isoleucyl tRNA synthetase" groups:idRef="R_ILETRS"/>
           <groups:member groups:name="(S)-Methylmalonate semialdehyde:NAD+ oxidoreductase" groups:idRef="R_2MOPRED"/>
-          <groups:member groups:name="2 isopropylmalate hydratase" groups:idRef="R_IPPMIb"/>
           <groups:member groups:name="2-Acetolactate pyruvate-lyase (carboxylating)" groups:idRef="R_ALACCBX"/>
           <groups:member groups:name="Valyl tRNA synthetase" groups:idRef="R_VALTRS"/>
           <groups:member groups:name="ketol acid reductoisomerase 2 3 dihydroxy 3 methylbutanoate" groups:idRef="R_KARA1"/>
-          <groups:member groups:name="3-Hydroxy-2-methylpropanoate:NAD+ oxidoreductase" groups:idRef="R_HIBD"/>
           <groups:member groups:name="Dihydroxy acid dehydratase 2 3 dihydroxy 3 methylpentanoate" groups:idRef="R_DHAD2"/>
-          <groups:member groups:name="acetolactate synthase" groups:idRef="R_ACLS"/>
           <groups:member groups:name="isoleucine transaminase" groups:idRef="R_ILETA"/>
+          <groups:member groups:name="acetolactate synthase" groups:idRef="R_ACLS"/>
           <groups:member groups:name="pyruvate:thiamin diphosphate acetaldehydetransferase" groups:idRef="R_PYRTHMPPTRX"/>
           <groups:member groups:name="(R)-2-Methylmalate synthetase" groups:idRef="R_R2MMALSYN"/>
           <groups:member groups:name="2 Oxo 4 methyl 3 carboxypentanoate decarboxylation" groups:idRef="R_OMCDC"/>
           <groups:member groups:name="2 isopropylmalate synthase" groups:idRef="R_IPPS"/>
           <groups:member groups:name="3 isopropylmalate dehydratase" groups:idRef="R_IPPMIa"/>
-          <groups:member groups:name="dihydroxy acid dehydratase 2 3 dihydroxy 3 methylbutanoate" groups:idRef="R_DHAD1"/>
           <groups:member groups:name="leucine transaminase" groups:idRef="R_LEUTA"/>
+          <groups:member groups:name="dihydroxy acid dehydratase 2 3 dihydroxy 3 methylbutanoate" groups:idRef="R_DHAD1"/>
           <groups:member groups:name="(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)" groups:idRef="R_2OBUTHE2THPPTRX"/>
           <groups:member groups:name="3 isopropylmalate dehydrogenase" groups:idRef="R_IPMD"/>
+          <groups:member groups:name="2 isopropylmalate hydratase" groups:idRef="R_IPPMIb"/>
           <groups:member groups:name="(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)" groups:idRef="R_3H3MOPI"/>
           <groups:member groups:name="(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase" groups:idRef="R_3H3MOPOX"/>
           <groups:member groups:name="(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase" groups:idRef="R_2H3MOAOX"/>
+          <groups:member groups:name="3-Hydroxy-2-methylpropanoate:NAD+ oxidoreductase" groups:idRef="R_HIBD"/>
+          <groups:member groups:name="valine transaminase" groups:idRef="R_VALTA"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Central__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Central__32__Metabolism" groups:name="Central Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="Arabino-3-hexulose-6-P Isomerase" groups:idRef="R_AH6PI"/>
-          <groups:member groups:name="ribulose bisphosphate carboxylase" groups:idRef="R_RBPC"/>
-          <groups:member groups:name="aldehyde dehydrogenase acetaldehyde NAD" groups:idRef="R_ALDD2x"/>
+          <groups:member groups:name="Trans aconitate methyltransferase" groups:idRef="R_ACONMT"/>
           <groups:member groups:name="CTP:riboflavin 5&apos;-phosphotransferase" groups:idRef="R_CTPRIBFLVTX"/>
           <groups:member groups:name="mannose 1 phosphate guanylyltransferase GDP reversible" groups:idRef="R_MAN1PT2r"/>
           <groups:member groups:name="ADPribose hydrolase" groups:idRef="R_ADPRDP"/>
-          <groups:member groups:name="inorganic diphosphatase" groups:idRef="R_PPA"/>
+          <groups:member groups:name="aldehyde dehydrogenase acetaldehyde NAD" groups:idRef="R_ALDD2x"/>
           <groups:member groups:name="UTP glucose 1 phosphate uridylyltransferase irreversible" groups:idRef="R_GALUi"/>
           <groups:member groups:name="homospermidine synthase" groups:idRef="R_HSPMS"/>
+          <groups:member groups:name="inorganic diphosphatase" groups:idRef="R_PPA"/>
           <groups:member groups:name="Alcohol dehydrogenase (L-lactaldehyde by F420)" groups:idRef="R_ALCD22_L_f420"/>
           <groups:member groups:name="Pyridoxal 5-phosphate synthase" groups:idRef="R_PYDXS"/>
-          <groups:member groups:name="alcohol dehydrogenase 2 propanol  NADP" groups:idRef="R_ALCD20y"/>
-          <groups:member groups:name="acylphosphatase 2" groups:idRef="R_ACYP_2"/>
+          <groups:member groups:name="alcohol dehydrogenase ethanol NADP" groups:idRef="R_ALCD2y"/>
           <groups:member groups:name="pyruvate synthase" groups:idRef="R_POR2"/>
           <groups:member groups:name="Glycolaldehyde dehydrogenase" groups:idRef="R_GCALDDr"/>
+          <groups:member groups:name="Phosphoglycolate phosphatase" groups:idRef="R_PGLYCP"/>
           <groups:member groups:name="transketolase" groups:idRef="R_TKT2"/>
           <groups:member groups:name="glycogen phosphorylase" groups:idRef="R_GLCP"/>
           <groups:member groups:name="Fructose 1 phosphate synthase" groups:idRef="R_FBP2"/>
           <groups:member groups:name="glyceraldehyde ferredoxin oxidoreductase" groups:idRef="R_GLYALDOX"/>
           <groups:member groups:name="Glycerol dehydrogenase" groups:idRef="R_GLYCDx"/>
           <groups:member groups:name="malic enzyme" groups:idRef="R_ME1_rev"/>
-          <groups:member groups:name="aldehyde dehydrogenase formaldehyde NAD" groups:idRef="R_ALDD1"/>
           <groups:member groups:name="phosphoglucomutase" groups:idRef="R_PGMT"/>
-          <groups:member groups:name="UDP N acetylenolpyruvoylglucosamine reductase" groups:idRef="R_UAPGR"/>
           <groups:member groups:name="L fuculose 1 phosphate aldolase" groups:idRef="R_FCLPA"/>
           <groups:member groups:name="UDP N acetylglucosamine 1 carboxyvinyltransferase" groups:idRef="R_UAGCVT"/>
           <groups:member groups:name="GDP 4 oxo L fucose reductase" groups:idRef="R_GOFUCR"/>
@@ -22505,219 +22502,221 @@
           <groups:member groups:name="Ribulose-5-P Synthetase" groups:idRef="R_RU5PS"/>
           <groups:member groups:name="glycogen synthase UDPGlc" groups:idRef="R_GLCS2"/>
           <groups:member groups:name="D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase" groups:idRef="R_FBA2"/>
-          <groups:member groups:name="ribokinase" groups:idRef="R_RBK"/>
-          <groups:member groups:name="Trans aconitate methyltransferase" groups:idRef="R_ACONMT"/>
-          <groups:member groups:name="inositol 2 dehydrogenase" groups:idRef="R_INS2D"/>
           <groups:member groups:name="GTP:alpha-D-mannose-1-phosphate guanylyltransferase" groups:idRef="R_MAN1PT"/>
-          <groups:member groups:name="myo-inositol 3-phosphatase" groups:idRef="R_MI3PP"/>
+          <groups:member groups:name="aldehyde dehydrogenase formaldehyde NAD" groups:idRef="R_ALDD1"/>
+          <groups:member groups:name="inositol 2 dehydrogenase" groups:idRef="R_INS2D"/>
           <groups:member groups:name="Acetol oxidation" groups:idRef="R_ALR2_f420"/>
+          <groups:member groups:name="myo-inositol 3-phosphatase" groups:idRef="R_MI3PP"/>
+          <groups:member groups:name="alcohol dehydrogenase 2 propanol  NADP" groups:idRef="R_ALCD20y"/>
           <groups:member groups:name="6 deoxy 5 ketofructose 1 phosphate synthase 2 (from fdp)" groups:idRef="R_DKFPS2"/>
           <groups:member groups:name="Glycerol:NADP+ oxidoreductase" groups:idRef="R_ALCD19y"/>
-          <groups:member groups:name="Phosphoglycolate phosphatase" groups:idRef="R_PGLYCP"/>
+          <groups:member groups:name="ribokinase" groups:idRef="R_RBK"/>
           <groups:member groups:name="glucan 1 4 alpha glucosidase" groups:idRef="R_GLCGSD"/>
+          <groups:member groups:name="UDPglucose 6 dehydrogenase" groups:idRef="R_UDPGDr"/>
           <groups:member groups:name="hexokinase D fructoseATP" groups:idRef="R_HEX7"/>
           <groups:member groups:name="Propionate kinase" groups:idRef="R_PPAKr"/>
-          <groups:member groups:name="alcohol dehydrogenase ethanol NADP" groups:idRef="R_ALCD2y"/>
           <groups:member groups:name="6 deoxy 5 ketofructose 1 phosphate synthase 3 (from f1p)" groups:idRef="R_DKFPS3"/>
           <groups:member groups:name="Pyruvate phosphate dikinase" groups:idRef="R_PPDK"/>
           <groups:member groups:name="6 deoxy 5 ketofructose 1 phosphate synthase 3 (from f1p)" groups:idRef="R_MGSA2"/>
           <groups:member groups:name="GDP 4 dehydro 6 deoxy D mannose epimerase" groups:idRef="R_GDMANE"/>
-          <groups:member groups:name="UDPglucose 6 dehydrogenase" groups:idRef="R_UDPGDr"/>
+          <groups:member groups:name="UDP N acetylenolpyruvoylglucosamine reductase" groups:idRef="R_UAPGR"/>
           <groups:member groups:name="2 oxoisovalerate ferredoxin reductase" groups:idRef="R_VOR"/>
           <groups:member groups:name="GDP D mannose dehydratase" groups:idRef="R_GMAND"/>
+          <groups:member groups:name="ribulose bisphosphate carboxylase" groups:idRef="R_RBPC"/>
           <groups:member groups:name="phosphomannomutase" groups:idRef="R_PMANM"/>
           <groups:member groups:name="UDPglucose 4 epimerase" groups:idRef="R_UDPG4E"/>
           <groups:member groups:name="Hydroxyacetone synthase" groups:idRef="R_PYRFALDC"/>
           <groups:member groups:name="galactose 1 phosphate uridylyltransferase" groups:idRef="R_GALT"/>
+          <groups:member groups:name="Arabino-3-hexulose-6-P Isomerase" groups:idRef="R_AH6PI"/>
+          <groups:member groups:name="acylphosphatase 2" groups:idRef="R_ACYP_2"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_GlycolysisGluconeogenesis" sboTerm="SBO:0000633" groups:id="G_GlycolysisGluconeogenesis" groups:name="GlycolysisGluconeogenesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="pyruvate kinase" groups:idRef="R_PYK"/>
-          <groups:member groups:name="phosphoglycerate kinase" groups:idRef="R_PGK"/>
           <groups:member groups:name="glucose 6 phosphate isomerase" groups:idRef="R_PGI"/>
+          <groups:member groups:name="acylphosphatase" groups:idRef="R_ACYP"/>
           <groups:member groups:name="fructose bisphosphate aldolase" groups:idRef="R_FBA"/>
           <groups:member groups:name="glyceraldehyde 3 phosphate dehydrogenase NAD P   phosphorylating" groups:idRef="R_GAPD_nadp"/>
           <groups:member groups:name="phosphoglycerate mutase" groups:idRef="R_PGM"/>
           <groups:member groups:name="phosphoenolpyruvate synthase" groups:idRef="R_PPS"/>
           <groups:member groups:name="triose phosphate isomerase" groups:idRef="R_TPI"/>
-          <groups:member groups:name="pyruvate decarboxylase" groups:idRef="R_PYRDC"/>
           <groups:member groups:name="glyceraldehyde 3 phosphate dehydrogenase" groups:idRef="R_GAPD"/>
           <groups:member groups:name="ADP specific glucokinase" groups:idRef="R_GK__adp_"/>
-          <groups:member groups:name="acylphosphatase" groups:idRef="R_ACYP"/>
+          <groups:member groups:name="phosphoglycerate kinase" groups:idRef="R_PGK"/>
           <groups:member groups:name="enolase" groups:idRef="R_ENO"/>
           <groups:member groups:name="ADP specific phosphofructokinase" groups:idRef="R_PFK__adp_"/>
           <groups:member groups:name="fructose bisphosphatase" groups:idRef="R_FBP"/>
+          <groups:member groups:name="pyruvate kinase" groups:idRef="R_PYK"/>
+          <groups:member groups:name="pyruvate decarboxylase" groups:idRef="R_PYRDC"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Nucleotide__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Nucleotide__32__Metabolism" groups:name="Nucleotide Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="ribonucleoside diphosphate reductase UDP" groups:idRef="R_RNDR4"/>
           <groups:member groups:name="deoxyadenylate kinase" groups:idRef="R_DADK"/>
-          <groups:member groups:name="adenine phosphoribosyltransferase" groups:idRef="R_ADPT"/>
           <groups:member groups:name="GMP synthase" groups:idRef="R_GMPS"/>
           <groups:member groups:name="Polyphosphate kinase" groups:idRef="R_PPKr"/>
-          <groups:member groups:name="ribonucleoside triphosphate reductase ATP" groups:idRef="R_RNTR1"/>
           <groups:member groups:name="dTMP kinase" groups:idRef="R_DTMPK"/>
-          <groups:member groups:name="phosphoribosylaminoimidazole carboxylase mutase rxn" groups:idRef="R_AIRC3"/>
           <groups:member groups:name="dUMP hydrolase" groups:idRef="R_NTD1"/>
-          <groups:member groups:name="ribonucleoside triphosphate reductase GTP" groups:idRef="R_RNTR2"/>
           <groups:member groups:name="orotate phosphoribosyltransferase" groups:idRef="R_ORPT"/>
           <groups:member groups:name="cytidylate kinase (dCMP)" groups:idRef="R_CYTK5"/>
+          <groups:member groups:name="ribonucleoside diphosphate reductase ADP" groups:idRef="R_RNDR1"/>
           <groups:member groups:name="yUMP synthetase" groups:idRef="R_YUMPS"/>
-          <groups:member groups:name="ribonucleoside triphosphate reductase CTP" groups:idRef="R_RNTR3"/>
           <groups:member groups:name="Guanosine phosphorylation" groups:idRef="R_GSNK"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPUDP" groups:idRef="R_NDPK2"/>
           <groups:member groups:name="thymidine phosphorylase" groups:idRef="R_TMDPP"/>
           <groups:member groups:name="guanylate kinase GMPATP" groups:idRef="R_GK1"/>
           <groups:member groups:name="GTP amine hydrolysis (spontaneous)" groups:idRef="R_GTPHs"/>
-          <groups:member groups:name="ribonucleoside triphosphate reductase UTP" groups:idRef="R_RNTR4"/>
-          <groups:member groups:name="ATP amine hydrolysis (spontaneous)" groups:idRef="R_ATPHs"/>
-          <groups:member groups:name="adenylosuccinate lyase" groups:idRef="R_ADSL2"/>
+          <groups:member groups:name="adenylate kinase d form" groups:idRef="R_ADKd"/>
           <groups:member groups:name="UMP kinase" groups:idRef="R_UMPK"/>
           <groups:member groups:name="thymidylate synthase" groups:idRef="R_TMDS"/>
           <groups:member groups:name="Uridine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD2"/>
           <groups:member groups:name="deoxyuridine phosphorylase" groups:idRef="R_DURIPP"/>
           <groups:member groups:name="GTP diphosphate-lyase (cyclizing; 3&apos;,5&apos;-cyclic-GMP-forming)" groups:idRef="R_GUACYC"/>
+          <groups:member groups:name="adenylate cyclase" groups:idRef="R_ADNCYC"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPCDP" groups:idRef="R_NDPK3"/>
+          <groups:member groups:name="adenosine kinase" groups:idRef="R_ADNK1"/>
           <groups:member groups:name="hypoxanthine phosphoribosyltransferase Hypoxanthine" groups:idRef="R_HXPRT"/>
+          <groups:member groups:name="adentylate kinase ITP" groups:idRef="R_ADK4"/>
           <groups:member groups:name="phosphoribosylglycinamide synthase" groups:idRef="R_PRAGSr"/>
           <groups:member groups:name="guanine phosphoribosyltransferase" groups:idRef="R_GUAPRT"/>
-          <groups:member groups:name="adenylate kinase d form" groups:idRef="R_ADKd"/>
           <groups:member groups:name="2&apos;-Deoxycytidine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD3"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPdTDP" groups:idRef="R_NDPK4"/>
+          <groups:member groups:name="ribonucleoside triphosphate reductase CTP" groups:idRef="R_RNTR3"/>
           <groups:member groups:name="Cytidine-5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD4"/>
           <groups:member groups:name="nucleoside triphosphatase dATP" groups:idRef="R_NTP2"/>
+          <groups:member groups:name="phosphoribosylaminoimidazole carboxylase" groups:idRef="R_AIRC2"/>
+          <groups:member groups:name="ribonucleoside triphosphate reductase UTP" groups:idRef="R_RNTR4"/>
+          <groups:member groups:name="phosphoribosylaminoimidazolecarboxamide formyltransferase" groups:idRef="R_AICART"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPdGDP" groups:idRef="R_NDPK5"/>
           <groups:member groups:name="dihydroorotic acid dehydrogenase f420" groups:idRef="R_DHORD7"/>
+          <groups:member groups:name="dCMP deaminase" groups:idRef="R_DCMPDA"/>
           <groups:member groups:name="cytidine kinase (ATP)" groups:idRef="R_CYTDK1"/>
           <groups:member groups:name="phosphoribosylaminoimidazolesuccinocarboxamide synthase" groups:idRef="R_PRASCS"/>
-          <groups:member groups:name="dCMP deaminase" groups:idRef="R_DCMPDA"/>
-          <groups:member groups:name="adenylate cyclase" groups:idRef="R_ADNCYC"/>
           <groups:member groups:name="Thymidylate 5&apos;-phosphohydrolase" groups:idRef="R_NTD5"/>
           <groups:member groups:name="dihydroorotase" groups:idRef="R_DHORTS"/>
           <groups:member groups:name="phosphoribosylaminoimidazole synthase" groups:idRef="R_PRAIS"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPdUDP" groups:idRef="R_NDPK6"/>
           <groups:member groups:name="GTP cyclohydrolase IV" groups:idRef="R_GTPCHIV"/>
+          <groups:member groups:name="ribonucleoside diphosphate reductase CDP" groups:idRef="R_RNDR3"/>
           <groups:member groups:name="2&apos;-Deoxyadenosine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD6"/>
-          <groups:member groups:name="dATP amine hydrolysis (spontaneous)" groups:idRef="R_DATPHs"/>
           <groups:member groups:name="dCTP deaminase" groups:idRef="R_DCTPD"/>
+          <groups:member groups:name="dATP amine hydrolysis (spontaneous)" groups:idRef="R_DATPHs"/>
+          <groups:member groups:name="adenine phosphoribosyltransferase" groups:idRef="R_ADPT"/>
           <groups:member groups:name="cytidylate kinase CMP" groups:idRef="R_CYTK1"/>
           <groups:member groups:name="nucleoside triphosphatase ATP" groups:idRef="R_NTP1"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPdCDP" groups:idRef="R_NDPK7"/>
-          <groups:member groups:name="adenosine kinase" groups:idRef="R_ADNK1"/>
+          <groups:member groups:name="phosphoribosylaminoimidazole carboxylase mutase rxn" groups:idRef="R_AIRC3"/>
+          <groups:member groups:name="ATP amine hydrolysis (spontaneous)" groups:idRef="R_ATPHs"/>
           <groups:member groups:name="uridylate kinase dUMP" groups:idRef="R_URIDK2r"/>
           <groups:member groups:name="GTP cyclohydrolase III" groups:idRef="R_GTPCHIII"/>
           <groups:member groups:name="guanine deaminase" groups:idRef="R_GUAD"/>
           <groups:member groups:name="Adenosine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD7"/>
-          <groups:member groups:name="adenine deaminase" groups:idRef="R_ADD"/>
           <groups:member groups:name="Inosine phosphorylation" groups:idRef="R_INSK"/>
           <groups:member groups:name="thioredoxin reductase NADPH" groups:idRef="R_TRDR"/>
-          <groups:member groups:name="nucleoside diphosphate kinase ATPdADP" groups:idRef="R_NDPK8"/>
           <groups:member groups:name="cytidylate kinase dCMP" groups:idRef="R_CYTK2"/>
+          <groups:member groups:name="nucleoside diphosphate kinase ATPdADP" groups:idRef="R_NDPK8"/>
           <groups:member groups:name="Deamino-NAD+ nucleotidohydrolase" groups:idRef="R_DNADDP"/>
+          <groups:member groups:name="ribonucleoside diphosphate reductase GDP" groups:idRef="R_RNDR2"/>
           <groups:member groups:name="phosphoribosylglycinamide formyltransferase" groups:idRef="R_GARFT"/>
           <groups:member groups:name="orotidine 5 phosphate decarboxylase" groups:idRef="R_OMPDC"/>
           <groups:member groups:name="2&apos;-Deoxyguanosine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD8"/>
           <groups:member groups:name="5-Methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase" groups:idRef="R_MTRI"/>
+          <groups:member groups:name="adenylosuccinate lyase" groups:idRef="R_ADSL2"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPIDP" groups:idRef="R_NDPK9"/>
           <groups:member groups:name="nucleoside triphosphatase GTP" groups:idRef="R_NTP3"/>
-          <groups:member groups:name="dUTP nucleotidohydrolase" groups:idRef="R_DUTPDP"/>
           <groups:member groups:name="Cytosine deaminase" groups:idRef="R_CSND"/>
+          <groups:member groups:name="dUTP nucleotidohydrolase" groups:idRef="R_DUTPDP"/>
           <groups:member groups:name="Guanosine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD9"/>
-          <groups:member groups:name="ribonucleoside diphosphate reductase ADP" groups:idRef="R_RNDR1"/>
+          <groups:member groups:name="ribonucleoside triphosphate reductase GTP" groups:idRef="R_RNTR2"/>
           <groups:member groups:name="nucleoside triphosphatase dGTP" groups:idRef="R_NTP4"/>
           <groups:member groups:name="Nucleoside triphosphate pyrophosphorylase (xtp)" groups:idRef="R_NTPP11"/>
-          <groups:member groups:name="ribonucleoside diphosphate reductase GDP" groups:idRef="R_RNDR2"/>
-          <groups:member groups:name="adentylate kinase ITP" groups:idRef="R_ADK4"/>
-          <groups:member groups:name="phosphoribosylaminoimidazolecarboxamide formyltransferase" groups:idRef="R_AICART"/>
-          <groups:member groups:name="adenylate kinase" groups:idRef="R_ADK1"/>
+          <groups:member groups:name="adenylate kinase Inorganic triphosphate" groups:idRef="R_ADK2"/>
           <groups:member groups:name="IMP dehydrogenase" groups:idRef="R_IMPD"/>
+          <groups:member groups:name="CTP synthase NH3" groups:idRef="R_CTPS1"/>
           <groups:member groups:name="nucleoside triphosphatase UTP" groups:idRef="R_NTP7"/>
           <groups:member groups:name="phosphoribosylformylglycinamidine synthase" groups:idRef="R_PRFGS"/>
           <groups:member groups:name="5-formaminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl" groups:idRef="R_ATPFORTRX"/>
-          <groups:member groups:name="CTP synthase NH3" groups:idRef="R_CTPS1"/>
           <groups:member groups:name="nucleoside diphosphate kinase ATPGDP" groups:idRef="R_NDPK1"/>
+          <groups:member groups:name="ribonucleoside diphosphate reductase UDP" groups:idRef="R_RNDR4"/>
           <groups:member groups:name="UDP-N-acetyl-D-mannosamine oxidoreductase" groups:idRef="R_UACMAMO"/>
-          <groups:member groups:name="adentylate kinase GTP" groups:idRef="R_ADK3"/>
+          <groups:member groups:name="Xanthosine 5&apos;-phosphate phosphohydrolase" groups:idRef="R_NTD10"/>
           <groups:member groups:name="nucleoside triphosphatase CTP" groups:idRef="R_NTP5"/>
+          <groups:member groups:name="Inosine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD11"/>
           <groups:member groups:name="5 methylthioadenosine phosphorylase" groups:idRef="R_MTAP"/>
+          <groups:member groups:name="ribonucleoside triphosphate reductase ATP" groups:idRef="R_RNTR1"/>
           <groups:member groups:name="IMP cyclohydrolase" groups:idRef="R_IMPC"/>
           <groups:member groups:name="xanthine phosphoribosyltransferase" groups:idRef="R_XPPT"/>
           <groups:member groups:name="thymidine kinase ATPthymidine" groups:idRef="R_TMDK1"/>
           <groups:member groups:name="CTP synthase glutamine" groups:idRef="R_CTPS2"/>
-          <groups:member groups:name="nucleoside triphosphatase dCTP" groups:idRef="R_NTP6"/>
-          <groups:member groups:name="adenylate kinase Inorganic triphosphate" groups:idRef="R_ADK2"/>
-          <groups:member groups:name="nucleoside triphosphatase dUTP" groups:idRef="R_NTP8"/>
-          <groups:member groups:name="ribonucleoside diphosphate reductase CDP" groups:idRef="R_RNDR3"/>
-          <groups:member groups:name="Xanthosine 5&apos;-phosphate phosphohydrolase" groups:idRef="R_NTD10"/>
+          <groups:member groups:name="adenine deaminase" groups:idRef="R_ADD"/>
           <groups:member groups:name="nucleoside triphosphatase dTTP" groups:idRef="R_NTP9"/>
+          <groups:member groups:name="nucleoside triphosphatase dUTP" groups:idRef="R_NTP8"/>
+          <groups:member groups:name="adentylate kinase GTP" groups:idRef="R_ADK3"/>
           <groups:member groups:name="ATP:dIDP phosphotransferase" groups:idRef="R_NDPK10"/>
-          <groups:member groups:name="Inosine 5&apos;-monophosphate phosphohydrolase" groups:idRef="R_NTD11"/>
-          <groups:member groups:name="phosphoribosylaminoimidazole carboxylase" groups:idRef="R_AIRC2"/>
+          <groups:member groups:name="nucleoside triphosphatase dCTP" groups:idRef="R_NTP6"/>
+          <groups:member groups:name="adenylate kinase" groups:idRef="R_ADK1"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Alanine__32__and__32__Aspartate__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Alanine__32__and__32__Aspartate__32__Metabolism" groups:name="Alanine and Aspartate Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="aspartate semialdehyde dehydrogenase irreversible" groups:idRef="R_ASADi"/>
-          <groups:member groups:name="homoserine dehydrogenase NADPH" groups:idRef="R_HSDy"/>
-          <groups:member groups:name="aspartate transaminase" groups:idRef="R_ASPTA"/>
-          <groups:member groups:name="L alanine transaminase" groups:idRef="R_ALATA_L"/>
-          <groups:member groups:name="L asparaginase" groups:idRef="R_ASNN"/>
           <groups:member groups:name="argininosuccinate synthase" groups:idRef="R_ARGSS"/>
-          <groups:member groups:name="asparagine synthase glutamine hydrolysing" groups:idRef="R_ASNS1"/>
-          <groups:member groups:name="aspartate 1 decarboxylase" groups:idRef="R_ASP1DC"/>
-          <groups:member groups:name="Aspartyl tRNA synthetase" groups:idRef="R_ASPTRS"/>
-          <groups:member groups:name="Alanyl tRNA synthetase" groups:idRef="R_ALATRS"/>
-          <groups:member groups:name="pyruvate carboxylase" groups:idRef="R_PC"/>
           <groups:member groups:name="adenylosuccinate synthase" groups:idRef="R_ADSS"/>
-          <groups:member groups:name="argininosuccinate lyase" groups:idRef="R_ARGSL"/>
-          <groups:member groups:name="aspartate carbamoyltransferase" groups:idRef="R_ASPCT"/>
-          <groups:member groups:name="adenylosuccinate lyase" groups:idRef="R_ADSL1"/>
+          <groups:member groups:name="Aspartyl tRNA synthetase" groups:idRef="R_ASPTRS"/>
+          <groups:member groups:name="aspartate 1 decarboxylase" groups:idRef="R_ASP1DC"/>
           <groups:member groups:name="aspartate kinase irreversible" groups:idRef="R_ASPKi"/>
+          <groups:member groups:name="aspartate carbamoyltransferase" groups:idRef="R_ASPCT"/>
+          <groups:member groups:name="pyruvate carboxylase" groups:idRef="R_PC"/>
+          <groups:member groups:name="argininosuccinate lyase" groups:idRef="R_ARGSL"/>
+          <groups:member groups:name="aspartate semialdehyde dehydrogenase irreversible" groups:idRef="R_ASADi"/>
+          <groups:member groups:name="adenylosuccinate lyase" groups:idRef="R_ADSL1"/>
+          <groups:member groups:name="L alanine transaminase" groups:idRef="R_ALATA_L"/>
+          <groups:member groups:name="asparagine synthase glutamine hydrolysing" groups:idRef="R_ASNS1"/>
+          <groups:member groups:name="Alanyl tRNA synthetase" groups:idRef="R_ALATRS"/>
+          <groups:member groups:name="aspartate transaminase" groups:idRef="R_ASPTA"/>
+          <groups:member groups:name="homoserine dehydrogenase NADPH" groups:idRef="R_HSDy"/>
+          <groups:member groups:name="L asparaginase" groups:idRef="R_ASNN"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Arginine__32__and__32__Proline__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Arginine__32__and__32__Proline__32__Metabolism" groups:name="Arginine and Proline Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="L-Proline 5 carboxylate reductase NADP" groups:idRef="R_P5CRy"/>
-          <groups:member groups:name="Arginyl tRNA synthetase" groups:idRef="R_ARGTRS"/>
           <groups:member groups:name="ornithine cyclodeaminase" groups:idRef="R_ORNCD"/>
           <groups:member groups:name="ornithine carbamoyltransferase" groups:idRef="R_OCBT"/>
-          <groups:member groups:name="Prolyl tRNA synthetase" groups:idRef="R_PROTRS"/>
           <groups:member groups:name="Ornithine Decarboxylase" groups:idRef="R_ORNDC"/>
           <groups:member groups:name="pyrroline 5 carboxylate reductase" groups:idRef="R_P5CRx"/>
+          <groups:member groups:name="Arginyl tRNA synthetase" groups:idRef="R_ARGTRS"/>
+          <groups:member groups:name="Prolyl tRNA synthetase" groups:idRef="R_PROTRS"/>
+          <groups:member groups:name="L-Proline 5 carboxylate reductase NADP" groups:idRef="R_P5CRy"/>
           <groups:member groups:name="arginine deiminase" groups:idRef="R_ARGDr"/>
           <groups:member groups:name="agmatinase" groups:idRef="R_AGMT"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Methionine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Methionine__32__Metabolism" groups:name="Methionine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="Methionyl tRNA synthetase" groups:idRef="R_METTRS"/>
           <groups:member groups:name="adenosylhomocysteinase" groups:idRef="R_AHC"/>
           <groups:member groups:name="methionine synthase" groups:idRef="R_METS"/>
-          <groups:member groups:name="Methionyl tRNA synthetase" groups:idRef="R_METTRS"/>
           <groups:member groups:name="methionine adenosyltransferase" groups:idRef="R_METAT"/>
+          <groups:member groups:name="methionine g lyase" groups:idRef="R_METGL"/>
           <groups:member groups:name="Methionyl tRNA formyltransferase" groups:idRef="R_FMETTRS"/>
           <groups:member groups:name="O acetylhomoserine thiol lyase" groups:idRef="R_AHSERL2"/>
-          <groups:member groups:name="methionine g lyase" groups:idRef="R_METGL"/>
           <groups:member groups:name="homoserine O trans acetylase" groups:idRef="R_HSERTA"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Tyrosine__32__Tryptophan__32__and__32__Phenylalanine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Tyrosine__32__Tryptophan__32__and__32__Phenylalanine__32__Metabolism" groups:name="Tyrosine Tryptophan and Phenylalanine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="shikimate dehydrogenase" groups:idRef="R_SHK3Dr"/>
           <groups:member groups:name="indolepyruvate ferredoxin oxidoreductase phenylpyvurate" groups:idRef="R_IOR2"/>
           <groups:member groups:name="Phenylalanyl tRNA synthetase" groups:idRef="R_PHETRS"/>
-          <groups:member groups:name="prephenate dehydratase" groups:idRef="R_PPNDH"/>
-          <groups:member groups:name="shikimate kinase" groups:idRef="R_SHKK"/>
           <groups:member groups:name="6-deoxy-5-ketomannitol 1-phosphate:L-aspartate semialdehyde ligase" groups:idRef="R_DKFPASPL"/>
+          <groups:member groups:name="chorismate synthase" groups:idRef="R_CHORS"/>
           <groups:member groups:name="Hydroxypyruvate reductase (NADPH)" groups:idRef="R_HPYRRy"/>
-          <groups:member groups:name="anthranilate phosphoribosyltransferase" groups:idRef="R_ANPRT"/>
           <groups:member groups:name="tryptophan transaminase" groups:idRef="R_TRPTA"/>
+          <groups:member groups:name="shikimate kinase" groups:idRef="R_SHKK"/>
+          <groups:member groups:name="anthranilate synthase" groups:idRef="R_ANS"/>
           <groups:member groups:name="phosphoribosylanthranilate isomerase irreversible" groups:idRef="R_PRAIi"/>
           <groups:member groups:name="phenylacetate CoA ligase indoleacetate" groups:idRef="R_PACCOAL3"/>
           <groups:member groups:name="phenylacetate CoA ligase" groups:idRef="R_PACCOAL"/>
-          <groups:member groups:name="Chorismate pyruvate lyase" groups:idRef="R_CHRPL"/>
           <groups:member groups:name="3 dehydroquinate dehydratase" groups:idRef="R_DHQD"/>
-          <groups:member groups:name="shikimate dehydrogenase" groups:idRef="R_SHK3Dr"/>
           <groups:member groups:name="tryptophan synthase indole" groups:idRef="R_TRPS2"/>
           <groups:member groups:name="indole 3 glycerol phosphate synthase" groups:idRef="R_IGPS"/>
           <groups:member groups:name="tyrosyl tRNA synthetase" groups:idRef="R_TYRTRS"/>
@@ -22725,130 +22724,127 @@
           <groups:member groups:name="tyrosine transaminase" groups:idRef="R_TYRTA"/>
           <groups:member groups:name="tryptophan synthase indoleglycerol phosphate" groups:idRef="R_TRPS1"/>
           <groups:member groups:name="indolepyruvate ferredoxin oxidoreductase hydroxyphenylpyvurate" groups:idRef="R_IOR3"/>
+          <groups:member groups:name="Chorismate pyruvate lyase" groups:idRef="R_CHRPL"/>
           <groups:member groups:name="phenylacetate CoA ligase hydroxyphenylacetate" groups:idRef="R_PACCOAL2"/>
+          <groups:member groups:name="anthranilate phosphoribosyltransferase" groups:idRef="R_ANPRT"/>
           <groups:member groups:name="phenylalanine transaminase" groups:idRef="R_PHETA1"/>
           <groups:member groups:name="Hydroxypyruvate reductase (NADH)" groups:idRef="R_HPYRRx"/>
           <groups:member groups:name="3 7 dideoxy D threo hepto 2 6 diulosonate synthase" groups:idRef="R_DOHDUS"/>
           <groups:member groups:name="Tryptophanyl tRNA synthetase" groups:idRef="R_TRPTRS"/>
-          <groups:member groups:name="chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)" groups:idRef="R_ANS2"/>
           <groups:member groups:name="L-tyrosine carboxy-lyase (tyramine-forming)" groups:idRef="R_TYRCBOX"/>
           <groups:member groups:name="indolepyruvate ferredoxin oxidoreductase" groups:idRef="R_IOR"/>
-          <groups:member groups:name="anthranilate synthase" groups:idRef="R_ANS"/>
           <groups:member groups:name="3 dehydroquinate synthase" groups:idRef="R_DHQS2"/>
-          <groups:member groups:name="chorismate synthase" groups:idRef="R_CHORS"/>
           <groups:member groups:name="tryptophan synthase indoleglycerol phosphate" groups:idRef="R_TRPS3"/>
+          <groups:member groups:name="chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)" groups:idRef="R_ANS2"/>
+          <groups:member groups:name="prephenate dehydratase" groups:idRef="R_PPNDH"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Histidine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Histidine__32__Metabolism" groups:name="Histidine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="histidine decarboxylase" groups:idRef="R_HISDC"/>
-          <groups:member groups:name="histidinol phosphate transaminase" groups:idRef="R_HSTPT"/>
-          <groups:member groups:name="ribose 5 phosphate isomerase" groups:idRef="R_RPI"/>
-          <groups:member groups:name="phosphoribosyl ATP pyrophosphatase" groups:idRef="R_PRATPP"/>
-          <groups:member groups:name="1 5 phosphoribosyl 5 5 phosphoribosylamino methylideneamino imidazole 4 carboxamide isomerase irreversible" groups:idRef="R_PRMICIi"/>
           <groups:member groups:name="phosphoribosyl AMP cyclohydrolase" groups:idRef="R_PRAMPC"/>
+          <groups:member groups:name="ATP phosphoribosyltransferase" groups:idRef="R_ATPPRT"/>
           <groups:member groups:name="phosphoribosylpyrophosphate synthetase" groups:idRef="R_PRPPS"/>
+          <groups:member groups:name="ribose 5 phosphate isomerase" groups:idRef="R_RPI"/>
           <groups:member groups:name="histidinol dehydrogenase" groups:idRef="R_HISTD"/>
           <groups:member groups:name="Imidazole glycerol 3 phosphate synthase" groups:idRef="R_IG3PS"/>
           <groups:member groups:name="imidazoleglycerol phosphate dehydratase" groups:idRef="R_IGPDH"/>
-          <groups:member groups:name="Nalpha beta alanyl L histidine hydrolase" groups:idRef="R_NBAHH"/>
-          <groups:member groups:name="ATP phosphoribosyltransferase" groups:idRef="R_ATPPRT"/>
+          <groups:member groups:name="1 5 phosphoribosyl 5 5 phosphoribosylamino methylideneamino imidazole 4 carboxamide isomerase irreversible" groups:idRef="R_PRMICIi"/>
           <groups:member groups:name="histidinol phosphatase" groups:idRef="R_HISTP"/>
+          <groups:member groups:name="histidinol phosphate transaminase" groups:idRef="R_HSTPT"/>
+          <groups:member groups:name="Nalpha beta alanyl L histidine hydrolase" groups:idRef="R_NBAHH"/>
           <groups:member groups:name="Histidyl tRNA synthetase" groups:idRef="R_HISTRS"/>
+          <groups:member groups:name="histidine decarboxylase" groups:idRef="R_HISDC"/>
+          <groups:member groups:name="phosphoribosyl ATP pyrophosphatase" groups:idRef="R_PRATPP"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Threonine__32__and__32__Lysine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Threonine__32__and__32__Lysine__32__Metabolism" groups:name="Threonine and Lysine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="Lysyl tRNA synthetase" groups:idRef="R_LYSTRS"/>
-          <groups:member groups:name="beta lysine acetyltransferase" groups:idRef="R_BLAT"/>
-          <groups:member groups:name="diaminopimelate epimerase" groups:idRef="R_DAPE"/>
           <groups:member groups:name="homocitrate synthase" groups:idRef="R_HCITS"/>
-          <groups:member groups:name="Threonine Aldolase" groups:idRef="R_THRAr"/>
+          <groups:member groups:name="beta lysine acetyltransferase" groups:idRef="R_BLAT"/>
           <groups:member groups:name="lysine 2 3 aminomutase" groups:idRef="R_LYSAM"/>
           <groups:member groups:name="threonine synthase" groups:idRef="R_THRS"/>
           <groups:member groups:name="LL-diaminopimelate aminotransferase" groups:idRef="R_DAPNH4T"/>
+          <groups:member groups:name="dihydrodipicolinate reductase NADPH" groups:idRef="R_DHDPRy"/>
           <groups:member groups:name="dihydrodipicolinate reductase NADH" groups:idRef="R_DHDPRx"/>
           <groups:member groups:name="homoserine kinase" groups:idRef="R_HSK"/>
-          <groups:member groups:name="dihydrodipicolinate reductase NADPH" groups:idRef="R_DHDPRy"/>
           <groups:member groups:name="diaminopimelate decarboxylase" groups:idRef="R_DAPDC"/>
+          <groups:member groups:name="Lysyl tRNA synthetase" groups:idRef="R_LYSTRS"/>
+          <groups:member groups:name="Threonine Aldolase" groups:idRef="R_THRAr"/>
           <groups:member groups:name="Threonyl tRNA synthetase" groups:idRef="R_THRTRS"/>
           <groups:member groups:name="dihydrodipicolinate synthase" groups:idRef="R_DHDPS"/>
+          <groups:member groups:name="diaminopimelate epimerase" groups:idRef="R_DAPE"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Tetrahydramethanopterin__32__Biosynthesis" sboTerm="SBO:0000633" groups:id="G_Tetrahydramethanopterin__32__Biosynthesis" groups:name="Tetrahydramethanopterin Biosynthesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="tetrahydromethanopterin glutamate lyase GTP" groups:idRef="R_H4MPTGL_gtp_"/>
-          <groups:member groups:name="dihydromethanoterin reductase" groups:idRef="R_H2MPTR"/>
-          <groups:member groups:name="7 8 dihydropteroate synthase methanopterin" groups:idRef="R_DHPS3"/>
-          <groups:member groups:name="dihydroneopterin aldolase" groups:idRef="R_DHNPA2"/>
           <groups:member groups:name="tetrahydromethanopterin synthesis reaction 12" groups:idRef="R_H4MPTS12"/>
+          <groups:member groups:name="dihydroneopterin aldolase" groups:idRef="R_DHNPA2"/>
           <groups:member groups:name="tetrahydromethanopterin synthesis reaction 15" groups:idRef="R_H4MPTS15"/>
-          <groups:member groups:name="6 hydroxymethyl dihydropterin pyrophosphokinase" groups:idRef="R_HPPK2"/>
-          <groups:member groups:name="tetrahydromethanopterin synthesis reaction 16" groups:idRef="R_H4MPTS16"/>
           <groups:member groups:name="Dihydroneopterin monophosphate dephosphorylase" groups:idRef="R_DNMPPA"/>
-          <groups:member groups:name="beta ribofuranosylaminobenzene 5 phosphate synthase" groups:idRef="R_BRFAPS"/>
+          <groups:member groups:name="tetrahydromethanopterin synthesis reaction 10" groups:idRef="R_H4MPTS10"/>
           <groups:member groups:name="tetrahydromethanopterin glutamate lyase ATP" groups:idRef="R_H4MPTGL_atp_"/>
           <groups:member groups:name="tetrahydromethanopterin synthesis reaction 11" groups:idRef="R_H4MPTS11"/>
           <groups:member groups:name="7 8 dihydronepterin 2 3 cyclicphosphate hydrolase" groups:idRef="R_DHPCPH"/>
           <groups:member groups:name="tetrahydromethanopterin synthesis reaction 14" groups:idRef="R_H4MPTS14"/>
           <groups:member groups:name="tetrahydromethanopterin synthesis reaction 9" groups:idRef="R_H4MPTS9"/>
-          <groups:member groups:name="tetrahydromethanopterin synthesis reaction 10" groups:idRef="R_H4MPTS10"/>
+          <groups:member groups:name="beta ribofuranosylaminobenzene 5 phosphate synthase" groups:idRef="R_BRFAPS"/>
+          <groups:member groups:name="tetrahydromethanopterin synthesis reaction 16" groups:idRef="R_H4MPTS16"/>
           <groups:member groups:name="tetrahydromethanopterin synthesis reaction 13" groups:idRef="R_H4MPTS13"/>
+          <groups:member groups:name="6 hydroxymethyl dihydropterin pyrophosphokinase" groups:idRef="R_HPPK2"/>
+          <groups:member groups:name="tetrahydromethanopterin glutamate lyase GTP" groups:idRef="R_H4MPTGL_gtp_"/>
+          <groups:member groups:name="dihydromethanoterin reductase" groups:idRef="R_H2MPTR"/>
+          <groups:member groups:name="7 8 dihydropteroate synthase methanopterin" groups:idRef="R_DHPS3"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Coenzyme__32__M__32__Biosynthesis" sboTerm="SBO:0000633" groups:id="G_Coenzyme__32__M__32__Biosynthesis" groups:name="Coenzyme M Biosynthesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="sulfomethyl thiazolidine synthase" groups:idRef="R_SMTZS"/>
           <groups:member groups:name="coenzyme M synthase" groups:idRef="R_COMS"/>
           <groups:member groups:name="L-Cysteate:2-oxoglutarate aminotransferase" groups:idRef="R_LCYSTAT"/>
-          <groups:member groups:name="sulfoethylcysteine synthase" groups:idRef="R_SECS"/>
           <groups:member groups:name="L-Cysteate syntahse" groups:idRef="R_LCYSTS"/>
+          <groups:member groups:name="sulfomethyl thiazolidine synthase" groups:idRef="R_SMTZS"/>
           <groups:member groups:name="sulfopyruvate decarboxylase" groups:idRef="R_SPDC"/>
+          <groups:member groups:name="sulfoethylcysteine synthase" groups:idRef="R_SECS"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Citric__32__Acid__32__Cycle" sboTerm="SBO:0000633" groups:id="G_Citric__32__Acid__32__Cycle" groups:name="Citric Acid Cycle" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="citrate synthase" groups:idRef="R_CS"/>
-          <groups:member groups:name="fumarase" groups:idRef="R_FUM"/>
-          <groups:member groups:name="2 oxoglutarate synthase reversible" groups:idRef="R_OORr"/>
           <groups:member groups:name="isocitrate hydro-lyase (cis-aconitate-forming)" groups:idRef="R_ACONTb"/>
           <groups:member groups:name="Isocitrate:NADP+ oxidoreductase (decarboxylating)" groups:idRef="R_ICITRED"/>
           <groups:member groups:name="Oxalosuccinate carboxy-lyase (2-oxoglutarate-forming)" groups:idRef="R_OSUCCL"/>
           <groups:member groups:name="PEP carboxylase" groups:idRef="R_PPC"/>
           <groups:member groups:name="malate dehydrogenase" groups:idRef="R_MDH"/>
           <groups:member groups:name="citrate hydro-lyase (cis-aconitate-forming)" groups:idRef="R_ACONTa"/>
+          <groups:member groups:name="citrate synthase" groups:idRef="R_CS"/>
+          <groups:member groups:name="fumarase" groups:idRef="R_FUM"/>
+          <groups:member groups:name="2 oxoglutarate synthase reversible" groups:idRef="R_OORr"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Cysteine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Cysteine__32__Metabolism" groups:name="Cysteine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="Cysteinyl tRNA synthetase" groups:idRef="R_CYSTRS"/>
-          <groups:member groups:name="serine O acetyltransferase" groups:idRef="R_SERAT"/>
           <groups:member groups:name="adenylyl-sulfate kinase" groups:idRef="R_ADSK"/>
+          <groups:member groups:name="Cysteine Desulfhydrase" groups:idRef="R_CYSDS"/>
           <groups:member groups:name="phosphoadenylyl sulfate reductase thioredoxin" groups:idRef="R_PAPSR"/>
           <groups:member groups:name="thiosulfate reductase" groups:idRef="R_TSR"/>
           <groups:member groups:name="Sulfate adenyltransferase" groups:idRef="R_SADT2"/>
           <groups:member groups:name="cysteine synthase reversible" groups:idRef="R_CYSSr"/>
-          <groups:member groups:name="Cysteine Desulfhydrase" groups:idRef="R_CYSDS"/>
+          <groups:member groups:name="serine O acetyltransferase" groups:idRef="R_SERAT"/>
+          <groups:member groups:name="Cysteinyl tRNA synthetase" groups:idRef="R_CYSTRS"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Coenzyme__32__A__32__Biosynthesis" sboTerm="SBO:0000633" groups:id="G_Coenzyme__32__A__32__Biosynthesis" groups:name="Coenzyme A Biosynthesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="dephospho CoA kinase" groups:idRef="R_DPCOAK"/>
-          <groups:member groups:name="Phosphopantothenate synthetase" groups:idRef="R_PPTS"/>
           <groups:member groups:name="pantetheine phosphate adenylyltransferase" groups:idRef="R_PTPATi"/>
           <groups:member groups:name="phosphopantothenoylcysteine decarboxylase" groups:idRef="R_PPCDC"/>
           <groups:member groups:name="3 methyl 2 oxobutanoate hydroxymethyltransferase" groups:idRef="R_MOHMT"/>
           <groups:member groups:name="2 dehydropantoate 2 reductase" groups:idRef="R_DPR"/>
           <groups:member groups:name="pantothenate synthase (adp-forming)" groups:idRef="R_POK"/>
           <groups:member groups:name="phosphopantothenate cysteine ligase" groups:idRef="R_PPNCL2"/>
+          <groups:member groups:name="dephospho CoA kinase" groups:idRef="R_DPCOAK"/>
+          <groups:member groups:name="Phosphopantothenate synthetase" groups:idRef="R_PPTS"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Exchange" sboTerm="SBO:0000633" groups:id="G_Exchange" groups:name="Exchange" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="Ethane exchange" groups:idRef="R_EX_eth_e"/>
-          <groups:member groups:name="Cobinamide exchange" groups:idRef="R_EX_cbi_e"/>
-          <groups:member groups:name="L Leucine exchange" groups:idRef="R_EX_leu_L_e"/>
-          <groups:member groups:name="Trimethylamine exchange" groups:idRef="R_EX_tma_e"/>
           <groups:member groups:name="Cu2 exchange" groups:idRef="R_EX_cu2_e"/>
           <groups:member groups:name="D Glyceraldehyde exchange" groups:idRef="R_EX_glyald_e"/>
           <groups:member groups:name="Cob I alamin exchange" groups:idRef="R_EX_cbl1_e"/>
@@ -22861,7 +22857,6 @@
           <groups:member groups:name="unknown degradation product of cbl1 for adocbl HBI synthesis exchange" groups:idRef="R_EX_cbl1deg_e"/>
           <groups:member groups:name="Dimethylamine exchange" groups:idRef="R_EX_dma_e"/>
           <groups:member groups:name="Glycerol exchange" groups:idRef="R_EX_glyc_e"/>
-          <groups:member groups:name="Ammonia exchange" groups:idRef="R_EX_nh4_e"/>
           <groups:member groups:name="Phosphate exchange" groups:idRef="R_EX_pi_e"/>
           <groups:member groups:name="Cadmium exchange" groups:idRef="R_EX_cd2_e"/>
           <groups:member groups:name="Mg exchange" groups:idRef="R_EX_mg2_e"/>
@@ -22875,8 +22870,9 @@
           <groups:member groups:name="Urea exchange" groups:idRef="R_EX_urea_e"/>
           <groups:member groups:name="Carbonate export" groups:idRef="R_EX_hco3_e"/>
           <groups:member groups:name="Fe2 exchange" groups:idRef="R_EX_fe2_e"/>
+          <groups:member groups:name="Trimethylamine exchange" groups:idRef="R_EX_tma_e"/>
           <groups:member groups:name="H2O exchange" groups:idRef="R_EX_h2o_e"/>
-          <groups:member groups:name="L Proline exchange" groups:idRef="R_EX_pro_L_e"/>
+          <groups:member groups:name="Ethane exchange" groups:idRef="R_EX_eth_e"/>
           <groups:member groups:name="Methanethiol exchange" groups:idRef="R_EX_ch4s_e"/>
           <groups:member groups:name="Mn2 exchange" groups:idRef="R_EX_mn2_e"/>
           <groups:member groups:name="L Valine exchange" groups:idRef="R_EX_val_L_e"/>
@@ -22896,7 +22892,6 @@
           <groups:member groups:name="Mb Biomass function" groups:idRef="R_Mb_biomass_65"/>
           <groups:member groups:name="4 Aminobenzoate exchange" groups:idRef="R_EX_4abz_e"/>
           <groups:member groups:name="Glycolaldehyde exchange" groups:idRef="R_EX_gcald_e"/>
-          <groups:member groups:name="R Pantothenate exchange" groups:idRef="R_EX_pnto_R_e"/>
           <groups:member groups:name="S 2 Acetolactate exchange" groups:idRef="R_EX_alac_S_e"/>
           <groups:member groups:name="L Isoleucine exchange" groups:idRef="R_EX_ile_L_e"/>
           <groups:member groups:name="Sulfite exchange" groups:idRef="R_EX_so3_e"/>
@@ -22905,11 +22900,13 @@
           <groups:member groups:name="Sodium exchange" groups:idRef="R_EX_na1_e"/>
           <groups:member groups:name="1,2-Dichloroethane exchange" groups:idRef="R_EX_12dca_e"/>
           <groups:member groups:name="D Gluconate exchange" groups:idRef="R_EX_glcn_e"/>
-          <groups:member groups:name="Phenylacetic acid exchange" groups:idRef="R_EX_pac_e"/>
+          <groups:member groups:name="R Pantothenate exchange" groups:idRef="R_EX_pnto_R_e"/>
+          <groups:member groups:name="L Proline exchange" groups:idRef="R_EX_pro_L_e"/>
           <groups:member groups:name="Biotin exchange" groups:idRef="R_EX_btn_e"/>
           <groups:member groups:name="Indole 3 acetate exchange" groups:idRef="R_EX_ind3ac_e"/>
           <groups:member groups:name="Sulfate exchange" groups:idRef="R_EX_so4_e"/>
           <groups:member groups:name="Carbon monoxide exchange" groups:idRef="R_EX_co_e"/>
+          <groups:member groups:name="L Leucine exchange" groups:idRef="R_EX_leu_L_e"/>
           <groups:member groups:name="Nicotinate exchange" groups:idRef="R_EX_nac_e"/>
           <groups:member groups:name="Chloroethane exchange" groups:idRef="R_EX_ceth_e"/>
           <groups:member groups:name="L Glutamate exchange" groups:idRef="R_EX_glu_L_e"/>
@@ -22918,35 +22915,38 @@
           <groups:member groups:name="K exchange" groups:idRef="R_EX_k_e"/>
           <groups:member groups:name="Thiamin exchange" groups:idRef="R_EX_thm_e"/>
           <groups:member groups:name="Co2 exchange" groups:idRef="R_EX_cobalt2_e"/>
-          <groups:member groups:name="Ni2 exchange" groups:idRef="R_EX_ni2_e"/>
+          <groups:member groups:name="Ammonia exchange" groups:idRef="R_EX_nh4_e"/>
+          <groups:member groups:name="Phenylacetic acid exchange" groups:idRef="R_EX_pac_e"/>
           <groups:member groups:name="Glycine exchange" groups:idRef="R_EX_gly_e"/>
+          <groups:member groups:name="Ni2 exchange" groups:idRef="R_EX_ni2_e"/>
+          <groups:member groups:name="Cobinamide exchange" groups:idRef="R_EX_cbi_e"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Proline__32__Biosynthesis" sboTerm="SBO:0000633" groups:id="G_Proline__32__Biosynthesis" groups:name="Proline Biosynthesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="glutamate 5 semialdehyde dehydrogenase" groups:idRef="R_G5SD2"/>
           <groups:member groups:name="L glutamate 5 semialdehyde dehydratase reversible" groups:idRef="R_G5SADr"/>
+          <groups:member groups:name="glutamate 5 semialdehyde dehydrogenase" groups:idRef="R_G5SD2"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Glycine__32__and__32__Serine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Glycine__32__and__32__Serine__32__Metabolism" groups:name="Glycine and Serine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="phosphoserine transaminase" groups:idRef="R_PSERT"/>
           <groups:member groups:name="phosphoglycerate dehydrogenase" groups:idRef="R_PGCD"/>
           <groups:member groups:name="phosphoserine phosphatase L serine" groups:idRef="R_PSP_L"/>
           <groups:member groups:name="Seryl tRNA synthetase" groups:idRef="R_SERTRS"/>
           <groups:member groups:name="glycine hydroxymethyltransferase" groups:idRef="R_GHMT2"/>
           <groups:member groups:name="Glycyl tRNA synthetase" groups:idRef="R_GLYTRS"/>
+          <groups:member groups:name="phosphoserine transaminase" groups:idRef="R_PSERT"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Glutamine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Glutamine__32__Metabolism" groups:name="Glutamine Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="GMP synthase" groups:idRef="R_GMPS2"/>
-          <groups:member groups:name="NAD synthase glutamine hydrolysing" groups:idRef="R_NADS2"/>
-          <groups:member groups:name="glutamyl tRNA Gln amidotransferase" groups:idRef="R_GLNTRAT"/>
           <groups:member groups:name="Glutamyl tRNA synthetase" groups:idRef="R_GLUTRS"/>
           <groups:member groups:name="NAD synthase nh3" groups:idRef="R_NADS1"/>
           <groups:member groups:name="glutamine synthetase" groups:idRef="R_GLNS"/>
           <groups:member groups:name="Glutamyl tRNA synthetase Gln" groups:idRef="R_GLUTRS_Gln_"/>
+          <groups:member groups:name="GMP synthase" groups:idRef="R_GMPS2"/>
+          <groups:member groups:name="glutamyl tRNA Gln amidotransferase" groups:idRef="R_GLNTRAT"/>
+          <groups:member groups:name="NAD synthase glutamine hydrolysing" groups:idRef="R_NADS2"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Glutamate__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Glutamate__32__Metabolism" groups:name="Glutamate Metabolism" groups:kind="partonomy">
@@ -22958,36 +22958,36 @@
       </groups:group>
       <groups:group metaid="meta_G_Nitrogen__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Nitrogen__32__Metabolism" groups:name="Nitrogen Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="alpha-Aminobutyryl histidine hydrolase" groups:idRef="R_HCARNHYD"/>
           <groups:member groups:name="nitrite Reductase NADH" groups:idRef="R_NTRIR2x"/>
           <groups:member groups:name="nitrite Reductase NADPH" groups:idRef="R_NTRIR2y"/>
-          <groups:member groups:name="alpha-Aminobutyryl histidine hydrolase" groups:idRef="R_HCARNHYD"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Declorination" sboTerm="SBO:0000633" groups:id="G_Declorination" groups:name="Declorination" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="1,2-Dichloroethane cobalamin declorination 2a" groups:idRef="R_12DECAD2a"/>
-          <groups:member groups:name="1,2-Dichloroethane F430 declorination 2b" groups:idRef="R_12DF430D2b"/>
-          <groups:member groups:name="1,2-Dichloroethane cobalamin declorination 1" groups:idRef="R_12DECAD1"/>
           <groups:member groups:name="1,2-Dichloroethane F430 declorination 2a" groups:idRef="R_12DF430D2a"/>
+          <groups:member groups:name="1,2-Dichloroethane cobalamin declorination 1" groups:idRef="R_12DECAD1"/>
           <groups:member groups:name="1,2-Dichloroethane cobalamin declorination 2b" groups:idRef="R_12DECAD2b"/>
           <groups:member groups:name="Chloroethane F430 declorination 1" groups:idRef="R_CEF430D1"/>
           <groups:member groups:name="1,2-Dichloroethane F430 declorination 1" groups:idRef="R_12DF430D1"/>
           <groups:member groups:name="Chloroethane F430 declorination 2" groups:idRef="R_CEF430D2"/>
+          <groups:member groups:name="1,2-Dichloroethane cobalamin declorination 2a" groups:idRef="R_12DECAD2a"/>
+          <groups:member groups:name="1,2-Dichloroethane F430 declorination 2b" groups:idRef="R_12DF430D2b"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Methanofuran__32__B__32__Biosynthesis" sboTerm="SBO:0000633" groups:id="G_Methanofuran__32__B__32__Biosynthesis" groups:name="Methanofuran B Biosynthesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="Methanofuran intermediate 2 dehydration" groups:idRef="R_MFRS3"/>
           <groups:member groups:name="Methanofuran intermediate 4 dehydration" groups:idRef="R_MFRS5"/>
           <groups:member groups:name="2-furaldehyde transaminase" groups:idRef="R_MFRS7"/>
           <groups:member groups:name="p-(aminoethyl)phenoxy-methyl-2-(aminomethyl)furan biosynthesis" groups:idRef="R_MFRS8"/>
           <groups:member groups:name="4-[N-L-glutamyl-L-glutamyl-)-p-(aminoethyl)phenoxy-methyl]-2-(aminomethyl)furan glutamate extention" groups:idRef="R_MFRS11"/>
-          <groups:member groups:name="Methanofuran intermediate 1 biosynthesis" groups:idRef="R_MFRS1"/>
           <groups:member groups:name="4-[N-L-glutamyl-)-p-(aminoethyl)phenoxy-methyl]-2-(aminomethyl)furan glutamate extention" groups:idRef="R_MFRS10"/>
           <groups:member groups:name="Methanofuran intermediate 3 isomerization" groups:idRef="R_MFRS4"/>
           <groups:member groups:name="2,4-substituted-furan reduction (nad)" groups:idRef="R_MFRS6"/>
           <groups:member groups:name="Methanofuran intermediate 1 kinase" groups:idRef="R_MFRS2"/>
           <groups:member groups:name="Methanofuran B biosynthesis" groups:idRef="R_MFRBS"/>
+          <groups:member groups:name="Methanofuran intermediate 1 biosynthesis" groups:idRef="R_MFRS1"/>
+          <groups:member groups:name="Methanofuran intermediate 2 dehydration" groups:idRef="R_MFRS3"/>
           <groups:member groups:name="p-(aminoethyl)phenoxy-methyl-2-(aminomethyl)furan glutamate extention" groups:idRef="R_MFRS9"/>
         </groups:listOfMembers>
       </groups:group>
