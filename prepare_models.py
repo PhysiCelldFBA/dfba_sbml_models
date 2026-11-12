@@ -52,12 +52,12 @@ def prepare_clostridium() -> None:
     solution = cb_model.optimize()
     print(f"Initial biomass objective: {solution.objective_value}")
 
-    trimmed_model = model_trimming(cb_model, eps_tolerance=1e-9, bound_scaling=10.0)
+    trimmed_model = model_trimming(cb_model, eps_tolerance=1e-9)   # internal bounds of the full model (no flux caps)
     for reaction in trimmed_model.exchanges:
         if reaction.upper_bound > 0:
             reaction.upper_bound = 100
 
-    trimmed_model.reactions.biomass.upper_bound = 0.35
+    # no upper bound on the biomass reaction (0.35 per h in the first release): growth is limited by the uptake only
     for reaction_id in ["EX_h2o_e", "EX_h_e", "EX_nh4_e", "EX_pi_e", "EX_so4_e"]:
         trimmed_model.reactions.get_by_id(reaction_id).lower_bound = -100
 
@@ -123,12 +123,12 @@ def prepare_methanosarcina() -> None:
     solution_acetate = mb_model.optimize()
     print(f"Growth rate with acetate as carbon source: {solution_acetate.objective_value:.5f}")
 
-    trimmed_model = model_trimming(mb_model, bound_scaling=10)
+    trimmed_model = model_trimming(mb_model)   # internal bounds of the full model (no flux caps)
     for reaction in trimmed_model.exchanges:
         if reaction.upper_bound > 0:
             reaction.upper_bound = 100
 
-    trimmed_model.reactions.Mb_biomass_65.upper_bound = 0.05
+    # no upper bound on the biomass reaction (0.05 per h in the first release): growth is limited by the uptake only
     trimmed_model.reactions.EX_4abz_e.lower_bound = -1
     trimmed_model.reactions.EX_co2_e.lower_bound = -100
     trimmed_model.reactions.EX_cobalt2_e.lower_bound = -1
@@ -137,6 +137,11 @@ def prepare_methanosarcina() -> None:
     trimmed_model.reactions.EX_nh4_e.lower_bound = -10
     trimmed_model.reactions.EX_ni2_e.lower_bound = -10
     trimmed_model.reactions.EX_pi_e.lower_bound = -10
+
+    # uptake closed because no cell used it in the cross-feeding simulations (1504 living cell-times)
+    # and growth is identical when it is closed; these substrates are not tracked by BioFVM
+    for reaction_id in ["EX_hco3_e", "EX_so3_e", "EX_n2_e", "EX_h_e"]:
+        trimmed_model.reactions.get_by_id(reaction_id).lower_bound = 0
 
     trimmed_model.reactions.get_by_id("EX_ac_e").lower_bound = 0
     new_solution_co2 = trimmed_model.optimize()
