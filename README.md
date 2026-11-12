@@ -104,10 +104,12 @@ model). In the files of this version the reactions removed by the trimming (bloc
 preparation medium) and the stoichiometry, gene associations and objective are unchanged, and every
 internal reaction has the bounds of the full model (`models/M_barkeri_model_iMG746.xml` and the
 full iCB925 reconstruction) instead of the flux caps (485 bounds changed in iCB925, 518 in iMG746).
-Two further differences: the ATPM bounds are those of the full model with the lower bound kept at 0
-((0, 300) to (0, 1000) in iCB925 and (0, 20) to (0, 2) in iMG746), and in iMG746 the uptake of HCO3-,
-SO3, N2 and H+ is closed (exchange lower bound 0) because no cell used it in the simulations of the
-cross-feeding example. These are the models used in the revised manuscript; the files and the
+Three further differences: the upper bound of the biomass reaction (0.35 per h in iCB925 and 0.05 per h
+in iMG746, set in the preparation) is removed, so growth is limited by the uptake only; the ATPM bounds
+are those of the full model with the lower bound kept at 0 ((0, 300) to (0, 1000) in iCB925 and (0, 20)
+to (0, 2) in iMG746); and in iMG746 the uptake of HCO3-, SO3, N2 and H+ is closed (exchange lower
+bound 0) because no cell used it in the simulations of the cross-feeding example. `prepare_models.py`
+generates these files (`model_trimming(..., cap_internal_bounds=False)` is the default). These are the models used in the revised manuscript; the files and the
 simulations that use them are archived with it (see the manuscript for the DOI).
 
 sha256 (first 12 characters): `C_beijerinckii_model_iCB925_trimmed.xml` 76c8741fbf4c,

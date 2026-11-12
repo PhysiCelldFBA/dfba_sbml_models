@@ -22,7 +22,16 @@ def correct_ids(model, pattern, fix):
     return model
 
 
-def model_trimming(model, eps_tolerance=1e-9, bound_scaling = 1.0):
+def model_trimming(model, eps_tolerance=1e-9, bound_scaling = 1.0, cap_internal_bounds=False):
+    """Remove the reactions that are blocked in the medium of `model`, the metabolites left without
+    reactions and the unconnected genes.
+
+    The bounds of the internal reactions are the ones of `model`. With cap_internal_bounds=True
+    (the behaviour of the first release of the trimmed models) every internal reaction is instead
+    bounded to its flux range in this medium, multiplied by bound_scaling; these caps restrict the
+    model in any other medium (iMG746: optimum 15.7% lower, 314 upper bounds cut from 1000 to below 1)
+    and are not used. The exchange reactions always take their flux range in this medium.
+    """
     cmodel = model.copy()
 
     fva_df = flux_variability_analysis(cmodel, processes=10, fraction_of_optimum=0.0)
@@ -63,17 +72,19 @@ def model_trimming(model, eps_tolerance=1e-9, bound_scaling = 1.0):
     
     print("Setting bounds")
     for rxn in cmodel.reactions:
-        rxn.lower_bound = float(fva_df.loc[rxn.id, 'minimum'])
-        rxn.upper_bound = float(fva_df.loc[rxn.id, 'maximum'])
+        is_exchange = rxn.id.startswith("EX") or rxn.id.startswith("ex")
+        if is_exchange or cap_internal_bounds:
+            rxn.lower_bound = float(fva_df.loc[rxn.id, 'minimum'])
+            rxn.upper_bound = float(fva_df.loc[rxn.id, 'maximum'])
 
-
-    for r in cmodel.reactions:
-        if r.id.startswith("EX") or r.id.startswith("ex"):
-            continue
-        if r.upper_bound > eps_tolerance:
-            r.upper_bound *= bound_scaling 
-        if r.lower_bound < -eps_tolerance:
-            r.lower_bound *= bound_scaling
+    if cap_internal_bounds:
+        for r in cmodel.reactions:
+            if r.id.startswith("EX") or r.id.startswith("ex"):
+                continue
+            if r.upper_bound > eps_tolerance:
+                r.upper_bound *= bound_scaling
+            if r.lower_bound < -eps_tolerance:
+                r.lower_bound *= bound_scaling
 
     return cmodel
 
