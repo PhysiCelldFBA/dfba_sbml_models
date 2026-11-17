@@ -137,6 +137,21 @@ The repository also includes the supplementary material from the original public
 
 ---
 
+## Licences and terms
+
+The code of this repository (`prepare_models.py`, `modules/`, `notebooks/`, `retrieve_models.sh`) is distributed under
+the BSD 2-Clause licence (`LICENSE`). The model files are **not** covered by that licence: each model is
+redistributed under the terms of its source, and the trimmed models are derivatives of the original ones.
+
+| Model | Source | Terms |
+| --- | --- | --- |
+| *E. coli* core and iML1515 | BiGG Models | BiGG Models licence (https://bigg.ucsd.edu/license): free for educational, research and non-profit use; commercial use requires permission from the University of California, San Diego. Cite the BiGG publication and the model paper. |
+| iCB925 | BioModels MODEL1507180034 | CC0 public-domain dedication (notice in the SBML file) |
+| iMG746 | Supporting Information of Gonnerman et al. 2013 | terms of the publication; no licence is stated in the file |
+| MCF7 core model and the cancer cell-line models | Supplementary Information of Zielinski et al. 2017 (Scientific Reports) | terms of the publication; no licence is stated in the files |
+
+Please cite the original publications listed above when using these models.
+
 ## Downloading the models
 
 The publicly available models can be downloaded automatically by running
